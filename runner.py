@@ -1,107 +1,76 @@
-# this is main file that will be used for running other files for DB connection, data processing
-import postgres_connection as pgs
-import price_mapping_automation_v1 as pmauto
-from datetime import datetime 
-import argparse, sys
-import logging
+import processor
+import BCS_SSMS_connector
+import mailer
 import os
-
-
-dbname = 'BCS_items'
-user = 'postgres'
-password = 'post@BCS'
-host = 'localhost' 
-port = '5432'  # Default PostgreSQL port is 5432
+import sys
+import argparse
+import pandas as pd
+import numpy as np
+import json
+import PGS_connector
+from datetime import datetime 
+import logging
 
 
 current_time = datetime.now()
-day = current_time.day
-month =  current_time.strftime("%b")
-year = current_time.year
+fcurrent_time = current_time.strftime("%Y-%m-%d-%H-%M-%S")
+log_file = os.path.join("D:\\Price_mapping_Automation\\Logging_information", f"Pricing_automation_runner_{fcurrent_time}")
+logging.basicConfig(filename=log_file, level=logging.DEBUG)
 
 
-table_name = "P21_companyreview"  # Replace with the actual table name
-output_file = f"D:\\Discrepancy files\\Price_matching_report_{day}_{month}_{year}.csv"  # Replace with the dedicated file path 
 
 
-def main(company_path, pricing_path):
 
-    filename = os.path.basename(company_path)
-    company_prefix_name = filename[0:3]
+def runner(suppliers):
 
-    mapper = pmauto.PBmapper()
-    company_df, pricing_df, folder_path = mapper.main(company_path, pricing_path, company_prefix_name)
 
-    """v2
-
-    parser = argparse.ArgumentParser(description= "Mapping company and pricing files")
-    parser.add_argument("--folder_path", help="Give the master folder path")
-    parser.add_argument("--company_json_path", help= "Give the finished list of companies json file path")
-    parser.add_argument("--new_loop", help= "Say if it is a new loop or a loop from middle")
-    args = parser.parse_args()
-
-    folder_path = args.folder_path
-    company_json_path = args.company_json_path
-    new_loop_check = args.new_loop
-
-    if new_loop_check == "yes":
-        with open(company_json_path, "w") as cjs:
-            data = {"Prefixes" : []}
-            json.dump(data, cjs, indent=4)
-
-    elif new_loop_check == "no":
-        continue
-    
-    else:
-        raise ValueError("Automation information not given!!")
-    
-    mapper = pmauto.PBmapper()
-    P21_files = mapper.main(folder_path, company_json_path)
-   
-    """
-
-    ### Not needed when running v2 automation
-
-    current_time = datetime.now()
-    fcurrent_time = current_time.strftime("%Y-%m-%d-%H-%M-%S")
-
-    company_df.to_excel(f"{folder_path}\\{company_prefix_name}_review_{fcurrent_time}.xlsx", index = False, engine='openpyxl')
-    pricing_df.to_excel(f"{folder_path}\\{company_prefix_name}_pricing_{fcurrent_time}.xlsx", index = False, engine='openpyxl')
-
-    logging.info("Files are saved in the located folder.")
-    logging.info(f"Files of {company_prefix_name} successfully processed and saved")
-
-    ### till here
-
+        
     current_time = datetime.now()
     day = current_time.day
-    month = current_time.strftime("%b")
+    month =  current_time.strftime("%b")
     year = current_time.year
 
-    # database table name and output file name
-    table_name = "P21_companyreview"
-    output_file = f"Price matching report {day}-{month}-{year}"
+
+    logging.info("The next process - process the data by sending in the suppliers file")
+
+    # get the process_flag to download the data from the db as a csv file
+    checkerob = processor.checker()
+    process_flag, connection = checkerob.main(suppliers)
+
+    logging.info(f"Processed the data for each suppliers - result {process_flag}")
+
+    table_name = ""
+    output_file = f"D:\\Replenishment_reports\\Replenishment_report_{day}_{month}_{year}.csv"
+
+    if process_flag == 1:
+
+        # download the data as a csv file
+        csv_file = PGS_connector.load_data_csv(connection, table_name, output_file)
+
+        logging.info("Loaded data from the database to local csv files")
+
+        # send in mails with the file as the attachment
+        #result = mailer.send_email(csv_file)
+        result = True
 
 
-    conn = pgs.connect_to_postgres(dbname, user, password, host, port)
-    pgs.read_data_into_table(conn, company_df)
-    pgs.export_table_to_csv(conn, table_name, output_file)
-    conn.close()
+    # runs only if the result is true- mails have been sent
+    if result:
+        print("Process finished - files saved!!")
 
-# get the inputs of the file paths and store it in the json file
 
 if __name__ == "__main__":
+    
+    parser = argparse.ArgumentParser(description= "Replenishment checks")
+    suppliers_file = parser.add_argument("--suppliers_file", help="Give the suppliers file")
 
-    parser = argparse.ArgumentParser(description= "Mapping company and pricing files")
-    parser.add_argument("--company_file_path", help="Give the company file path")
-    parser.add_argument("--pricing_file_path", help= "Give the pricing file path")
     args = parser.parse_args()
+    suppliers_file = args.suppliers_file
 
-
-    company_path = args.company_file_path
-    pricing_path = args.pricing_file_path
-
-    main(company_path, pricing_path)
-# use subprocess for running the scripts
-
-# after the run, save an empty json file. 
+    
+    """# open the suppliers file that has supplier ids
+    with open(suppliers_file, "r+") as sup_file:
+        suppliers = json.load(sup_file)
+"""
+    runner(suppliers_file)
+        

@@ -1,0 +1,3 @@
+﻿class_id1,class_id2,class_id3,distinct_skus,total_sold,total_sales,,,,,,,,,,,,,,,,
+location_id,location_name,inv_mast_uid,item_id,item_desc,on_vendor_price_book,product_type,primary_supplier_id,supplier_name,replenishment_method,replenishment_location,inv_min,inv_max,stockable,sellable,buy,qty_on_hand,track_bins,primary_bin,repl_loc_review,repl_meth_review,track_bin_review
+inv_mast_uid,item_id,weight,net_weight,height,width,length,no_of_lines,total_sales,last_price_update_supplier

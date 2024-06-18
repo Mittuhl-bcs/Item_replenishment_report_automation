@@ -12,7 +12,7 @@ def send_email(attachment_filename):
         sender_email = 'your_email@gmail.com'
         sender_password = 'your_password'
         receiver_emails = ['recipient1@example.com', 'recipient2@example.com', 'recipient3@example.com']
-        subject = 'Discrepency reports'
+        subject = 'Replenishment data - checked reports'
         body = 'Please find the attached CSV file.'
 
 
@@ -52,13 +52,13 @@ def send_email(attachment_filename):
 
         # Close the SMTP server
         server.quit()
-
+ 
         return True
 
     except Exception as e:
         raise ValueError(e)
 
 
-attachment_filename = 'example.csv'
+#attachment_filename = 'example.csv'
 
-send_email(attachment_filename)
+#send_email(attachment_filename)

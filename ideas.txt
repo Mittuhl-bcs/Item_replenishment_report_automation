@@ -1,0 +1,6 @@
+- connect to the SSMS and get the data for each of the companies
+- process the checks for each of the companies
+    - open a new database
+    - save the discrepancies in its specific table in the new database
+    - save the correct ones in a specific folder 
+- after the automation cycle compile and generate the csv file for each of the tables - discrepancy table and correct table

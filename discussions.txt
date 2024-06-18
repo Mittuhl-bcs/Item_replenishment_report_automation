@@ -1,0 +1,29 @@
+- product types - should "R"
+- replenishment = actual location
+- replenishment method  = MinMax, upto
+- if "MinMax" and stockable = y then inv_min, inv_max "should not" 0 
+- but in the case of "upto" and stockable = y, then it "should be" 0
+- buyable = n then stockable should not be y
+- if stockable = y then track bins = y and then primary bin should not be null
+- if stockable = n, and track bin = n, then qty on hand = 0
+    - if qty on hand > 0, then track bins = y, primary bin should not be null
+
+
+- single run i individual queries
+
+tip:
+- do this for each of the supplier individually to keep the load down
+    - include the where clause
+
+
+
+discussions on 17-06-24:
+- on_vendor_price_book on all the skus
+
+
+on the classes table:
+- lable rows as discrepancy if they have null values on columns on "class_id1" 
+
+
+Suggestions:
+- every report generated should have item_id in it. (it should be mapped with any other relevant information available)
