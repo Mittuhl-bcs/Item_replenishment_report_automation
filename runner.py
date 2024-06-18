@@ -14,7 +14,7 @@ import logging
 
 current_time = datetime.now()
 fcurrent_time = current_time.strftime("%Y-%m-%d-%H-%M-%S")
-log_file = os.path.join("D:\\Price_mapping_Automation\\Logging_information", f"Pricing_automation_runner_{fcurrent_time}")
+log_file = os.path.join("D:\\Replenishment_auotmation_scripts\\Logging_information", f"Pricing_automation_runner_{fcurrent_time}")
 logging.basicConfig(filename=log_file, level=logging.DEBUG)
 
 

@@ -11,7 +11,7 @@ import os
 
 current_time = datetime.now()
 fcurrent_time = current_time.strftime("%Y-%m-%d-%H-%M-%S")
-log_file = os.path.join("D:\\Price_mapping_Automation\\Logging_information", f"Processor_{fcurrent_time}")
+log_file = os.path.join("D:\\Replenishment_auotmation_scripts\\Logging_information", f"Processor_{fcurrent_time}")
 logging.basicConfig(filename=log_file, level=logging.DEBUG)
 
 
@@ -176,7 +176,7 @@ class checker:
             conn = PGS_connector.insert_data_into_db(df)
             
             # specify the file path to save the CSV file
-            csv_file_path = f"D:\\MicrosoftSQL_server_connection\\data_temp\\{prefix}_{cname}_data.csv"
+            csv_file_path = f"D:\\Replenishment_auotmation_scripts\\data_temp\\{prefix}_{cname}_data.csv"
 
             files_saved.append(csv_file_path)
 
