@@ -42,6 +42,8 @@ def runner(suppliers):
     table_name = "replenishment_items"
     output_file = f"D:\\Replenishment_reports\\Replenishment_report_{day}_{month}_{year}.csv"
 
+
+
     if process_flag == 1:
 
         # get the connection variable

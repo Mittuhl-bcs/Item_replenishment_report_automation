@@ -142,8 +142,14 @@ def load_data_csv(connection, table_name, output_file):
         raise ValueError
 
     finally:
-        cursor.close()
-        connection.close()
+
+        if cursor:
+            cursor.close()
+        
+        if connection:
+            connection.close()
+
+        logging.info("Database connection and curson closed")
     # if needed
     # connection.close()
 

@@ -9,11 +9,11 @@ def send_email(attachment_filename):
 
     try:
         # credentials for usage
-        sender_email = 'your_email@gmail.com'
-        sender_password = 'your_password'
-        receiver_emails = ['recipient1@example.com', 'recipient2@example.com', 'recipient3@example.com']
+        sender_email = 'mithul.murugaadev@building-controls.com'
+        sender_password = 'ZK!2DsLtKrAxRs'
+        receiver_emails = ['mithul.murugaadev@building-controls.com']
         subject = 'Replenishment data - checked reports'
-        body = 'Please find the attached CSV file.'
+        body = 'Replenishment discrepancy data is generated and the same file is shared through this mail. Please find the attached CSV file.'
 
 
         # Set up the MIME
