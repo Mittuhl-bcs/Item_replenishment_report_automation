@@ -39,7 +39,7 @@ def runner(suppliers):
 
     logging.info(f"Processed the data for each suppliers - result {process_flag}")
 
-    table_name = ""
+    table_name = "replenishment_items"
     output_file = f"D:\\Replenishment_reports\\Replenishment_report_{day}_{month}_{year}.csv"
 
     if process_flag == 1:

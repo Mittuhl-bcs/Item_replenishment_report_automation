@@ -50,6 +50,9 @@ def insert_data_into_db(df):
     cursor = conn.cursor()
 
 
+    logging.info("Connected to PGS database, now will insert the data.")
+
+
     # insert into table command in here
     df = df[df["discrepancy_type"] != "All right"]
 
@@ -83,7 +86,7 @@ def insert_data_into_db(df):
         # Assuming you have a table named "replenishment" with corresponding columns
         # Construct the SQL INSERT statement
         sql = """
-        INSERT INTO replenishment (location_id, location_name, inv_mast_uid, item_id, item_desc,
+        INSERT INTO replenishment_items (location_id, location_name, inv_mast_uid, item_id, item_desc,
                                     on_vendor_price_book, product_type, primary_supplier_id, supplier_name,
                                     replenishment_method, replenishment_location, inv_min, inv_max,
                                     stockable, sellable, buy, qty_on_hand, track_bins, primary_bin,

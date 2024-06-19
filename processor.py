@@ -177,18 +177,24 @@ class checker:
             df = checker.modifier(df)
             df = checkerob.do_checks(df)
 
-            
+            logging.info("Checking process over.")
+
             # instead of saving it into csv files, do the insert command to db
             # getting the connection for pgs and not the ssms database
             conn = PGS_connector.insert_data_into_db(df)
             
+
+            logging.info("Processed data successfully inserted into PGS database")
+
             # specify the file path to save the CSV file
             csv_file_path = f"D:\\Replenishment_auotmation_scripts\\data_temp\\{prefix}_{cname}_data.csv"
 
             files_saved.append(csv_file_path)
 
             # save the df to csv files
-            df.to_csv(csv_file_path)
+            df.to_csv(csv_file_path, index = False)
+
+            logging.info(f"Df saved as csv file : {csv_file_path}")
 
             process_flag = 1
 
