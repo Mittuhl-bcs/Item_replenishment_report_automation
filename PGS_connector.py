@@ -84,13 +84,13 @@ def insert_data_into_db(df):
         # Construct the SQL INSERT statement
         sql = """
         INSERT INTO replenishment (location_id, location_name, inv_mast_uid, item_id, item_desc,
-                                on_vendor_price_book, product_type, primary_supplier_id, supplier_name,
-                                replenishment_method, replenishment_location, inv_min, inv_max,
-                                stockable, sellable, buy, qty_on_hand, track_bins, primary_bin,
-                                repl_loc_review, repl_meth_review, track_bin_review, discrepancy_type)
-        VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                                    on_vendor_price_book, product_type, primary_supplier_id, supplier_name,
+                                    replenishment_method, replenishment_location, inv_min, inv_max,
+                                    stockable, sellable, buy, qty_on_hand, track_bins, primary_bin,
+                                    repl_loc_review, repl_meth_review, track_bin_review, discrepancy_type)
+        VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
         """
-        
+
         # Execute the INSERT statement with the values from the current row
         cursor.execute(sql, (location_id, location_name, inv_mast_uid, item_id, item_desc,
                             on_vendor_price_book, product_type, primary_supplier_id, supplier_name,
