@@ -81,12 +81,8 @@ class checker:
 
             elif df.loc[index, "replenishment_method"] == "MinMax" and df.loc[index, "stockable"] == "Y":
 
-                if df.loc[index, "inv_min"] == 0:
-                    discrepancy_types.append("Inv_min")
-                    discrepancy_flag = 1
-
-                if df.loc[index, "inv_max"] == 0:
-                    discrepancy_types.append("Inv_max")
+                if df.loc[index, "inv_min"] == 0 and df.loc[index, "inv_max"] == 0:
+                    discrepancy_types.append("Inv_min & inv_max")
                     discrepancy_flag = 1
 
             elif df.loc[index, "replenishment_method"] == "upto" and df.loc[index, "stockable"] == "Y":

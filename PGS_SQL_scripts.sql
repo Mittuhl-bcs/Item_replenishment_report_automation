@@ -14,7 +14,7 @@ CREATE TABLE replenishment_items (
     inv_max integer,
     stockable varchar(60),
     sellable varchar(60),
-    buy varchar(60),
+    buyable varchar(60),
     qty_on_hand integer,
     track_bins varchar(60),
     primary_bin varchar(60),

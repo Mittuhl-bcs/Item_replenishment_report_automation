@@ -27,3 +27,10 @@ on the classes table:
 
 Suggestions:
 - every report generated should have item_id in it. (it should be mapped with any other relevant information available)
+
+
+
+
+suggestions:
+- each csv file for each discrepancy type (groups) for each data tables
+ 
