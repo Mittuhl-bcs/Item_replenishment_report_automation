@@ -16,7 +16,14 @@ logging.basicConfig(filename=log_file, level=logging.DEBUG)
 
 
 # Connect to your PostgreSQL database
-def connect_to_postgres(dbname, user, password, host, port):
+def connect_to_postgres():
+
+    dbname = 'BCS_items'
+    user = 'postgres'
+    password = 'post@BCS'
+    host = 'localhost' 
+    port = '5432'  # Default PostgreSQL port is 5432
+
     try:
         conn = psycopg2.connect(
             dbname=dbname,
@@ -31,21 +38,15 @@ def connect_to_postgres(dbname, user, password, host, port):
     except psycopg2.Error as e:
         logging.error("Unable to connect to the database")
         logging.error(e)
+
+        raise ValueError(e)   
         return None
 
 
 
-def insert_data_into_db(df):
+def insert_data_into_db(df, conn):
 
-    dbname = 'BCS_items'
-    user = 'postgres'
-    password = 'post@BCS'
-    host = 'localhost' 
-    port = '5432'  # Default PostgreSQL port is 5432
-
-
-    conn = connect_to_postgres(dbname, user, password, host, port)
-
+    
     # mapping the curson through connection
     cursor = conn.cursor()
 
@@ -56,7 +57,7 @@ def insert_data_into_db(df):
     # insert into table command in here
     df = df[df["discrepancy_type"] != "All right"]
 
-
+    
     # declare variables here
     for index, row in df.iterrows():
         location_id = row['location_id']
@@ -74,42 +75,59 @@ def insert_data_into_db(df):
         inv_max = row['inv_max']
         stockable = row['stockable']
         sellable = row['sellable']
-        buy = row['buy']
+        buyable = row['buy']
         qty_on_hand = row['qty_on_hand']
         track_bins = row['track_bins']
         primary_bin = row['primary_bin']
         repl_loc_review = row['repl_loc_review']
         repl_meth_review = row['repl_meth_review']
         track_bin_review = row['track_bin_review']
+        prefix = row["Prefix_of_company"]
         discrepancy_type = row["discrepancy_type"]
         
+        #print(f"This is the row data: {buyable}")
+
         # Assuming you have a table named "replenishment" with corresponding columns
         # Construct the SQL INSERT statement
-        sql = """
-        INSERT INTO replenishment_items (location_id, location_name, inv_mast_uid, item_id, item_desc,
-                                    on_vendor_price_book, product_type, primary_supplier_id, supplier_name,
-                                    replenishment_method, replenishment_location, inv_min, inv_max,
-                                    stockable, sellable, buy, qty_on_hand, track_bins, primary_bin,
-                                    repl_loc_review, repl_meth_review, track_bin_review, discrepancy_type)
-        VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
-        """
 
-        # Execute the INSERT statement with the values from the current row
-        cursor.execute(sql, (location_id, location_name, inv_mast_uid, item_id, item_desc,
-                            on_vendor_price_book, product_type, primary_supplier_id, supplier_name,
-                            replenishment_method, replenishment_location, inv_min, inv_max,
-                            stockable, sellable, buy, qty_on_hand, track_bins, primary_bin,
-                            repl_loc_review, repl_meth_review, track_bin_review, discrepancy_type))
+        try:
+            sql = """
+            INSERT INTO replenishment_items (location_id, location_name, inv_mast_uid, item_id, item_desc,
+                                        on_vendor_price_book, product_type, primary_supplier_id, supplier_name,
+                                        replenishment_method, replenishment_location, inv_min, inv_max,
+                                        stockable, sellable, buyable, qty_on_hand, track_bins, primary_bin,
+                                        repl_loc_review, repl_meth_review, track_bin_review, prefix, discrepancy_type)
+            VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+            """
 
-        
+            # Execute the INSERT statement with the values from the current row
+            cursor.execute(sql, (location_id, location_name, inv_mast_uid, item_id, item_desc,
+                                on_vendor_price_book, product_type, primary_supplier_id, supplier_name,
+                                replenishment_method, replenishment_location, inv_min, inv_max,
+                                stockable, sellable, buyable, qty_on_hand, track_bins, primary_bin,
+                                repl_loc_review, repl_meth_review, track_bin_review, prefix, discrepancy_type))
 
-    cursor.close()
+            
+            # Commit the transaction to persist the changes
+            conn.commit()
 
-    return conn
+        except psycopg2.Error as e:
+            conn.rollback()  # Rollback any changes if an error occurs
+            print(f"Error inserting data into database: {e}")
+
+            raise ValueError(e)
+
+        #finally:
+            #cursor.close()
+
+    
+    # returns true only if successful
+    return True
 
 
 
 def load_data_csv(connection, table_name, output_file):
+
 
     try:
         cursor = connection.cursor()
@@ -123,6 +141,9 @@ def load_data_csv(connection, table_name, output_file):
 
         raise ValueError
 
+    finally:
+        cursor.close()
+        connection.close()
     # if needed
     # connection.close()
 

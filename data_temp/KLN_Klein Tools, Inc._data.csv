@@ -1,0 +1,396 @@
+location_id,location_name,inv_mast_uid,item_id,item_desc,on_vendor_price_book,product_type,primary_supplier_id,supplier_name,replenishment_method,replenishment_location,inv_min,inv_max,stockable,sellable,buy,qty_on_hand,track_bins,primary_bin,repl_loc_review,repl_meth_review,track_bin_review,discrepancy_type,Prefix_of_company
+10510.0,Minneapolis,515705,KLN-TI290,Klein Thermal Imager,N,R,168933.0,"Klein Tools, Inc.",Min/Max,10510.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+10520.0,St Paul,303075,70035,Klein magnetic screwdriverW/4 interchang,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,10520.0,1.0,2.0,Y,Y,Y,0.0,N,,N,N,Y,Replenishment method,KLN
+10520.0,St Paul,303077,701-S,Klein hacksaw W/12 bladehacksaw blade,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,10520.0,0.0,1.0,Y,Y,Y,0.0,N,,N,N,Y,Replenishment method,KLN
+10520.0,St Paul,302602,KLN-31902,Klein Bi-metal hole saw kit8-piece,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,10520.0,0.0,1.0,Y,Y,Y,1.0,N,,N,N,Y,Replenishment method,KLN
+10520.0,St Paul,115660,KLN-32304,14-in-1 HVAC Adjustable-Length Impact S,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,10520.0,0.0,1.0,Y,Y,Y,1.0,N,,N,N,Y,Replenishment method,KLN
+10520.0,St Paul,98617,KLN-55421BP14,Tradesman Pro Organizer Backpack,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,10520.0,0.0,1.0,Y,Y,Y,1.0,N,,N,N,Y,Replenishment method,KLN
+10520.0,St Paul,302939,KLN-55485,Klein pro tool masterbackpack,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,10520.0,0.0,1.0,Y,Y,Y,0.0,N,,N,N,Y,Replenishment method,KLN
+10520.0,St Paul,302993,KLN-6074,Klein cabinet tip screwdrivermini cushio,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,10520.0,2.0,4.0,Y,Y,Y,3.0,N,,N,N,Y,Replenishment method,KLN
+10520.0,St Paul,98922,KLN-68244,"3pc RtchSet; 1/4,5/16,3/8,7/16,5/8,9",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,10520.0,1.0,2.0,Y,Y,Y,0.0,N,,N,N,Y,Replenishment method,KLN
+10520.0,St Paul,303044,KLN-68245,"Klein ratcheting offset boxwrench, rever",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,10520.0,0.0,1.0,Y,Y,Y,0.0,N,,N,N,Y,Replenishment method,KLN
+10520.0,St Paul,303275,KLN-9225,"25 Ft. Double Hook, Magnetic Tape Measu",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,10520.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+10520.0,St Paul,304022,KLN-D200048,Klein ultra-durable cutter8 hi-leverage,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,10520.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+10520.0,St Paul,100533,KLN-D5098,"8"" ADJ WRENCH Wide Opening",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,10520.0,2.0,4.0,Y,Y,Y,3.0,N,,N,N,Y,Replenishment method,KLN
+10770.0,Nashville,98032,KLN-1009,Long-Nose Multi-Purpose Tool,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,10770.0,2.0,4.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+10770.0,Nashville,99572,KLN-11055,Klein-Kurve Wire Stripper/Cutter  Soli,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,10770.0,2.0,4.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+10770.0,Nashville,98152,KLN-2005N,Forged Crimper,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,10770.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+10770.0,Nashville,115660,KLN-32304,14-in-1 HVAC Adjustable-Length Impact S,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,10770.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+10770.0,Nashville,410296,KLN-32307,27-in-1 Tamperproof Screwdriver,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,10770.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+10770.0,Nashville,104043,KLN-32308,8-in-1 Adjustable Length Stubby Driver,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,10770.0,2.0,4.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+10770.0,Nashville,98461,KLN-32527,11-in-1 Screwdriver/Nut Driver with Sch,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,10770.0,3.0,6.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+10770.0,Nashville,108453,KLN-32593,6-in-1 Ratcheting Stubby Screwdriver,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,10770.0,3.0,6.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+10770.0,Nashville,98469,KLN-32596,8-in-1 HVAC Slide Drive Screwdriver/Nut,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,10770.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+10770.0,Nashville,98470,KLN-32614,4-in-1 Electronic Screwdriver w/Pocket,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,10770.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+10770.0,Nashville,490736,KLN-32910,7-IN-1 FLIP SOCKET WITH HAND SUPERSEDED,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,10770.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+10770.0,Nashville,516281,KLN-32933,7-IN-1 IMPACT FLIP SOCKET,N,R,168933.0,"Klein Tools, Inc.",Min/Max,10770.0,0.0,0.0,N,Y,Y,2.0,N,0,N,N,Y,Replenishment method,KLN
+10770.0,Nashville,109801,KLN-50550,"Glow Fish Tape, 20-Foot",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,10770.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+10770.0,Nashville,302937,KLN-554161014,Tradesman Pro 10-Inch Tote,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,10770.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+10770.0,Nashville,98642,KLN-56048,RECH HEADLAMP FABR STRAP 400L,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,10770.0,3.0,6.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+10770.0,Nashville,98654,KLN-56403,Rechargeable Personal Worklight,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,10770.0,3.0,6.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+10770.0,Nashville,108010,KLN-56411,Rechargeable Waterproof LED Pocket Ligh,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,10770.0,3.0,6.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+10770.0,Nashville,108011,KLN-56412,Rechargeable LED Flashlight with Workli,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,10770.0,3.0,6.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+10770.0,Nashville,302965,KLN-6004,"1/4"" (6 mm) Keystone-Tip Screwdriver",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,10770.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+10770.0,Nashville,410298,KLN-60135,Tradesman Pro Standard Kneeling Pad,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,10770.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+10770.0,Nashville,106185,KLN-6034,"#2 Phillips Screwdriver  4"" (102 mm) R",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,10770.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+10770.0,Nashville,410299,KLN-60344,Hinged Gel Knee Pads,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,10770.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+10770.0,Nashville,410300,KLN-60511,"Heavy Duty Knee Pad Sleeves, M/L",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,10770.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+10770.0,Nashville,99719,KLN-6056,5/16 Keystone Tip Screwdriver 6 Lengt,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,10770.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+10770.0,Nashville,410301,KLN-60611,"Heavy Duty Knee Pad Sleeves, L/XL",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,10770.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+10770.0,Nashville,410446,KLN-62800BP,KLEIN TRADESMAN BACKPACK,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,10770.0,0.0,0.0,N,Y,Y,2.0,N,0,N,N,Y,Replenishment method,KLN
+10770.0,Nashville,98887,KLN-64614M,"1/4"" Magnetic Tip Nut Driver  6"" Holl",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,10770.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+10770.0,Nashville,98888,KLN-64638M,3/8 Magnetic Tip Nut Driver 6 Shaft,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,10770.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+10770.0,Nashville,98889,KLN-646516M,"5/16"" Magnetic Tip Nut Driver  6"" Hol",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,10770.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+10770.0,Nashville,98890,KLN-646M,"Magnetic Tip Nut Driver Set - 6"" Hollo",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,10770.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+10770.0,Nashville,104045,KLN-65200,"Slim-Profile Mini Ratchet Set, 5-Piece",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,10770.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+10770.0,Nashville,303275,KLN-9225,"25 Ft. Double Hook, Magnetic Tape Measu",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,10770.0,2.0,4.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+10770.0,Nashville,297768,KLN-CL445,HVAC Clamp Meter,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,10770.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+10770.0,Nashville,106422,KLN-D2038,"Pliers, Long Nose Side-Cutters, 8-Inch",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,10770.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+10770.0,Nashville,410302,KLN-D2139NE,"9"" (229 mm) High-Leverage Side-Cutting",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,10770.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+10770.0,Nashville,410303,KLN-D2488,"8"" (203 mm) High-Leverage Diagonal-Cut",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,10770.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+10770.0,Nashville,304028,KLN-D50410B,"10"" (254 mm) Quick-Adjust Klaw Pump P",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,10770.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+10770.0,Nashville,304029,KLN-D50710,"Adjustable Wrench Extra Capacity, 10-In",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,10770.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+10770.0,Nashville,410304,KLN-D53010,10 Plier Wrench,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,10770.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+10770.0,Nashville,100543,KLN-D86930,2-in-1 Reversible Adj. Pipe Wrench,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,10770.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+10770.0,Nashville,410305,KLN-D86932,"Slim-Jaw Adjustable Wrench, 4-Inch",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,10770.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+10770.0,Nashville,410306,KLN-D86934,"Slim-Jaw Adjustable Wrench, 6-Inch",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,10770.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+10770.0,Nashville,100544,KLN-D86936,Slim Jaw Adj Wrench 8,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,10770.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+10770.0,Nashville,410307,KLN-ET10,Digital Pocket Thermometer,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,10770.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+10770.0,Nashville,101342,KLN-J2078CR,All-Purpose Pliers W/ Crimper,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,10770.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+10770.0,Nashville,102020,KLN-NCVT4IR,Non-Contact Voltage Tester with IR Lase,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,10770.0,2.0,4.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+166553.0,Austin,99568,KLN-1019,Klein Kurve Wire Stripper & Crimper,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166553.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,KLN
+166553.0,Austin,99654,KLN-31872,"4pc Carbide kit, 7/8"", 1-1/8"", 1-3/8",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166553.0,0.0,0.0,N,Y,Y,4.0,N,,N,N,Y,Replenishment method,KLN
+166553.0,Austin,104046,KLN-32303,"14-n-1 Adj-length driver, impact-rated",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166553.0,0.0,0.0,N,Y,Y,5.0,N,,N,N,Y,Replenishment method,KLN
+166553.0,Austin,115660,KLN-32304,14-in-1 HVAC Adjustable-Length Impact S,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166553.0,0.0,0.0,N,Y,Y,3.0,N,,N,N,Y,Replenishment method,KLN
+166553.0,Austin,104042,KLN-32314,Klein 14-n-1 Precision scrw/nut driver,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166553.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+166553.0,Austin,98443,KLN-32398,"Rplcmnt #1 Phil, 1/4"" Slotted",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166553.0,0.0,0.0,N,Y,Y,4.0,N,,N,N,Y,Replenishment method,KLN
+166553.0,Austin,98451,KLN-32482,"REPLACEMENT BIT, #1 PH X 3/16 SLOTD",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166553.0,0.0,0.0,Y,Y,Y,5.0,Y,KLEIN,N,Y,N,Replenishment method,KLN
+166553.0,Austin,98456,KLN-32500MAG,11-in-1 Magnetic screw/nut driver,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166553.0,0.0,0.0,Y,Y,Y,0.0,Y,KLEIN,N,Y,N,Replenishment method,KLN
+166553.0,Austin,288231,KLN-32535,Klein 10 in 1 screw/nutdriver10-Fold bla,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166553.0,0.0,0.0,N,Y,Y,5.0,N,,N,N,Y,Replenishment method,KLN
+166553.0,Austin,98463,KLN-32556,INTERCHANGEABLE BIT HOLDER,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166553.0,0.0,0.0,Y,Y,Y,5.0,Y,KLEIN,N,Y,N,Replenishment method,KLN
+166553.0,Austin,98466,KLN-32559,Extended-reach multi-bit screw/nut d,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166553.0,0.0,0.0,Y,Y,Y,0.0,Y,KLEIN,N,Y,N,Replenishment method,KLN
+166553.0,Austin,98468,KLN-32581,4-in-1 Precision screwdriver,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166553.0,0.0,0.0,Y,Y,Y,1.0,Y,KLEIN,N,Y,N,Replenishment method,KLN
+166553.0,Austin,98469,KLN-32596,8-in-1 HVAC Slide Drive Screwdriver/Nut,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166553.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,KLN
+166553.0,Austin,98470,KLN-32614,4-in-1 Electronic Screwdriver w/Pocket,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166553.0,0.0,0.0,Y,Y,Y,0.0,Y,KLEIN,N,Y,N,Replenishment method,KLN
+166553.0,Austin,98475,KLN-32807MAG,7-in-1 Nut Driver,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166553.0,0.0,0.0,Y,Y,Y,2.0,Y,KLEIN,N,Y,N,Replenishment method,KLN
+166553.0,Austin,347825,KLN-44052BLK,Tanto Lockback Knife 2-1/2-Inch Blade,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166553.0,0.0,0.0,N,Y,Y,4.0,N,,N,N,Y,Replenishment method,KLN
+166553.0,Austin,109801,KLN-50550,"Glow Fish Tape, 20-Foot",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166553.0,0.0,0.0,N,Y,Y,5.0,N,,N,N,Y,Replenishment method,KLN
+166553.0,Austin,289936,KLN-50660,40' Glow Fish tape,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166553.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,KLN
+166553.0,Austin,347696,KLN-50900R,3pc Locknut Wrench Set,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166553.0,0.0,0.0,N,Y,Y,6.0,N,,N,N,Y,Replenishment method,KLN
+166553.0,Austin,98597,KLN-5139PAD,"Klein, padded zipper Bag 12.5""x7""",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166553.0,0.0,0.0,Y,Y,Y,9.0,Y,KLEIN,N,Y,N,Replenishment method,KLN
+166553.0,Austin,99677,KLN-5140,5140 ZIPPER CANVAS BAG,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166553.0,0.0,0.0,Y,Y,Y,4.0,Y,KLEIN,N,Y,N,Replenishment method,KLN
+166553.0,Austin,99679,KLN-5188,Knife/scissor holder,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166553.0,0.0,0.0,Y,Y,Y,0.0,Y,KLEIN,N,Y,N,Replenishment method,KLN
+166553.0,Austin,98627,KLN-55912,Klein Click-Lock Piping pouch,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166553.0,0.0,0.0,N,Y,Y,3.0,N,,N,N,Y,Replenishment method,KLN
+166553.0,Austin,98628,KLN-55913,Klein Click-Lock Open Pouch,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166553.0,0.0,0.0,N,Y,Y,3.0,N,,N,N,Y,Replenishment method,KLN
+166553.0,Austin,98630,KLN-55917,Klein Click-Lock Drill Holster,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166553.0,0.0,0.0,N,Y,Y,3.0,N,,N,N,Y,Replenishment method,KLN
+166553.0,Austin,98632,KLN-55919,"Klein Click-Lock Tool belt, LG",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166553.0,0.0,0.0,N,Y,Y,3.0,N,,N,N,Y,Replenishment method,KLN
+166553.0,Austin,98633,KLN-55920,Klein Click-Lock Tool belt EX-LG,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166553.0,0.0,0.0,N,Y,Y,3.0,N,,N,N,Y,Replenishment method,KLN
+166553.0,Austin,98634,KLN-55921,Klein Click-Lock Wall rack,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166553.0,0.0,0.0,N,Y,Y,3.0,N,,N,N,Y,Replenishment method,KLN
+166553.0,Austin,98654,KLN-56403,Rechargeable Personal Worklight,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166553.0,0.0,0.0,Y,Y,Y,8.0,Y,KLEIN,N,Y,N,Replenishment method,KLN
+166553.0,Austin,104535,KLN-60388,Klein heavy knit cap,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166553.0,0.0,0.0,N,Y,Y,3.0,N,,N,N,Y,Replenishment method,KLN
+166553.0,Austin,301966,KLN-6083,"SCRWDRVR MINI CUSHION-GRIP 1/8"" 3""",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166553.0,0.0,0.0,N,Y,Y,3.0,N,,N,N,Y,Replenishment method,KLN
+166553.0,Austin,302994,KLN-6086,Klein cabinet tip screwdrivermini cushio,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166553.0,0.0,0.0,Y,Y,Y,2.0,N,,N,Y,Y,Replenishment method,KLN
+166553.0,Austin,104045,KLN-65200,"Slim-Profile Mini Ratchet Set, 5-Piece",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166553.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+166553.0,Austin,98952,KLN-69406,"Small Klein case, padded",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166553.0,0.0,0.0,N,Y,Y,3.0,N,,N,N,Y,Replenishment method,KLN
+166553.0,Austin,98953,KLN-69407,"Medium Klein case, padded",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166553.0,0.0,0.0,N,Y,Y,3.0,N,,N,N,Y,Replenishment method,KLN
+166553.0,Austin,99060,KLN-88910,"1/8 TO 5/8 OD TUBE CUTTER, COPPER/AL",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166553.0,0.0,0.0,N,Y,Y,5.0,N,,N,N,Y,Replenishment method,KLN
+166553.0,Austin,115285,KLN-93LDM100C,LASER DISTANCE MEASURE 100FT,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166553.0,0.0,0.0,N,Y,Y,3.0,N,,N,N,Y,Replenishment method,KLN
+166553.0,Austin,297768,KLN-CL445,HVAC Clamp Meter,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166553.0,0.0,0.0,N,Y,Y,3.0,N,,N,N,Y,Replenishment method,KLN
+166553.0,Austin,304024,KLN-D2036,Klein side cutter6-5/8 long nose,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166553.0,0.0,0.0,N,Y,Y,3.0,N,,N,N,Y,Replenishment method,KLN
+166553.0,Austin,100515,KLN-D2755,"Diagonal Cutting Pliers 5""",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166553.0,0.0,0.0,Y,Y,Y,4.0,Y,KLEIN,N,Y,N,Replenishment method,KLN
+166553.0,Austin,100531,KLN-D5064,"D506-4 4"" ADJUSTABLE WRENCH",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166553.0,0.0,0.0,Y,Y,Y,5.0,Y,KLEIN,N,Y,N,Replenishment method,KLN
+166553.0,Austin,410163,KLN-D5076,ADJUSTABLE WRENCH,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166553.0,0.0,0.0,Y,Y,Y,9.0,Y,KLEIN,N,Y,N,Replenishment method,KLN
+166553.0,Austin,100533,KLN-D5098,"8"" ADJ WRENCH Wide Opening",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166553.0,0.0,0.0,Y,Y,Y,4.0,Y,KLEIN,N,Y,N,Replenishment method,KLN
+166553.0,Austin,304032,KLN-D5116,Klein slip joint plier6,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166553.0,0.0,0.0,N,Y,Y,6.0,N,,N,N,Y,Replenishment method,KLN
+166553.0,Austin,410305,KLN-D86932,"Slim-Jaw Adjustable Wrench, 4-Inch",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166553.0,0.0,0.0,N,Y,Y,3.0,N,,N,N,Y,Replenishment method,KLN
+166553.0,Austin,100544,KLN-D86936,Slim Jaw Adj Wrench 8,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166553.0,0.0,0.0,N,Y,Y,7.0,N,,N,N,Y,Replenishment method,KLN
+166553.0,Austin,100793,KLN-ET05,"Digi Pkt Therm, -40 to 482F",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166553.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,KLN
+166553.0,Austin,114445,KLN-ET180,Klein Digital Manometer,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166553.0,0.0,0.0,N,Y,Y,5.0,N,,N,N,Y,Replenishment method,KLN
+166553.0,Austin,100795,KLN-ET310,Digital Circuit Brkr/GCFI outlet tes,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166553.0,0.0,0.0,N,Y,Y,12.0,N,,N,N,Y,Replenishment method,KLN
+166553.0,Austin,101336,KLN-J200048,"Jrnyman diag-cut, angled Heavy Duty",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166553.0,0.0,0.0,N,Y,Y,7.0,N,,N,N,Y,Replenishment method,KLN
+166553.0,Austin,101337,KLN-J20009NE,"9"" SIDE CUTTING PLIERS",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166553.0,0.0,0.0,N,Y,Y,6.0,N,,N,N,Y,Replenishment method,KLN
+166553.0,Austin,101339,KLN-J2036,J203-6 STD LONG NOSED PLIERS,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166553.0,0.0,0.0,Y,Y,Y,6.0,Y,KLEIN,N,Y,N,Replenishment method,KLN
+166553.0,Austin,101340,KLN-J2038N,"LngNse 8 5/16"" Jrnyman w/strippr/cut",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166553.0,0.0,0.0,N,Y,Y,3.0,N,,N,N,Y,Replenishment method,KLN
+166553.0,Austin,101341,KLN-J2068C,All Purpose Plier & Wire  Stripper,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166553.0,0.0,0.0,Y,Y,Y,0.0,Y,KLEIN,N,Y,N,Replenishment method,KLN
+166553.0,Austin,101342,KLN-J2078CR,All-Purpose Pliers W/ Crimper,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166553.0,0.0,0.0,Y,Y,Y,0.0,Y,KLEIN,N,Y,N,Replenishment method,KLN
+166553.0,Austin,124077,KLN-J2159CRTP,Hybrid Pliers/cut/Strip/Fish Tape Puller,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166553.0,0.0,0.0,N,Y,Y,7.0,N,,N,N,Y,Replenishment method,KLN
+166553.0,Austin,101345,KLN-J2288,J228-8 8in DIAG CUTTING PLIERS,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166553.0,0.0,0.0,Y,Y,Y,3.0,Y,KLEIN,N,Y,N,Replenishment method,KLN
+166553.0,Austin,101554,KLN-KTSB03,STEP DRILL BIT #03 - 2 FLUTES,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166553.0,0.0,0.0,Y,Y,Y,3.0,Y,KLEIN,N,Y,N,Replenishment method,KLN
+166553.0,Austin,101555,KLN-KTSB11,STEP UNIBIT # 11 repl 59011,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166553.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,KLN
+166553.0,Austin,101557,KLN-KTSB15,"Step Bit, 2-flute, 3/16"" - 7/8"" - 1-",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166553.0,0.0,0.0,Y,Y,Y,3.0,Y,KLEIN,N,Y,N,Replenishment method,KLN
+166553.0,Austin,101738,KLN-MAG2,Magnetizer/Demag Key Ring,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166553.0,0.0,0.0,Y,Y,Y,2.0,Y,KLEIN,N,Y,N,Replenishment method,KLN
+166553.0,Austin,104047,KLN-NCVT3P,"Non-Contact 12-1000VAC, w/Flashlight",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166553.0,0.0,0.0,Y,Y,Y,0.0,N,,N,Y,Y,Replenishment method,KLN
+166553.0,Austin,102258,KLN-PJSFM1,"Portable Jobsite fan, rechargable",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166553.0,0.0,0.0,Y,Y,Y,10.0,Y,KLEIN,N,Y,N,Replenishment method,KLN
+166553.0,Austin,103165,KLN-VDV226011SEN,RJ45/CAT5e/6/6A Crimp tool,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166553.0,0.0,0.0,Y,Y,Y,2.0,Y,KLEIN,N,Y,N,Replenishment method,KLN
+166553.0,Austin,103166,KLN-VDV226110,Ratcheting Cable Crimper / Stripper,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166553.0,0.0,0.0,Y,Y,Y,0.0,Y,KLEIN,N,Y,N,Replenishment method,KLN
+166553.0,Austin,288246,KLN-VDV526200,"LAN Scout Jr. 2 Cable Tester, RJ45",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166553.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,KLN
+166553.0,Austin,106805,KLN-VDV826703,PASS THRU MODULAR DATA PLUGS,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166553.0,0.0,0.0,N,Y,Y,8.0,N,,N,N,Y,Replenishment method,KLN
+166553.0,Austin,103172,KLN-VDV826762,"Pass-Thru™ Mod Data Plugs, CAT5e, 20",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166553.0,0.0,0.0,Y,Y,Y,1.0,Y,KLEIN,N,Y,N,Replenishment method,KLN
+166557.0,Dallas,104046,KLN-32303,"14-n-1 Adj-length driver, impact-rated",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166557.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,KLN
+166557.0,Dallas,98475,KLN-32807MAG,7-in-1 Nut Driver,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166557.0,0.0,0.0,N,Y,Y,4.0,N,,N,N,Y,Replenishment method,KLN
+166559.0,Houston,511868,50254,"Multi-flex Glow Rod set, 25'",N,T,168933.0,"Klein Tools, Inc.",Min/Max,166559.0,0.0,0.0,N,Y,Y,3.0,N,,N,N,Y,Replenishment method,KLN
+166559.0,Houston,275963,56401,"Fish Rod carrying Bag, 4' - 6' length",Y,T,168933.0,"Klein Tools, Inc.",Min/Max,166559.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+166559.0,Houston,410415,KLN-32500HD,Klein 11 in 1 Impact rated screwdriver,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166559.0,0.0,0.0,N,Y,Y,4.0,N,,N,N,Y,Replenishment method,KLN
+166559.0,Houston,288231,KLN-32535,Klein 10 in 1 screw/nutdriver10-Fold bla,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166559.0,0.0,0.0,N,Y,Y,6.0,N,,N,N,Y,Replenishment method,KLN
+166559.0,Houston,98469,KLN-32596,8-in-1 HVAC Slide Drive Screwdriver/Nut,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166559.0,0.0,0.0,N,Y,Y,7.0,N,,N,N,Y,Replenishment method,KLN
+166559.0,Houston,490736,KLN-32910,7-IN-1 FLIP SOCKET WITH HAND SUPERSEDED,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166559.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,KLN
+166559.0,Houston,289936,KLN-50660,40' Glow Fish tape,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166559.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,KLN
+166559.0,Houston,409851,KLN-62805BPTECH,TradesmanPro™ XL Tech Bkpack 28pkt,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166559.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,KLN
+166559.0,Houston,100515,KLN-D2755,"Diagonal Cutting Pliers 5""",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166559.0,1.0,0.0,Y,Y,Y,0.0,N,,N,Y,Y,Replenishment method,KLN
+166559.0,Houston,409852,KLN-MM450,"SlimMeter, TRMS, AutoRanging, 600V, Temp",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166559.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,KLN
+166559.0,Houston,288246,KLN-VDV526200,"LAN Scout Jr. 2 Cable Tester, RJ45",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166559.0,0.0,0.0,N,Y,Y,4.0,N,,N,N,Y,Replenishment method,KLN
+166561.0,San Antonio,105102,KLN-11045,"Wire cutter/stripper, 10-18 solid AWG",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166561.0,0.0,0.0,N,Y,Y,5.0,N,,N,N,Y,Replenishment method,KLN
+166561.0,San Antonio,98045,KLN-11061,Self adjusting Wire Stripper/Cutter,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166561.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+166561.0,San Antonio,98454,KLN-32485,#10 & #15 TORX BIT FOR 10 IN 1 TOOL,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166561.0,0.0,0.0,N,Y,Y,12.0,N,,N,N,Y,Replenishment method,KLN
+166561.0,San Antonio,288231,KLN-32535,Klein 10 in 1 screw/nutdriver10-Fold bla,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166561.0,0.0,0.0,N,Y,Y,3.0,N,,N,N,Y,Replenishment method,KLN
+166561.0,San Antonio,98469,KLN-32596,8-in-1 HVAC Slide Drive Screwdriver/Nut,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166561.0,0.0,0.0,N,Y,Y,4.0,N,,N,N,Y,Replenishment method,KLN
+166561.0,San Antonio,114479,KLN-32900,7-in-1 Impact Flip Socket with Handle,N,R,168933.0,"Klein Tools, Inc.",Min/Max,166561.0,0.0,0.0,N,Y,Y,5.0,N,,N,N,Y,Replenishment method,KLN
+166561.0,San Antonio,490736,KLN-32910,7-IN-1 FLIP SOCKET WITH HAND SUPERSEDED,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166561.0,0.0,0.0,N,Y,Y,5.0,N,,N,N,Y,Replenishment method,KLN
+166561.0,San Antonio,488145,KLN-50103,"Lo-Flex Glow Fish Rod, 10-Foot",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166561.0,0.0,0.0,N,Y,Y,3.0,N,,N,N,Y,Replenishment method,KLN
+166561.0,San Antonio,302941,KLN-56026R,Klein Pen lightW/Laser Pointer,N,R,168933.0,"Klein Tools, Inc.",Min/Max,166561.0,0.0,0.0,N,Y,Y,4.0,N,,N,N,Y,Replenishment method,KLN
+166561.0,San Antonio,98738,KLN-60090,"Klein Cooling towel, BLUE",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166561.0,0.0,0.0,N,Y,Y,5.0,N,,N,N,Y,Replenishment method,KLN
+166561.0,San Antonio,301966,KLN-6083,"SCRWDRVR MINI CUSHION-GRIP 1/8"" 3""",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166561.0,0.0,0.0,N,Y,Y,4.0,N,,N,N,Y,Replenishment method,KLN
+166561.0,San Antonio,106189,KLN-6124,TERMINAL BLK SCDR,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166561.0,0.0,0.0,N,Y,Y,4.0,N,,N,N,Y,Replenishment method,KLN
+166561.0,San Antonio,303037,KLN-650,"Klein scratch awl, cushiongrip",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166561.0,0.0,0.0,N,Y,Y,6.0,N,,N,N,Y,Replenishment method,KLN
+166561.0,San Antonio,98923,KLN-68310,"Refrig. ratcheting 3/16, 5/16, 1/4,",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166561.0,0.0,0.0,N,Y,Y,3.0,N,,N,N,Y,Replenishment method,KLN
+166561.0,San Antonio,488146,KLN-86939,Klein Hex Key Adapter for Wrench,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166561.0,0.0,0.0,N,Y,Y,3.0,N,,N,N,Y,Replenishment method,KLN
+166561.0,San Antonio,115285,KLN-93LDM100C,LASER DISTANCE MEASURE 100FT,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166561.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+166561.0,San Antonio,297768,KLN-CL445,HVAC Clamp Meter,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166561.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,KLN
+166561.0,San Antonio,304027,KLN-D50210,Klein pump plier 10model,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166561.0,0.0,0.0,N,Y,Y,6.0,N,,N,N,Y,Replenishment method,KLN
+166561.0,San Antonio,304029,KLN-D50710,"Adjustable Wrench Extra Capacity, 10-In",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166561.0,0.0,0.0,N,Y,Y,5.0,N,,N,N,Y,Replenishment method,KLN
+166561.0,San Antonio,304031,KLN-D5078,Klein adj wrench 8extra capacity,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166561.0,0.0,0.0,N,Y,Y,5.0,N,,N,N,Y,Replenishment method,KLN
+166561.0,San Antonio,101334,KLN-J1005,J1005 JOURNEYMAN CRIMPING TOOL,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166561.0,0.0,0.0,N,Y,Y,4.0,N,,N,N,Y,Replenishment method,KLN
+166561.0,San Antonio,101339,KLN-J2036,J203-6 STD LONG NOSED PLIERS,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166561.0,0.0,0.0,N,Y,Y,7.0,N,,N,N,Y,Replenishment method,KLN
+166561.0,San Antonio,101553,KLN-KTSB01,Step Drill Bit #1 - Double-Fluted,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166561.0,0.0,0.0,N,Y,Y,5.0,N,,N,N,Y,Replenishment method,KLN
+166561.0,San Antonio,304783,KLN-P12,Klein screwdriver phillips #0pocket clip,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166561.0,0.0,0.0,N,Y,Y,6.0,N,,N,N,Y,Replenishment method,KLN
+166561.0,San Antonio,103165,KLN-VDV226011SEN,RJ45/CAT5e/6/6A Crimp tool,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166561.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+166561.0,San Antonio,103171,KLN-VDV826628,"RJ45 plugs - CAT5e, 10pk",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,166561.0,0.0,0.0,N,Y,Y,4.0,N,,N,N,Y,Replenishment method,KLN
+173042.0,Boston,410163,KLN-D5076,ADJUSTABLE WRENCH,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,173042.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175883.0,Charlotte,98032,KLN-1009,Long-Nose Multi-Purpose Tool,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175883.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175883.0,Charlotte,99572,KLN-11055,Klein-Kurve Wire Stripper/Cutter  Soli,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175883.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175883.0,Charlotte,98152,KLN-2005N,Forged Crimper,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175883.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175883.0,Charlotte,115660,KLN-32304,14-in-1 HVAC Adjustable-Length Impact S,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175883.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175883.0,Charlotte,410296,KLN-32307,27-in-1 Tamperproof Screwdriver,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175883.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175883.0,Charlotte,104043,KLN-32308,8-in-1 Adjustable Length Stubby Driver,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175883.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175883.0,Charlotte,98461,KLN-32527,11-in-1 Screwdriver/Nut Driver with Sch,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175883.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175883.0,Charlotte,108453,KLN-32593,6-in-1 Ratcheting Stubby Screwdriver,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175883.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175883.0,Charlotte,98469,KLN-32596,8-in-1 HVAC Slide Drive Screwdriver/Nut,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175883.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175883.0,Charlotte,98470,KLN-32614,4-in-1 Electronic Screwdriver w/Pocket,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175883.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,KLN
+175883.0,Charlotte,302642,KLN-32766,"1/4+5/16 IMPCT FLIP SOCKET, 3",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175883.0,0.0,0.0,N,Y,Y,35.0,N,,N,N,Y,Replenishment method,KLN
+175883.0,Charlotte,302643,KLN-32767,"1/4+5/16 IMPCT FLIP SOCKET, 5",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175883.0,0.0,0.0,N,Y,Y,33.0,N,,N,N,Y,Replenishment method,KLN
+175883.0,Charlotte,114479,KLN-32900,7-in-1 Impact Flip Socket with Handle,N,R,168933.0,"Klein Tools, Inc.",Min/Max,175883.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175883.0,Charlotte,410297,KLN-32907,"7-in-1 Impact Flip Socket Set, No Handl",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175883.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175883.0,Charlotte,302937,KLN-554161014,Tradesman Pro 10-Inch Tote,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175883.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175883.0,Charlotte,98642,KLN-56048,RECH HEADLAMP FABR STRAP 400L,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175883.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175883.0,Charlotte,98654,KLN-56403,Rechargeable Personal Worklight,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175883.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175883.0,Charlotte,108010,KLN-56411,Rechargeable Waterproof LED Pocket Ligh,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175883.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175883.0,Charlotte,108011,KLN-56412,Rechargeable LED Flashlight with Workli,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175883.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175883.0,Charlotte,302965,KLN-6004,"1/4"" (6 mm) Keystone-Tip Screwdriver",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175883.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175883.0,Charlotte,410298,KLN-60135,Tradesman Pro Standard Kneeling Pad,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175883.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175883.0,Charlotte,106185,KLN-6034,"#2 Phillips Screwdriver  4"" (102 mm) R",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175883.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175883.0,Charlotte,410299,KLN-60344,Hinged Gel Knee Pads,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175883.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,KLN
+175883.0,Charlotte,410300,KLN-60511,"Heavy Duty Knee Pad Sleeves, M/L",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175883.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175883.0,Charlotte,99719,KLN-6056,5/16 Keystone Tip Screwdriver 6 Lengt,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175883.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175883.0,Charlotte,410301,KLN-60611,"Heavy Duty Knee Pad Sleeves, L/XL",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175883.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175883.0,Charlotte,410446,KLN-62800BP,KLEIN TRADESMAN BACKPACK,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175883.0,0.0,0.0,N,Y,Y,2.0,N,0,N,N,Y,Replenishment method,KLN
+175883.0,Charlotte,98887,KLN-64614M,"1/4"" Magnetic Tip Nut Driver  6"" Holl",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175883.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175883.0,Charlotte,98888,KLN-64638M,3/8 Magnetic Tip Nut Driver 6 Shaft,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175883.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175883.0,Charlotte,98889,KLN-646516M,"5/16"" Magnetic Tip Nut Driver  6"" Hol",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175883.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175883.0,Charlotte,98890,KLN-646M,"Magnetic Tip Nut Driver Set - 6"" Hollo",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175883.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175883.0,Charlotte,104045,KLN-65200,"Slim-Profile Mini Ratchet Set, 5-Piece",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175883.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175883.0,Charlotte,303275,KLN-9225,"25 Ft. Double Hook, Magnetic Tape Measu",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175883.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175883.0,Charlotte,297768,KLN-CL445,HVAC Clamp Meter,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175883.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175883.0,Charlotte,106422,KLN-D2038,"Pliers, Long Nose Side-Cutters, 8-Inch",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175883.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175883.0,Charlotte,410302,KLN-D2139NE,"9"" (229 mm) High-Leverage Side-Cutting",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175883.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175883.0,Charlotte,410303,KLN-D2488,"8"" (203 mm) High-Leverage Diagonal-Cut",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175883.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175883.0,Charlotte,304028,KLN-D50410B,"10"" (254 mm) Quick-Adjust Klaw Pump P",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175883.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175883.0,Charlotte,304029,KLN-D50710,"Adjustable Wrench Extra Capacity, 10-In",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175883.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175883.0,Charlotte,410304,KLN-D53010,10 Plier Wrench,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175883.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175883.0,Charlotte,100543,KLN-D86930,2-in-1 Reversible Adj. Pipe Wrench,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175883.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175883.0,Charlotte,410305,KLN-D86932,"Slim-Jaw Adjustable Wrench, 4-Inch",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175883.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175883.0,Charlotte,410306,KLN-D86934,"Slim-Jaw Adjustable Wrench, 6-Inch",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175883.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175883.0,Charlotte,100544,KLN-D86936,Slim Jaw Adj Wrench 8,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175883.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175883.0,Charlotte,410307,KLN-ET10,Digital Pocket Thermometer,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175883.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175883.0,Charlotte,101342,KLN-J2078CR,All-Purpose Pliers W/ Crimper,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175883.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175883.0,Charlotte,102020,KLN-NCVT4IR,Non-Contact Voltage Tester with IR Lase,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175883.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175888.0,New Jersey,98032,KLN-1009,Long-Nose Multi-Purpose Tool,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175888.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175888.0,New Jersey,99572,KLN-11055,Klein-Kurve Wire Stripper/Cutter  Soli,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175888.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175888.0,New Jersey,98152,KLN-2005N,Forged Crimper,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175888.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175888.0,New Jersey,115660,KLN-32304,14-in-1 HVAC Adjustable-Length Impact S,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175888.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,KLN
+175888.0,New Jersey,410296,KLN-32307,27-in-1 Tamperproof Screwdriver,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175888.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,KLN
+175888.0,New Jersey,104043,KLN-32308,8-in-1 Adjustable Length Stubby Driver,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175888.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175888.0,New Jersey,98461,KLN-32527,11-in-1 Screwdriver/Nut Driver with Sch,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175888.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175888.0,New Jersey,108453,KLN-32593,6-in-1 Ratcheting Stubby Screwdriver,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175888.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,KLN
+175888.0,New Jersey,98469,KLN-32596,8-in-1 HVAC Slide Drive Screwdriver/Nut,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175888.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175888.0,New Jersey,98470,KLN-32614,4-in-1 Electronic Screwdriver w/Pocket,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175888.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,KLN
+175888.0,New Jersey,302642,KLN-32766,"1/4+5/16 IMPCT FLIP SOCKET, 3",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175888.0,0.0,0.0,N,Y,Y,36.0,N,,N,N,Y,Replenishment method,KLN
+175888.0,New Jersey,302643,KLN-32767,"1/4+5/16 IMPCT FLIP SOCKET, 5",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175888.0,0.0,0.0,N,Y,Y,36.0,N,,N,N,Y,Replenishment method,KLN
+175888.0,New Jersey,114479,KLN-32900,7-in-1 Impact Flip Socket with Handle,N,R,168933.0,"Klein Tools, Inc.",Min/Max,175888.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175888.0,New Jersey,410297,KLN-32907,"7-in-1 Impact Flip Socket Set, No Handl",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175888.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175888.0,New Jersey,109801,KLN-50550,"Glow Fish Tape, 20-Foot",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175888.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175888.0,New Jersey,302937,KLN-554161014,Tradesman Pro 10-Inch Tote,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175888.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175888.0,New Jersey,98617,KLN-55421BP14,Tradesman Pro Organizer Backpack,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175888.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175888.0,New Jersey,98642,KLN-56048,RECH HEADLAMP FABR STRAP 400L,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175888.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175888.0,New Jersey,98654,KLN-56403,Rechargeable Personal Worklight,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175888.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,KLN
+175888.0,New Jersey,108010,KLN-56411,Rechargeable Waterproof LED Pocket Ligh,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175888.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175888.0,New Jersey,108011,KLN-56412,Rechargeable LED Flashlight with Workli,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175888.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175888.0,New Jersey,302965,KLN-6004,"1/4"" (6 mm) Keystone-Tip Screwdriver",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175888.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175888.0,New Jersey,410298,KLN-60135,Tradesman Pro Standard Kneeling Pad,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175888.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175888.0,New Jersey,106185,KLN-6034,"#2 Phillips Screwdriver  4"" (102 mm) R",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175888.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175888.0,New Jersey,410299,KLN-60344,Hinged Gel Knee Pads,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175888.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,KLN
+175888.0,New Jersey,410300,KLN-60511,"Heavy Duty Knee Pad Sleeves, M/L",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175888.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175888.0,New Jersey,99719,KLN-6056,5/16 Keystone Tip Screwdriver 6 Lengt,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175888.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175888.0,New Jersey,410301,KLN-60611,"Heavy Duty Knee Pad Sleeves, L/XL",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175888.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175888.0,New Jersey,410446,KLN-62800BP,KLEIN TRADESMAN BACKPACK,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175888.0,0.0,0.0,N,Y,Y,2.0,N,0,N,N,Y,Replenishment method,KLN
+175888.0,New Jersey,98887,KLN-64614M,"1/4"" Magnetic Tip Nut Driver  6"" Holl",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175888.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175888.0,New Jersey,98888,KLN-64638M,3/8 Magnetic Tip Nut Driver 6 Shaft,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175888.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175888.0,New Jersey,98889,KLN-646516M,"5/16"" Magnetic Tip Nut Driver  6"" Hol",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175888.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175888.0,New Jersey,98890,KLN-646M,"Magnetic Tip Nut Driver Set - 6"" Hollo",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175888.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175888.0,New Jersey,303275,KLN-9225,"25 Ft. Double Hook, Magnetic Tape Measu",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175888.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175888.0,New Jersey,297768,KLN-CL445,HVAC Clamp Meter,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175888.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175888.0,New Jersey,106422,KLN-D2038,"Pliers, Long Nose Side-Cutters, 8-Inch",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175888.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175888.0,New Jersey,410302,KLN-D2139NE,"9"" (229 mm) High-Leverage Side-Cutting",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175888.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175888.0,New Jersey,410303,KLN-D2488,"8"" (203 mm) High-Leverage Diagonal-Cut",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175888.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175888.0,New Jersey,304028,KLN-D50410B,"10"" (254 mm) Quick-Adjust Klaw Pump P",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175888.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175888.0,New Jersey,304029,KLN-D50710,"Adjustable Wrench Extra Capacity, 10-In",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175888.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175888.0,New Jersey,410304,KLN-D53010,10 Plier Wrench,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175888.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175888.0,New Jersey,100543,KLN-D86930,2-in-1 Reversible Adj. Pipe Wrench,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175888.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175888.0,New Jersey,410305,KLN-D86932,"Slim-Jaw Adjustable Wrench, 4-Inch",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175888.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175888.0,New Jersey,410306,KLN-D86934,"Slim-Jaw Adjustable Wrench, 6-Inch",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175888.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175888.0,New Jersey,100544,KLN-D86936,Slim Jaw Adj Wrench 8,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175888.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175888.0,New Jersey,410307,KLN-ET10,Digital Pocket Thermometer,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175888.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,KLN
+175888.0,New Jersey,101342,KLN-J2078CR,All-Purpose Pliers W/ Crimper,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175888.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175888.0,New Jersey,102020,KLN-NCVT4IR,Non-Contact Voltage Tester with IR Lase,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175888.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175890.0,New York,98032,KLN-1009,Long-Nose Multi-Purpose Tool,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175890.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175890.0,New York,99572,KLN-11055,Klein-Kurve Wire Stripper/Cutter  Soli,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175890.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175890.0,New York,98152,KLN-2005N,Forged Crimper,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175890.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175890.0,New York,115660,KLN-32304,14-in-1 HVAC Adjustable-Length Impact S,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175890.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175890.0,New York,410296,KLN-32307,27-in-1 Tamperproof Screwdriver,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175890.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175890.0,New York,104043,KLN-32308,8-in-1 Adjustable Length Stubby Driver,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175890.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,KLN
+175890.0,New York,98461,KLN-32527,11-in-1 Screwdriver/Nut Driver with Sch,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175890.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175890.0,New York,108453,KLN-32593,6-in-1 Ratcheting Stubby Screwdriver,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175890.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,KLN
+175890.0,New York,98469,KLN-32596,8-in-1 HVAC Slide Drive Screwdriver/Nut,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175890.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175890.0,New York,98470,KLN-32614,4-in-1 Electronic Screwdriver w/Pocket,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175890.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,KLN
+175890.0,New York,302642,KLN-32766,"1/4+5/16 IMPCT FLIP SOCKET, 3",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175890.0,0.0,0.0,N,Y,Y,35.0,N,,N,N,Y,Replenishment method,KLN
+175890.0,New York,302643,KLN-32767,"1/4+5/16 IMPCT FLIP SOCKET, 5",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175890.0,0.0,0.0,N,Y,Y,34.0,N,,N,N,Y,Replenishment method,KLN
+175890.0,New York,114479,KLN-32900,7-in-1 Impact Flip Socket with Handle,N,R,168933.0,"Klein Tools, Inc.",Min/Max,175890.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175890.0,New York,410297,KLN-32907,"7-in-1 Impact Flip Socket Set, No Handl",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175890.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,KLN
+175890.0,New York,109801,KLN-50550,"Glow Fish Tape, 20-Foot",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175890.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175890.0,New York,302937,KLN-554161014,Tradesman Pro 10-Inch Tote,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175890.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175890.0,New York,98617,KLN-55421BP14,Tradesman Pro Organizer Backpack,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175890.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175890.0,New York,98642,KLN-56048,RECH HEADLAMP FABR STRAP 400L,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175890.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175890.0,New York,98654,KLN-56403,Rechargeable Personal Worklight,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175890.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175890.0,New York,108010,KLN-56411,Rechargeable Waterproof LED Pocket Ligh,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175890.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175890.0,New York,108011,KLN-56412,Rechargeable LED Flashlight with Workli,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175890.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,KLN
+175890.0,New York,302965,KLN-6004,"1/4"" (6 mm) Keystone-Tip Screwdriver",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175890.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175890.0,New York,410298,KLN-60135,Tradesman Pro Standard Kneeling Pad,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175890.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175890.0,New York,106185,KLN-6034,"#2 Phillips Screwdriver  4"" (102 mm) R",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175890.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175890.0,New York,410299,KLN-60344,Hinged Gel Knee Pads,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175890.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175890.0,New York,410300,KLN-60511,"Heavy Duty Knee Pad Sleeves, M/L",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175890.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175890.0,New York,99719,KLN-6056,5/16 Keystone Tip Screwdriver 6 Lengt,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175890.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175890.0,New York,410301,KLN-60611,"Heavy Duty Knee Pad Sleeves, L/XL",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175890.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175890.0,New York,410446,KLN-62800BP,KLEIN TRADESMAN BACKPACK,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175890.0,0.0,0.0,N,Y,Y,2.0,N,0,N,N,Y,Replenishment method,KLN
+175890.0,New York,98887,KLN-64614M,"1/4"" Magnetic Tip Nut Driver  6"" Holl",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175890.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175890.0,New York,98888,KLN-64638M,3/8 Magnetic Tip Nut Driver 6 Shaft,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175890.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175890.0,New York,98889,KLN-646516M,"5/16"" Magnetic Tip Nut Driver  6"" Hol",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175890.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175890.0,New York,98890,KLN-646M,"Magnetic Tip Nut Driver Set - 6"" Hollo",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175890.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175890.0,New York,104045,KLN-65200,"Slim-Profile Mini Ratchet Set, 5-Piece",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175890.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175890.0,New York,303275,KLN-9225,"25 Ft. Double Hook, Magnetic Tape Measu",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175890.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175890.0,New York,297768,KLN-CL445,HVAC Clamp Meter,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175890.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175890.0,New York,106422,KLN-D2038,"Pliers, Long Nose Side-Cutters, 8-Inch",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175890.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175890.0,New York,410302,KLN-D2139NE,"9"" (229 mm) High-Leverage Side-Cutting",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175890.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175890.0,New York,410303,KLN-D2488,"8"" (203 mm) High-Leverage Diagonal-Cut",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175890.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175890.0,New York,304028,KLN-D50410B,"10"" (254 mm) Quick-Adjust Klaw Pump P",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175890.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175890.0,New York,304029,KLN-D50710,"Adjustable Wrench Extra Capacity, 10-In",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175890.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175890.0,New York,410304,KLN-D53010,10 Plier Wrench,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175890.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175890.0,New York,100543,KLN-D86930,2-in-1 Reversible Adj. Pipe Wrench,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175890.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175890.0,New York,410305,KLN-D86932,"Slim-Jaw Adjustable Wrench, 4-Inch",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175890.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175890.0,New York,410306,KLN-D86934,"Slim-Jaw Adjustable Wrench, 6-Inch",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175890.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,KLN
+175890.0,New York,100544,KLN-D86936,Slim Jaw Adj Wrench 8,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175890.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175890.0,New York,410307,KLN-ET10,Digital Pocket Thermometer,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175890.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175890.0,New York,101342,KLN-J2078CR,All-Purpose Pliers W/ Crimper,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175890.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,KLN
+175890.0,New York,102020,KLN-NCVT4IR,Non-Contact Voltage Tester with IR Lase,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175890.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),98465,32558,Ratcheting 10-in-1 screw/nut driver,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,Y,Y,Y,1.0,N,,N,Y,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),99565,KLN-1010,Long-nose stripper/crimper,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,Y,Y,Y,2.0,N,,N,Y,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),99566,KLN-1011,Multi-Purpose Wire Stripper/Cutter,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,Y,Y,Y,1.0,N,,N,Y,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),99572,KLN-11055,Klein-Kurve Wire Stripper/Cutter  Soli,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),98045,KLN-11061,Self adjusting Wire Stripper/Cutter,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,Y,Y,Y,1.0,N,,N,Y,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),98461,KLN-32527,11-in-1 Screwdriver/Nut Driver with Sch,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),302638,KLN-32534,Klein - 10-fold 10-in-1screwdriver/nut d,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),288231,KLN-32535,Klein 10 in 1 screw/nutdriver10-Fold bla,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),98466,KLN-32559,Extended-reach multi-bit screw/nut d,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,Y,Y,Y,1.0,N,,N,Y,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),98467,KLN-32561,Stubby reversable screw/nut driver,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),98468,KLN-32581,4-in-1 Precision screwdriver,Y,R,168933.0,"Klein Tools, Inc.",EOQ,175891.0,0.0,0.0,Y,Y,Y,1.0,N,,N,Y,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),108453,KLN-32593,6-in-1 Ratcheting Stubby Screwdriver,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,Y,Y,Y,2.0,N,,N,Y,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),98469,KLN-32596,8-in-1 HVAC Slide Drive Screwdriver/Nut,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,Y,Y,Y,0.0,N,,N,Y,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),302644,KLN-32800,Klein 6-in-1 Multi NutDriver Heavy Duty,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,Y,Y,Y,1.0,N,,N,Y,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),98474,KLN-32801,5-IN-1 MULTI-NUT DRIVER,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,Y,Y,Y,1.0,N,,N,Y,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),490736,KLN-32910,7-IN-1 FLIP SOCKET WITH HAND SUPERSEDED,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,2.0,4.0,Y,Y,Y,10.0,N,,N,N,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),516281,KLN-32933,7-IN-1 IMPACT FLIP SOCKET,N,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,N,Y,Y,1.0,N,0,N,N,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),302651,KLN-33532INS,Klein  - 2 - piece insulatedscrewdriver,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,Y,Y,Y,1.0,N,,N,Y,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),99667,KLN-44101,5 Pk Utility Knife Blades - (order x,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,Y,Y,Y,2.0,N,,N,Y,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),302846,KLN-44142,Klein small pocket knifeBlack aluminum h,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,Y,Y,Y,0.0,N,,N,Y,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),302847,KLN-44201,Klein Pocket knife with wirestripping no,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,Y,Y,Y,1.0,N,,N,Y,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),98548,KLN-44302,Folding utility knife,N,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),98618,KLN-55421BP14CAMO,"39 Pocket, Camo BkPack PROMO",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),98620,KLN-55431,"31-pocket, lighted tool bag",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,Y,Y,Y,1.0,N,,N,Y,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),302938,KLN-55455M,Klein - Tech Bag - LapTop,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),108011,KLN-56412,Rechargeable LED Flashlight with Workli,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),98739,KLN-60093,"Klein Cooling towel, Gray",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),106180,KLN-60110,"10"" RD SHANK SCDR",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,Y,Y,Y,1.0,N,,N,Y,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),98746,KLN-60160,"Klein safety glasses, tinted",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,Y,Y,Y,0.0,N,,N,Y,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),302980,KLN-6024,Klein round screwdrivercushion-grip 1/4,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,Y,Y,Y,1.0,N,,N,Y,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),302981,KLN-6024DD,Klein - 4 demolitiondriver keystone,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,Y,Y,Y,1.0,N,,N,Y,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),98754,KLN-6027DD,"7"" DEMO CUSHION SCREWDRIVER",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,Y,Y,Y,1.0,N,,N,Y,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),302985,KLN-6031,Klein screwdriver phillips #2cushion-gri,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,Y,Y,Y,2.0,N,,N,Y,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),99716,KLN-6037,6037  #2 PHILLIPS SCREW DRIVER,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,Y,Y,Y,1.0,N,,N,Y,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),99718,KLN-6054,"605-4 SCREWDRIVER 4""",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,Y,Y,Y,2.0,N,,N,Y,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),302993,KLN-6074,Klein cabinet tip screwdrivermini cushio,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,Y,Y,Y,1.0,N,,N,Y,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),302999,KLN-610M,Klein 2-pc nut driver setmagnetic stubby,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),303027,KLN-63014M,Klein nut driver 1/4 x 3magnetic hollow,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),303029,KLN-630516M,Klein nut driver 5/16 x 3magnetic hollow,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),303030,KLN-631M,Klein 7pc nut driver setmagnetic cushion,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),99784,KLN-6354,"Hollow-shaft NutDrv 1/4,5/16,3/8,7/1",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),98887,KLN-64614M,"1/4"" Magnetic Tip Nut Driver  6"" Holl",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),98888,KLN-64638M,3/8 Magnetic Tip Nut Driver 6 Shaft,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),98889,KLN-646516M,"5/16"" Magnetic Tip Nut Driver  6"" Hol",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),98890,KLN-646M,"Magnetic Tip Nut Driver Set - 6"" Hollo",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),98896,KLN-65064,"Hex Head 2-in-1 Nut Driver, 1/4, 5",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,Y,Y,Y,1.0,N,,N,Y,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),303044,KLN-68245,"Klein ratcheting offset boxwrench, rever",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,Y,Y,Y,1.0,N,,N,Y,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),303045,KLN-68412,Klein combination wrench 3/86-point,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,Y,Y,Y,2.0,N,,N,Y,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),303080,KLN-70586,"Klein Torx folding screwdriverset, 7 pie",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,Y,Y,Y,1.0,N,,N,Y,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),303229,KLN-85076,Klein screwdriver 7-pc setcushion-grip W,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,Y,Y,Y,1.0,N,,N,Y,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),99055,KLN-85484,85484 4 PC MINI SCRDR,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,Y,Y,Y,2.0,N,,N,Y,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),99059,KLN-88904,1/8 TO 1-3/8 TUBE CUTTER,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,Y,Y,Y,0.0,N,,N,Y,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),303275,KLN-9225,"25 Ft. Double Hook, Magnetic Tape Measu",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,Y,Y,Y,1.0,N,,N,Y,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),99084,KLN-98002BT,Klein cap removal toolcushion-grip,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,Y,Y,Y,1.0,N,,N,Y,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),303343,KLN-A2164,Klein screwdriver 1/8x7cabinet tip,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,Y,Y,Y,2.0,N,,N,Y,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),100287,KLN-BLK12,HEX KEY SET 12 PC. IN.,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,Y,Y,Y,1.0,N,,N,Y,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),297768,KLN-CL445,HVAC Clamp Meter,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),304022,KLN-D200048,Klein ultra-durable cutter8 hi-leverage,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,Y,Y,Y,0.0,N,,N,Y,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),304023,KLN-D2026,Klein tapered nose cuttingdiagonal plier,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,Y,Y,Y,0.0,N,,N,Y,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),304024,KLN-D2036,Klein side cutter6-5/8 long nose,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,Y,Y,Y,0.0,N,,N,Y,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),304026,KLN-D2287,Klein cutting plier 7hi-leverage diagona,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,Y,Y,Y,1.0,N,,N,Y,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),304027,KLN-D50210,Klein pump plier 10model,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,Y,Y,Y,1.0,N,,N,Y,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),304028,KLN-D50410B,"10"" (254 mm) Quick-Adjust Klaw Pump P",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),100531,KLN-D5064,"D506-4 4"" ADJUSTABLE WRENCH",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,Y,Y,Y,1.0,N,,N,Y,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),304029,KLN-D50710,"Adjustable Wrench Extra Capacity, 10-In",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,Y,Y,Y,1.0,N,,N,Y,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),304030,KLN-D50712,Klein adj wrench 12extra capacity,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,Y,Y,Y,1.0,N,,N,Y,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),410163,KLN-D5076,ADJUSTABLE WRENCH,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,Y,Y,Y,0.0,N,,N,Y,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),304031,KLN-D5078,Klein adj wrench 8extra capacity,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,Y,Y,Y,2.0,N,,N,Y,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),100533,KLN-D5098,"8"" ADJ WRENCH Wide Opening",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,Y,Y,Y,0.0,N,,N,Y,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),100543,KLN-D86930,2-in-1 Reversible Adj. Pipe Wrench,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,Y,Y,Y,0.0,N,,N,Y,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),100544,KLN-D86936,Slim Jaw Adj Wrench 8,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,Y,Y,Y,0.0,N,,N,Y,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),104879,KLN-J2038,"Pliers, Long Nose Side-Cutters, 8-Inch -",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),304354,KLN-J2139NE,Klein - Journeyman - side-cutting pliers,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),101553,KLN-KTSB01,Step Drill Bit #1 - Double-Fluted,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,Y,Y,Y,1.0,N,,N,Y,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),101554,KLN-KTSB03,STEP DRILL BIT #03 - 2 FLUTES,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,Y,Y,Y,0.0,N,,N,Y,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),101555,KLN-KTSB11,STEP UNIBIT # 11 repl 59011,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,Y,Y,Y,0.0,N,,N,Y,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),104047,KLN-NCVT3P,"Non-Contact 12-1000VAC, w/Flashlight",Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,Y,Y,Y,2.0,N,,N,Y,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),305046,KLN-S106M,Klein 5/16 nut drivermagnetic with 6 sha,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,Y,Y,Y,2.0,N,,N,Y,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),304546,LLK12,Klein hex-key set 12 pcL-long with caddy,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,Y,Y,Y,1.0,N,,N,Y,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),304547,LMK10,Klein metric hex-key set9 pc L-long with,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,Y,Y,Y,0.0,N,,N,Y,Y,Replenishment method,KLN
+175891.0,Milwaukee (West Allis),305059,S86M,Klein nut driver 1/4magnetic with 6 shaf,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175891.0,0.0,0.0,Y,Y,Y,1.0,N,,N,Y,Y,Replenishment method,KLN
+175892.0,Green Bay,302642,KLN-32766,"1/4+5/16 IMPCT FLIP SOCKET, 3",Y,R,168933.0,"Klein Tools, Inc.",OP/OQ,175892.0,1.0,36.0,Y,Y,Y,34.0,Y,CA01,N,Y,N,Replenishment method,KLN
+175892.0,Green Bay,302643,KLN-32767,"1/4+5/16 IMPCT FLIP SOCKET, 5",Y,R,168933.0,"Klein Tools, Inc.",OP/OQ,175892.0,1.0,36.0,Y,Y,Y,32.0,Y,CA01,N,Y,N,Replenishment method,KLN
+175892.0,Green Bay,490736,KLN-32910,7-IN-1 FLIP SOCKET WITH HAND SUPERSEDED,Y,R,168933.0,"Klein Tools, Inc.",Min/Max,175892.0,1.0,2.0,Y,Y,Y,0.0,N,,N,N,Y,Replenishment method,KLN

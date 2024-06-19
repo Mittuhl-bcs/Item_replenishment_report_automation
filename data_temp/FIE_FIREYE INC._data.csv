@@ -1,0 +1,143 @@
+location_id,location_name,inv_mast_uid,item_id,item_desc,on_vendor_price_book,product_type,primary_supplier_id,supplier_name,replenishment_method,replenishment_location,inv_min,inv_max,stockable,sellable,buy,qty_on_hand,track_bins,primary_bin,repl_loc_review,repl_meth_review,track_bin_review,discrepancy_type,Prefix_of_company
+10520.0,St Paul,133038,FIE-59561,Cable kit (Power and Comms) for NXD410TS,Y,R,133476.0,FIREYE INC.,Min/Max,10520.0,0.0,0.0,N,Y,Y,15.0,N,,N,N,Y,Replenishment method,FIE
+10520.0,St Paul,117332,FIE-6028121,Closed base with terminal block and knoc,Y,R,133476.0,FIREYE INC.,Min/Max,10520.0,0.0,0.0,Y,Y,Y,1.0,Y,18F4,N,Y,N,Replenishment method,FIE
+10520.0,St Paul,30540,FIE-YP100,"Keypad selectable parameters, non-recycl",Y,R,133476.0,FIREYE INC.,Min/Max,10520.0,0.0,0.0,Y,Y,Y,0.0,Y,18F2,N,Y,N,Replenishment method,FIE
+10770.0,Nashville,24677,FIE-48PT29007,"Infrared scanner, 4ft, 90 degree head, B",Y,R,133476.0,FIREYE INC.,Min/Max,10770.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,FIE
+10770.0,Nashville,133038,FIE-59561,Cable kit (Power and Comms) for NXD410TS,Y,R,133476.0,FIREYE INC.,Min/Max,10770.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,FIE
+10770.0,Nashville,117329,FIE-595656,"Pre-wired, 5 conductor cable (6 feet) wi",Y,R,133476.0,FIREYE INC.,Min/Max,10770.0,0.0,0.0,N,Y,Y,3.0,N,,N,N,Y,Replenishment method,FIE
+10770.0,Nashville,117334,FIE-603004,Terminal kit for PPC4000 / NXF4000.,Y,R,133476.0,FIREYE INC.,Min/Max,10770.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,FIE
+10770.0,Nashville,141817,FIE-BLPS30,"Pressure transducer, 0-30 psi (0-2070 mb",Y,R,133476.0,FIREYE INC.,Min/Max,10770.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,FIE
+10770.0,Nashville,6127,FIE-FX041,"5 wire Modbus Servo-motor, 3 ft lbs., 4",Y,R,133476.0,FIREYE INC.,Min/Max,10770.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,FIE
+10770.0,Nashville,117350,FIE-FX201,"5 wire Modbus Servo-motor, 15 ft lbs., 2",Y,R,133476.0,FIREYE INC.,Min/Max,10770.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,FIE
+10770.0,Nashville,20039,FIE-NXCESIR,Plug-in Amplifier card for NXF4000. Infr,Y,R,133476.0,FIREYE INC.,Min/Max,10770.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,FIE
+10770.0,Nashville,6149,FIE-NXCESVFD,VFD Expansion card for PPC4000 and NXF40,Y,R,133476.0,FIREYE INC.,Min/Max,10770.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,FIE
+10770.0,Nashville,19254,FIE-NXF4000,UL/CE Approved standalone parallel posit,Y,R,133476.0,FIREYE INC.,Min/Max,10770.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,FIE
+10770.0,Nashville,324050,FIE-NXTSD512HD,12in (diagonal) color touch screen displ,Y,R,133476.0,FIREYE INC.,Min/Max,10770.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,FIE
+10770.0,Nashville,117363,FIE-TS3504,"Temperature sensor, Range 32F to 350F",Y,R,133476.0,FIREYE INC.,Min/Max,10770.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,FIE
+10770.0,Nashville,117364,FIE-TS3508,"Temperature sensor, Range 32F to 350F",Y,R,133476.0,FIREYE INC.,Min/Max,10770.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,FIE
+166553.0,Austin,24677,FIE-48PT29007,"Infrared scanner, 4ft, 90 degree head, B",Y,R,133476.0,FIREYE INC.,Min/Max,166553.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,FIE
+166553.0,Austin,25140,FIE-6014662,"Open wiring base for cabinet mtg., use w",Y,R,133476.0,FIREYE INC.,Min/Max,166553.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,FIE
+166553.0,Austin,11747,FIE-615042,"Open wiring base for cabinet mtg., use w",Y,R,133476.0,FIREYE INC.,Min/Max,166553.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,FIE
+166553.0,Austin,20813,FIE-BLPS200,"Pressure transducer, 0-200 psi (0-13.8 B",Y,R,133476.0,FIREYE INC.,Min/Max,166553.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,FIE
+166553.0,Austin,26979,FIE-E1R1,"Infrared autocheck amplifier, use with 4",Y,R,133476.0,FIREYE INC.,Min/Max,166553.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,FIE
+166553.0,Austin,27029,FIE-ED510,2 line x 16 character backlit LCD displa,Y,R,133476.0,FIREYE INC.,Min/Max,166553.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,FIE
+166553.0,Austin,27069,FIE-EP160,Programmer. Selectable purge (30 sec min,Y,R,133476.0,FIREYE INC.,Min/Max,166553.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,FIE
+166553.0,Austin,104928,FIE-ERT1,"Flame rectification amplifier, use with",Y,R,133476.0,FIREYE INC.,Min/Max,166553.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,FIE
+166553.0,Austin,27082,FIE-EUV1,"Ultraviolet amplifier, use with UV1, UV2",Y,R,133476.0,FIREYE INC.,Min/Max,166553.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,FIE
+166553.0,Austin,28008,FIE-MART1,Flame rect amp. 2-4 sec FFRT. Use with 6,Y,R,133476.0,FIREYE INC.,Min/Max,166553.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,FIE
+166553.0,Austin,28012,FIE-MAUV1,"UV amp, 2-4 sec FFRT. Use with UV1, UV2,",Y,R,133476.0,FIREYE INC.,Min/Max,166553.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,FIE
+166553.0,Austin,1771,FIE-MEC120,"120 VAC, 50/60 Hz Chassis with standard",Y,R,133476.0,FIREYE INC.,Min/Max,166553.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,FIE
+166553.0,Austin,28022,FIE-MEP100,"Programmer, Relight function, 10 sec PTF",Y,R,133476.0,FIREYE INC.,Min/Max,166553.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,FIE
+166553.0,Austin,28023,FIE-MEP230,"Programmer, Selectable recycle/non-recyc",Y,R,133476.0,FIREYE INC.,Min/Max,166553.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,FIE
+166553.0,Austin,28026,FIE-MERT4,Flame rect amp. 3 sec FFRT. Use with 69N,Y,R,133476.0,FIREYE INC.,Min/Max,166553.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,FIE
+166553.0,Austin,28028,FIE-MEUV4,"UV amp, 3 sec FFRT. Use with UV1, UV2, 4",Y,R,133476.0,FIREYE INC.,Min/Max,166553.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,FIE
+166553.0,Austin,28091,FIE-MP100,"Programmer, Relight function.",Y,R,133476.0,FIREYE INC.,Min/Max,166553.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,FIE
+166553.0,Austin,6152,FIE-UV1A3,"UV scanner, 1/2in NPT connector, 3 ft. c",Y,R,133476.0,FIREYE INC.,Min/Max,166553.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,FIE
+166553.0,Austin,29895,FIE-UV1A6,"UV scanner, 1/2in NPT connector, 6 ft. c",Y,R,133476.0,FIREYE INC.,Min/Max,166553.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,FIE
+166557.0,Dallas,24631,FIE-45UV51009,"UV self-check scanner, 1in NPT, 102 - 26",Y,R,133476.0,FIREYE INC.,Min/Max,166557.0,2.0,1.0,Y,Y,Y,0.0,N,,N,N,Y,Replenishment method,FIE
+166557.0,Dallas,24677,FIE-48PT29007,"Infrared scanner, 4ft, 90 degree head, B",Y,R,133476.0,FIREYE INC.,Min/Max,166557.0,1.0,0.0,Y,Y,Y,0.0,N,,N,Y,Y,Replenishment method,FIE
+166557.0,Dallas,29895,FIE-UV1A6,"UV scanner, 1/2in NPT connector, 6 ft. c",Y,R,133476.0,FIREYE INC.,Min/Max,166557.0,4.0,2.0,Y,Y,Y,0.0,N,,N,N,Y,Replenishment method,FIE
+166560.0,New Orleans,27033,DIV-ED610,"Indicator Light,Red 105-125VAC",Y,R,133476.0,FIREYE INC.,Min/Max,166553.0,0.0,0.0,N,Y,Y,3.0,Y,DTECH,Y,N,N,Replenishment method,FIE
+166560.0,New Orleans,100713,DIV-ED612,"Indicator Light,Org.105-125VAC",Y,R,133476.0,FIREYE INC.,Min/Max,166553.0,0.0,0.0,N,Y,Y,3.0,Y,DTECH,Y,N,N,Replenishment method,FIE
+166561.0,San Antonio,24677,FIE-48PT29007,"Infrared scanner, 4ft, 90 degree head, B",Y,R,133476.0,FIREYE INC.,Min/Max,166561.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,FIE
+166561.0,San Antonio,25140,FIE-6014662,"Open wiring base for cabinet mtg., use w",Y,R,133476.0,FIREYE INC.,Min/Max,166561.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,FIE
+166561.0,San Antonio,11747,FIE-615042,"Open wiring base for cabinet mtg., use w",Y,R,133476.0,FIREYE INC.,Min/Max,166561.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,FIE
+166561.0,San Antonio,26978,FIE-E110,"Control, consisting of EB700, 48-1836,",Y,R,133476.0,FIREYE INC.,Min/Max,166561.0,1.0,2.0,Y,Y,Y,3.0,N,,N,N,Y,Replenishment method,FIE
+166561.0,San Antonio,26979,FIE-E1R1,"Infrared autocheck amplifier, use with 4",Y,R,133476.0,FIREYE INC.,Min/Max,166561.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,FIE
+166561.0,San Antonio,27029,FIE-ED510,2 line x 16 character backlit LCD displa,Y,R,133476.0,FIREYE INC.,Min/Max,166561.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,FIE
+166561.0,San Antonio,27069,FIE-EP160,Programmer. Selectable purge (30 sec min,Y,R,133476.0,FIREYE INC.,Min/Max,166561.0,1.0,2.0,Y,Y,Y,1.0,N,,N,N,Y,Replenishment method,FIE
+166561.0,San Antonio,104928,FIE-ERT1,"Flame rectification amplifier, use with",Y,R,133476.0,FIREYE INC.,Min/Max,166561.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,FIE
+166561.0,San Antonio,27082,FIE-EUV1,"Ultraviolet amplifier, use with UV1, UV2",Y,R,133476.0,FIREYE INC.,Min/Max,166561.0,1.0,2.0,Y,Y,Y,1.0,N,,N,N,Y,Replenishment method,FIE
+166561.0,San Antonio,28008,FIE-MART1,Flame rect amp. 2-4 sec FFRT. Use with 6,Y,R,133476.0,FIREYE INC.,Min/Max,166561.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,FIE
+166561.0,San Antonio,28012,FIE-MAUV1,"UV amp, 2-4 sec FFRT. Use with UV1, UV2,",Y,R,133476.0,FIREYE INC.,Min/Max,166561.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,FIE
+166561.0,San Antonio,28018,FIE-MC120,"120 VAC, 50/60 Hz Chassis.",Y,R,133476.0,FIREYE INC.,Min/Max,166561.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,FIE
+166561.0,San Antonio,1771,FIE-MEC120,"120 VAC, 50/60 Hz Chassis with standard",Y,R,133476.0,FIREYE INC.,Min/Max,166561.0,1.0,2.0,Y,Y,Y,1.0,N,,N,N,Y,Replenishment method,FIE
+166561.0,San Antonio,28022,FIE-MEP100,"Programmer, Relight function, 10 sec PTF",Y,R,133476.0,FIREYE INC.,Min/Max,166561.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,FIE
+166561.0,San Antonio,28023,FIE-MEP230,"Programmer, Selectable recycle/non-recyc",Y,R,133476.0,FIREYE INC.,Min/Max,166561.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,FIE
+166561.0,San Antonio,28026,FIE-MERT4,Flame rect amp. 3 sec FFRT. Use with 69N,Y,R,133476.0,FIREYE INC.,Min/Max,166561.0,1.0,2.0,Y,Y,Y,0.0,N,,N,N,Y,Replenishment method,FIE
+166561.0,San Antonio,28028,FIE-MEUV4,"UV amp, 3 sec FFRT. Use with UV1, UV2, 4",Y,R,133476.0,FIREYE INC.,Min/Max,166561.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,FIE
+166561.0,San Antonio,28091,FIE-MP100,"Programmer, Relight function.",Y,R,133476.0,FIREYE INC.,Min/Max,166561.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,FIE
+166561.0,San Antonio,28094,FIE-MP230,"Programmer, Selectable recycle/non-recyc",Y,R,133476.0,FIREYE INC.,Min/Max,166561.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,FIE
+166561.0,San Antonio,6152,FIE-UV1A3,"UV scanner, 1/2in NPT connector, 3 ft. c",Y,R,133476.0,FIREYE INC.,Min/Max,166561.0,1.0,2.0,Y,Y,Y,1.0,N,,N,N,Y,Replenishment method,FIE
+166561.0,San Antonio,29895,FIE-UV1A6,"UV scanner, 1/2in NPT connector, 6 ft. c",Y,R,133476.0,FIREYE INC.,Min/Max,166561.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,FIE
+173042.0,Boston,117345,01170006,FTS-6 MAN. RESET SPILL SWITCH,N,R,133476.0,FIREYE INC.,Up To,173042.0,,,Y,Y,Y,4.0,Y,FIELDS,N,Y,N,Replenishment method,FIE
+173042.0,Boston,274156,DWY-FS2,FS-2 PADDLE FLOW SW NPT CONN,Y,R,133476.0,FIREYE INC.,Min/Max,173042.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,FIE
+173042.0,Boston,24674,FIE-48PT21003,"Infrared scanner, 8ft, straight head, Bu",Y,R,133476.0,FIREYE INC.,Up To,173042.0,,,Y,Y,Y,4.0,Y,FIREYE,N,Y,N,Replenishment method,FIE
+173042.0,Boston,24675,FIE-48PT21007,"Infrared scanner, 4ft, straight head, Bu",Y,R,133476.0,FIREYE INC.,Up To,173042.0,,,Y,Y,Y,1.0,Y,FIREYE,N,Y,N,Replenishment method,FIE
+173042.0,Boston,26978,FIE-E110,"Control, consisting of EB700, 48-1836,",Y,R,133476.0,FIREYE INC.,Up To,173042.0,,,Y,Y,Y,12.0,Y,FIREYE,N,Y,N,Replenishment method,FIE
+173042.0,Boston,26979,FIE-E1R1,"Infrared autocheck amplifier, use with 4",Y,R,133476.0,FIREYE INC.,Up To,173042.0,,,Y,Y,Y,9.0,Y,FIREYE,N,Y,N,Replenishment method,FIE
+173042.0,Boston,27029,FIE-ED510,2 line x 16 character backlit LCD displa,Y,R,133476.0,FIREYE INC.,Up To,173042.0,,,Y,Y,Y,14.0,Y,FIREYE,N,Y,N,Replenishment method,FIE
+173042.0,Boston,27069,FIE-EP160,Programmer. Selectable purge (30 sec min,Y,R,133476.0,FIREYE INC.,Up To,173042.0,,,Y,Y,Y,3.0,Y,FIREYE,N,Y,N,Replenishment method,FIE
+173042.0,Boston,27070,FIE-EP260,Programmer. Selectable purge (30 sec min,Y,R,133476.0,FIREYE INC.,Up To,173042.0,,,Y,Y,Y,2.0,Y,FIREYE,N,Y,N,Replenishment method,FIE
+173042.0,Boston,27082,FIE-EUV1,"Ultraviolet amplifier, use with UV1, UV2",Y,R,133476.0,FIREYE INC.,Up To,173042.0,,,Y,Y,Y,4.0,Y,FIREYE,N,Y,N,Replenishment method,FIE
+173042.0,Boston,1771,FIE-MEC120,"120 VAC, 50/60 Hz Chassis with standard",Y,R,133476.0,FIREYE INC.,Up To,173042.0,,,Y,Y,Y,2.0,Y,FIREYE,N,Y,N,Replenishment method,FIE
+173042.0,Boston,28023,FIE-MEP230,"Programmer, Selectable recycle/non-recyc",Y,R,133476.0,FIREYE INC.,Up To,173042.0,,,Y,Y,Y,4.0,Y,FIREYE,N,Y,N,Replenishment method,FIE
+173042.0,Boston,28024,FIE-MEP560,"Programmer, Selectable recycle/non-recyc",Y,R,133476.0,FIREYE INC.,Up To,173042.0,,,Y,Y,Y,2.0,Y,FIREYE,N,Y,N,Replenishment method,FIE
+173042.0,Boston,28026,FIE-MERT4,Flame rect amp. 3 sec FFRT. Use with 69N,Y,R,133476.0,FIREYE INC.,Up To,173042.0,,,Y,Y,Y,2.0,Y,FIREYE,N,Y,N,Replenishment method,FIE
+173042.0,Boston,28028,FIE-MEUV4,"UV amp, 3 sec FFRT. Use with UV1, UV2, 4",Y,R,133476.0,FIREYE INC.,Up To,173042.0,,,Y,Y,Y,1.0,Y,FIREYE,N,Y,N,Replenishment method,FIE
+173042.0,Boston,6152,FIE-UV1A3,"UV scanner, 1/2in NPT connector, 3 ft. c",Y,R,133476.0,FIREYE INC.,Up To,173042.0,,,Y,Y,Y,9.0,Y,FIREYE,N,Y,N,Replenishment method,FIE
+173042.0,Boston,29895,FIE-UV1A6,"UV scanner, 1/2in NPT connector, 6 ft. c",Y,R,133476.0,FIREYE INC.,Up To,173042.0,,,Y,Y,Y,5.0,Y,FIREYE,N,Y,N,Replenishment method,FIE
+173042.0,Boston,117371,FIE-YB110UV,"Chassis, 120 VAC, 50/60 Hz with UV non s",Y,R,133476.0,FIREYE INC.,Up To,173042.0,,,Y,Y,Y,3.0,Y,FIREYE,N,Y,N,Replenishment method,FIE
+173042.0,Boston,30540,FIE-YP100,"Keypad selectable parameters, non-recycl",Y,R,133476.0,FIREYE INC.,Up To,173042.0,,,Y,Y,Y,2.0,Y,FIREYE,N,Y,N,Replenishment method,FIE
+175888.0,New Jersey,6117,45UV5-1000,"Scanner, UV",N,R,133476.0,FIREYE INC.,EOQ,175888.0,0.0,0.0,Y,Y,Y,0.0,N,,N,Y,Y,Replenishment method,FIE
+175888.0,New Jersey,24674,FIE-48PT21003,"Infrared scanner, 8ft, straight head, Bu",Y,R,133476.0,FIREYE INC.,Min/Max,175888.0,1.0,0.0,Y,Y,Y,0.0,Y,NOBIN,N,Y,N,Replenishment method,FIE
+175888.0,New Jersey,25140,FIE-6014662,"Open wiring base for cabinet mtg., use w",Y,R,133476.0,FIREYE INC.,Min/Max,175888.0,1.0,0.0,Y,Y,Y,0.0,Y,NOBIN,N,Y,N,Replenishment method,FIE
+175888.0,New Jersey,133553,FIE-6029191,1in NPT mounting flange for Phoenix Seri,Y,R,133476.0,FIREYE INC.,EOQ,175888.0,0.0,0.0,Y,Y,Y,0.0,Y,NOBIN,N,Y,N,Replenishment method,FIE
+175888.0,New Jersey,27032,FIE-ED5808,ED510 remote display cable with RJ45 con,Y,R,133476.0,FIREYE INC.,Min/Max,175888.0,1.0,0.0,Y,Y,Y,1.0,Y,AG13-03A,N,Y,N,Replenishment method,FIE
+175888.0,New Jersey,104928,FIE-ERT1,"Flame rectification amplifier, use with",Y,R,133476.0,FIREYE INC.,Min/Max,175888.0,1.0,1.0,Y,Y,Y,1.0,N,,N,N,Y,Replenishment method,FIE
+175888.0,New Jersey,27083,FIE-EUVS4,Ultraviolet self check amplifier. Use wi,Y,R,133476.0,FIREYE INC.,Min/Max,175888.0,1.0,1.0,Y,Y,Y,1.0,N,,N,N,Y,Replenishment method,FIE
+175888.0,New Jersey,28017,FIE-MBPF100S,"Flame sensor module, UV/Self check UV, o",Y,R,133476.0,FIREYE INC.,Min/Max,175888.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,FIE
+175888.0,New Jersey,1771,FIE-MEC120,"120 VAC, 50/60 Hz Chassis with standard",Y,R,133476.0,FIREYE INC.,Min/Max,175888.0,1.0,2.0,Y,Y,Y,3.0,N,,N,N,Y,Replenishment method,FIE
+175888.0,New Jersey,6129,FIE-MEC120R,"120 VAC, 50/60 Hz Chassis with remote re",Y,R,133476.0,FIREYE INC.,Min/Max,175888.0,1.0,0.0,Y,Y,Y,1.0,Y,AG14-05A,N,Y,N,Replenishment method,FIE
+175888.0,New Jersey,28022,FIE-MEP100,"Programmer, Relight function, 10 sec PTF",Y,R,133476.0,FIREYE INC.,Min/Max,175888.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,FIE
+175888.0,New Jersey,28024,FIE-MEP560,"Programmer, Selectable recycle/non-recyc",Y,R,133476.0,FIREYE INC.,Min/Max,175888.0,1.0,0.0,Y,Y,Y,0.0,Y,AH13-03A,N,Y,N,Replenishment method,FIE
+175888.0,New Jersey,28025,FIE-MEP562,"Programmer, Selectable TFI timing, purge",Y,R,133476.0,FIREYE INC.,Min/Max,175888.0,1.0,1.0,Y,Y,Y,1.0,N,,N,N,Y,Replenishment method,FIE
+175888.0,New Jersey,6495,FIE-MEUVS4,"UV self check amp, 3 sec FFRT. Use with",Y,R,133476.0,FIREYE INC.,Min/Max,175888.0,1.0,0.0,Y,Y,Y,0.0,N,,N,Y,Y,Replenishment method,FIE
+175888.0,New Jersey,28091,FIE-MP100,"Programmer, Relight function.",Y,R,133476.0,FIREYE INC.,Min/Max,175888.0,1.0,1.0,Y,Y,Y,1.0,N,,N,N,Y,Replenishment method,FIE
+175888.0,New Jersey,13582,FIE-MP230H,"Programmer, Selectable recycle/non-recyc",Y,R,133476.0,FIREYE INC.,EOQ,175888.0,0.0,0.0,Y,Y,Y,0.0,N,,N,Y,Y,Replenishment method,FIE
+175888.0,New Jersey,30540,FIE-YP100,"Keypad selectable parameters, non-recycl",Y,R,133476.0,FIREYE INC.,EOQ,175888.0,0.0,0.0,N,Y,Y,1.0,Y,AH13-06A,N,Y,N,Replenishment method,FIE
+175891.0,Milwaukee (West Allis),6117,45UV5-1000,"Scanner, UV",N,R,133476.0,FIREYE INC.,EOQ,175891.0,2.0,0.0,Y,Y,Y,0.0,Y,AB0244,N,Y,N,Replenishment method,FIE
+175891.0,Milwaukee (West Allis),133032,FIE-5950710,"Cable, 10 ft. (3050 mm) for remote displ",Y,R,133476.0,FIREYE INC.,EOQ,175891.0,0.0,0.0,N,Y,Y,1.0,Y,D66E,N,Y,N,Replenishment method,FIE
+175891.0,Milwaukee (West Allis),25278,FIE-70D40,"Chassis, For manually ignited burners, 1",Y,R,133476.0,FIREYE INC.,EOQ,175891.0,0.0,0.0,Y,Y,Y,0.0,Y,AB1235,N,Y,N,Replenishment method,FIE
+175891.0,Milwaukee (West Allis),27032,FIE-ED5808,ED510 remote display cable with RJ45 con,Y,R,133476.0,FIREYE INC.,EOQ,175891.0,0.0,0.0,N,Y,Y,1.0,Y,AB0231,N,Y,N,Replenishment method,FIE
+175891.0,Milwaukee (West Allis),27075,FIE-EP380,Programmer. Selectable purge (30 sec min,Y,R,133476.0,FIREYE INC.,Min/Max,175891.0,1.0,0.0,Y,Y,Y,1.0,Y,AB0225,N,Y,N,Replenishment method,FIE
+175891.0,Milwaukee (West Allis),6128,FIE-FX20,"5 wire Modbus Servo-motor, 15 ft lbs., 2",Y,R,133476.0,FIREYE INC.,EOQ,175891.0,2.0,0.0,Y,Y,Y,2.0,Y,AB0223,N,Y,N,Replenishment method,FIE
+175891.0,Milwaukee (West Allis),121861,FIE-MART1T,Flame rect amp. .8 sec FFRT. Use with 69,Y,R,133476.0,FIREYE INC.,EOQ,175891.0,0.0,0.0,Y,Y,Y,1.0,Y,AB0222,N,Y,N,Replenishment method,FIE
+175891.0,Milwaukee (West Allis),323939,FIE-MB510,Alpha-numeric remote display with keypad,Y,R,133476.0,FIREYE INC.,Min/Max,175891.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,FIE
+175891.0,Milwaukee (West Allis),323947,FIE-MB632S,Same as MB-600S except motherboard is MB,Y,R,133476.0,FIREYE INC.,Min/Max,175891.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,FIE
+175891.0,Milwaukee (West Allis),28024,FIE-MEP560,"Programmer, Selectable recycle/non-recyc",Y,R,133476.0,FIREYE INC.,EOQ,175891.0,0.0,0.0,Y,Y,Y,0.0,Y,AB0215,N,Y,N,Replenishment method,FIE
+175891.0,Milwaukee (West Allis),28091,FIE-MP100,"Programmer, Relight function.",Y,R,133476.0,FIREYE INC.,EOQ,175891.0,5.0,0.0,Y,Y,Y,5.0,Y,AB0214,N,Y,N,Replenishment method,FIE
+175891.0,Milwaukee (West Allis),28101,FIE-MP560,"Programmer, Selectable recycle/non-recyc",Y,R,133476.0,FIREYE INC.,EOQ,175891.0,2.0,0.0,Y,Y,Y,2.0,Y,AB0214,N,Y,N,Replenishment method,FIE
+175891.0,Milwaukee (West Allis),117356,FIE-NXC12,"4 wire CANbus Servo-motor, 9 ft lbs., 12",Y,R,133476.0,FIREYE INC.,EOQ,175891.0,0.0,0.0,N,Y,Y,3.0,Y,AB0212,N,Y,N,Replenishment method,FIE
+175892.0,Green Bay,4851,FIE-1291452,Remote display (ED510) mounting kit with,Y,R,133476.0,FIREYE INC.,EOQ,175891.0,0.0,0.0,N,Y,Y,1.0,Y,AF01,Y,Y,N,Replenishment method,FIE
+175892.0,Green Bay,24631,FIE-45UV51009,"UV self-check scanner, 1in NPT, 102 - 26",Y,R,133476.0,FIREYE INC.,Min/Max,175891.0,1.0,1.0,Y,Y,Y,1.0,Y,AF01,Y,N,N,Replenishment method,FIE
+175892.0,Green Bay,24676,FIE-48PT29003,"Infrared scanner, 8ft, 90 degree head, B",Y,R,133476.0,FIREYE INC.,Min/Max,175891.0,1.0,1.0,Y,Y,Y,3.0,Y,AF01,Y,N,N,Replenishment method,FIE
+175892.0,Green Bay,6120,FIE-595622,Cable to connect NXD410 display module t,Y,R,133476.0,FIREYE INC.,Min/Max,175891.0,1.0,1.0,Y,Y,Y,1.0,Y,AF01,Y,N,N,Replenishment method,FIE
+175892.0,Green Bay,25140,FIE-6014662,"Open wiring base for cabinet mtg., use w",Y,R,133476.0,FIREYE INC.,EOQ,175891.0,0.0,0.0,N,Y,Y,1.0,Y,AF01,Y,Y,N,Replenishment method,FIE
+175892.0,Green Bay,133513,FIE-601950,Expansion module wiring base.,Y,R,133476.0,FIREYE INC.,EOQ,175891.0,0.0,0.0,N,Y,Y,1.0,Y,AF01,Y,Y,N,Replenishment method,FIE
+175892.0,Green Bay,26978,FIE-E110,"Control, consisting of EB700, 48-1836,",Y,R,133476.0,FIREYE INC.,Min/Max,175891.0,1.0,1.0,Y,Y,Y,2.0,Y,AF01,Y,N,N,Replenishment method,FIE
+175892.0,Green Bay,26979,FIE-E1R1,"Infrared autocheck amplifier, use with 4",Y,R,133476.0,FIREYE INC.,Min/Max,175891.0,1.0,1.0,Y,Y,Y,2.0,Y,AF01,Y,N,N,Replenishment method,FIE
+175892.0,Green Bay,27029,FIE-ED510,2 line x 16 character backlit LCD displa,Y,R,133476.0,FIREYE INC.,Min/Max,175891.0,1.0,2.0,Y,Y,Y,2.0,Y,AF01,Y,N,N,Replenishment method,FIE
+175892.0,Green Bay,27069,FIE-EP160,Programmer. Selectable purge (30 sec min,Y,R,133476.0,FIREYE INC.,Min/Max,175891.0,2.0,3.0,Y,Y,Y,3.0,Y,AF01,Y,N,N,Replenishment method,FIE
+175892.0,Green Bay,27082,FIE-EUV1,"Ultraviolet amplifier, use with UV1, UV2",Y,R,133476.0,FIREYE INC.,Min/Max,175891.0,1.0,2.0,Y,Y,Y,2.0,Y,AF01,Y,N,N,Replenishment method,FIE
+175892.0,Green Bay,117349,FIE-FX04,"5 wire Modbus Servo-motor, 3 ft lbs., 4",Y,R,133476.0,FIREYE INC.,Min/Max,175891.0,1.0,1.0,Y,Y,Y,1.0,Y,AF01,Y,N,N,Replenishment method,FIE
+175892.0,Green Bay,6128,FIE-FX20,"5 wire Modbus Servo-motor, 15 ft lbs., 2",Y,R,133476.0,FIREYE INC.,Min/Max,175891.0,1.0,1.0,Y,Y,Y,2.0,Y,AF01,Y,N,N,Replenishment method,FIE
+175892.0,Green Bay,28008,FIE-MART1,Flame rect amp. 2-4 sec FFRT. Use with 6,Y,R,133476.0,FIREYE INC.,Min/Max,175891.0,1.0,2.0,Y,Y,Y,2.0,Y,AF01,Y,N,N,Replenishment method,FIE
+175892.0,Green Bay,28012,FIE-MAUV1,"UV amp, 2-4 sec FFRT. Use with UV1, UV2,",Y,R,133476.0,FIREYE INC.,Min/Max,175891.0,1.0,1.0,Y,Y,Y,3.0,Y,AF01,Y,N,N,Replenishment method,FIE
+175892.0,Green Bay,28018,FIE-MC120,"120 VAC, 50/60 Hz Chassis.",Y,R,133476.0,FIREYE INC.,Min/Max,175891.0,1.0,1.0,Y,Y,Y,1.0,Y,AF01,Y,N,N,Replenishment method,FIE
+175892.0,Green Bay,28023,FIE-MEP230,"Programmer, Selectable recycle/non-recyc",Y,R,133476.0,FIREYE INC.,EOQ,175891.0,0.0,0.0,N,Y,Y,2.0,Y,AF01,Y,Y,N,Replenishment method,FIE
+175892.0,Green Bay,28091,FIE-MP100,"Programmer, Relight function.",Y,R,133476.0,FIREYE INC.,Min/Max,175891.0,1.0,1.0,Y,Y,Y,2.0,Y,AF01,Y,N,N,Replenishment method,FIE
+175892.0,Green Bay,28094,FIE-MP230,"Programmer, Selectable recycle/non-recyc",Y,R,133476.0,FIREYE INC.,Min/Max,175891.0,1.0,2.0,Y,Y,Y,2.0,Y,AF01,Y,N,N,Replenishment method,FIE
+175892.0,Green Bay,20039,FIE-NXCESIR,Plug-in Amplifier card for NXF4000. Infr,Y,R,133476.0,FIREYE INC.,Min/Max,175891.0,1.0,1.0,Y,Y,Y,1.0,Y,AF01,Y,N,N,Replenishment method,FIE
+175892.0,Green Bay,117359,FIE-NXCESUV,Plug-in Amplifier card for NXF4000. Ultr,Y,R,133476.0,FIREYE INC.,Min/Max,175891.0,1.0,1.0,Y,Y,Y,2.0,Y,AF01,Y,N,N,Replenishment method,FIE
+175892.0,Green Bay,117360,FIE-NXD410,DISPLAY MODULE FOR PPC4000,N,R,133476.0,FIREYE INC.,Min/Max,175891.0,1.0,1.0,N,Y,Y,1.0,Y,AF01,Y,N,N,Replenishment method,FIE
+175892.0,Green Bay,117361,FIE-NXD410TS,4.3in (diagonal) color touch screen disp,Y,R,133476.0,FIREYE INC.,Min/Max,175891.0,1.0,1.0,Y,Y,Y,1.0,Y,AF01,Y,N,N,Replenishment method,FIE
+175892.0,Green Bay,10955,FIE-NXDBVSD,VFD interface daughter board with two VF,Y,R,133476.0,FIREYE INC.,Min/Max,175891.0,1.0,1.0,Y,Y,Y,1.0,Y,AF01,Y,N,N,Replenishment method,FIE
+175892.0,Green Bay,19254,FIE-NXF4000,UL/CE Approved standalone parallel posit,Y,R,133476.0,FIREYE INC.,Min/Max,175891.0,1.0,1.0,Y,Y,Y,1.0,Y,AF01,Y,N,N,Replenishment method,FIE
+175892.0,Green Bay,6151,FIE-PPC4000,UL Approved parallel positioning control,Y,R,133476.0,FIREYE INC.,Min/Max,175891.0,1.0,1.0,Y,Y,Y,1.0,Y,AF01,Y,N,N,Replenishment method,FIE
+175892.0,Green Bay,121988,FIE-PPC6000,UL Approved stand-alone parallel positio,Y,R,133476.0,FIREYE INC.,Min/Max,175891.0,1.0,1.0,Y,Y,Y,1.0,Y,AF01,Y,N,N,Replenishment method,FIE
+175892.0,Green Bay,6152,FIE-UV1A3,"UV scanner, 1/2in NPT connector, 3 ft. c",Y,R,133476.0,FIREYE INC.,Min/Max,175891.0,1.0,3.0,Y,Y,Y,2.0,Y,AF01,Y,N,N,Replenishment method,FIE
+175892.0,Green Bay,29895,FIE-UV1A6,"UV scanner, 1/2in NPT connector, 6 ft. c",Y,R,133476.0,FIREYE INC.,Min/Max,175891.0,1.0,2.0,Y,Y,Y,3.0,Y,AF01,Y,N,N,Replenishment method,FIE
+175892.0,Green Bay,117371,FIE-YB110UV,"Chassis, 120 VAC, 50/60 Hz with UV non s",Y,R,133476.0,FIREYE INC.,Min/Max,175891.0,1.0,1.0,Y,Y,Y,1.0,Y,AF01,Y,N,N,Replenishment method,FIE
+175892.0,Green Bay,30540,FIE-YP100,"Keypad selectable parameters, non-recycl",Y,R,133476.0,FIREYE INC.,EOQ,175891.0,0.0,0.0,N,Y,Y,2.0,Y,AF01,Y,Y,N,Replenishment method,FIE
+175892.0,Green Bay,117373,FIE-YP300,"Keypad selectable parameters, recycle op",Y,R,133476.0,FIREYE INC.,EOQ,175892.0,0.0,0.0,N,Y,Y,1.0,Y,AF01,N,Y,N,Replenishment method,FIE

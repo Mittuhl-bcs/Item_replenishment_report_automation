@@ -1,0 +1,125 @@
+location_id,location_name,inv_mast_uid,item_id,item_desc,on_vendor_price_book,product_type,primary_supplier_id,supplier_name,replenishment_method,replenishment_location,inv_min,inv_max,stockable,sellable,buy,qty_on_hand,track_bins,primary_bin,repl_loc_review,repl_meth_review,track_bin_review,discrepancy_type,Prefix_of_company
+10770.0,Nashville,100352,ALT-CA702,Terminal Block End Stop,Y,R,168837.0,Altech Corporation,Min/Max,10770.0,10.0,25.0,Y,Y,Y,50.0,N,,N,N,Y,Replenishment method,ALT
+10770.0,Nashville,450132,ALT-CX4,"DIN Term Blk, Spring, Feed-Thru",Y,R,168837.0,Altech Corporation,Min/Max,10770.0,25.0,50.0,Y,Y,Y,100.0,N,,N,N,Y,Replenishment method,ALT
+10770.0,Nashville,450149,ALT-CX4BL,"DIN Term Blk, Spring, Feed-Thru",Y,R,168837.0,Altech Corporation,Min/Max,10770.0,10.0,25.0,Y,Y,Y,100.0,N,,N,N,Y,Replenishment method,ALT
+10770.0,Nashville,450150,ALT-CX4BU,"DIN Term Blk, Spring, Feed-Thru",Y,R,168837.0,Altech Corporation,Min/Max,10770.0,10.0,25.0,Y,Y,Y,100.0,N,,N,N,Y,Replenishment method,ALT
+10770.0,Nashville,450151,ALT-CX4G,"DIN Term Blk, Spring, Feed-Thru",Y,R,168837.0,Altech Corporation,Min/Max,10770.0,10.0,25.0,Y,Y,Y,100.0,N,,N,N,Y,Replenishment method,ALT
+10770.0,Nashville,450153,ALT-CX4R,"DIN Term Blk, Spring, Feed-Thru",Y,R,168837.0,Altech Corporation,Min/Max,10770.0,10.0,25.0,Y,Y,Y,100.0,N,,N,N,Y,Replenishment method,ALT
+10770.0,Nashville,450154,ALT-CX4W,"DIN Term Blk, Spring, Feed-Thru",Y,R,168837.0,Altech Corporation,Min/Max,10770.0,10.0,25.0,Y,Y,Y,100.0,N,,N,N,Y,Replenishment method,ALT
+10770.0,Nashville,450155,ALT-CX4Y,"DIN Term Blk, Spring, Feed-Thru",Y,R,168837.0,Altech Corporation,Min/Max,10770.0,10.0,25.0,Y,Y,Y,100.0,N,,N,N,Y,Replenishment method,ALT
+10770.0,Nashville,450180,ALT-CXDL25,"DIN Term Blk, Spring, Dbl Level",Y,R,168837.0,Altech Corporation,Min/Max,10770.0,10.0,25.0,Y,Y,Y,50.0,N,,N,N,Y,Replenishment method,ALT
+10770.0,Nashville,450203,ALT-CXF4,"DIN Term Blk, Spring, Fuse 5x20mm",Y,R,168837.0,Altech Corporation,Min/Max,10770.0,10.0,25.0,Y,Y,Y,50.0,N,,N,N,Y,Replenishment method,ALT
+10770.0,Nashville,465972,ALT-CXG4,"DIN Term Blk, Spring, Grnd",Y,R,168837.0,Altech Corporation,Min/Max,10770.0,10.0,25.0,Y,Y,Y,100.0,N,,N,N,Y,Replenishment method,ALT
+10770.0,Nashville,466299,ALT-EPCX253,"End Plate, grey",Y,R,168837.0,Altech Corporation,Min/Max,10770.0,10.0,25.0,Y,Y,Y,50.0,N,,N,N,Y,Replenishment method,ALT
+10770.0,Nashville,466301,ALT-EPCX4,"End Plate, grey",Y,R,168837.0,Altech Corporation,Min/Max,10770.0,5.0,10.0,Y,Y,Y,50.0,N,,N,N,Y,Replenishment method,ALT
+10770.0,Nashville,466308,ALT-EPCXDL25,"End Plate, grey",Y,R,168837.0,Altech Corporation,Min/Max,10770.0,10.0,25.0,Y,Y,Y,50.0,N,,N,N,Y,Replenishment method,ALT
+10770.0,Nashville,451364,ALT-HCL84,"External Jumper, 8mm spacing, 4 pole",Y,R,168837.0,Altech Corporation,Min/Max,10770.0,10.0,25.0,Y,Y,Y,50.0,N,,N,N,Y,Replenishment method,ALT
+10770.0,Nashville,451595,ALT-JX410,"Jumper, Push-In, 10 pole, 6mm spacing",Y,R,168837.0,Altech Corporation,Min/Max,10770.0,2.0,5.0,Y,Y,Y,10.0,N,,N,N,Y,Replenishment method,ALT
+10770.0,Nashville,451597,ALT-JX42,"Jumper, Push-In, 2 pole, 6mm spacing",Y,R,168837.0,Altech Corporation,Min/Max,10770.0,10.0,25.0,Y,Y,Y,100.0,N,,N,N,Y,Replenishment method,ALT
+10770.0,Nashville,451598,ALT-JX43,"Jumper, Push-In, 3 pole, 6mm spacing",Y,R,168837.0,Altech Corporation,Min/Max,10770.0,10.0,25.0,Y,Y,Y,50.0,N,,N,N,Y,Replenishment method,ALT
+10770.0,Nashville,451599,ALT-JX44,"Jumper, Push-In, 4 pole, 6mm spacing",Y,R,168837.0,Altech Corporation,Min/Max,10770.0,10.0,25.0,Y,Y,Y,50.0,N,,N,N,Y,Replenishment method,ALT
+10770.0,Nashville,101956,ALT-MT6,Term Block tags (BLANK),Y,R,168837.0,Altech Corporation,Min/Max,10770.0,2.0,5.0,Y,Y,Y,5.0,N,,N,N,Y,Replenishment method,ALT
+10770.0,Nashville,471402,ALT-PPCX4,"Partition Plate, grey",Y,R,168837.0,Altech Corporation,Min/Max,10770.0,10.0,25.0,Y,Y,Y,40.0,N,,N,N,Y,Replenishment method,ALT
+166553.0,Austin,285714,ALT-B25X35SB,"Wire duct BLACK (new) 1"" x 1.5"" nom.",N,R,168837.0,Altech Corporation,Min/Max,166553.0,0.0,0.0,N,Y,Y,11.0,N,,N,N,Y,Replenishment method,ALT
+166553.0,Austin,114326,ALT-B25X50SW,"Wire Duct, 1""x2"", White",Y,R,168837.0,Altech Corporation,Min/Max,166553.0,0.0,0.0,N,Y,Y,7.0,N,,N,N,Y,Replenishment method,ALT
+166553.0,Austin,111765,ALT-B35X35S,"Wire Duct, GRAY, 35x35mm x 2m",Y,R,168837.0,Altech Corporation,Min/Max,166553.0,0.0,0.0,N,Y,Y,5.0,N,,N,N,Y,Replenishment method,ALT
+166553.0,Austin,285716,ALT-B35X35SB,"Wire duct BLACK (new) 1.5"" x 1.5"" nom.",N,R,168837.0,Altech Corporation,Min/Max,166553.0,0.0,0.0,N,Y,Y,24.0,N,,N,N,Y,Replenishment method,ALT
+166553.0,Austin,111766,ALT-B35X75S,"Wire Duct, GRAY, 35x75mm x 2m length",Y,R,168837.0,Altech Corporation,Min/Max,166553.0,8.0,8.0,Y,Y,Y,0.0,N,,N,N,Y,Replenishment method,ALT
+166553.0,Austin,114330,ALT-B50X50SW,"Wire Duct, White, 2""x2""",Y,R,168837.0,Altech Corporation,Min/Max,166553.0,0.0,0.0,N,Y,Y,16.0,N,,N,N,Y,Replenishment method,ALT
+166553.0,Austin,115300,ALT-B50X75S,"Wire Duct, Standard slot",Y,R,168837.0,Altech Corporation,Min/Max,166553.0,0.0,0.0,N,Y,Y,7.0,N,,N,N,Y,Replenishment method,ALT
+166553.0,Austin,473978,ALT-TL50LB2U,"Tower Light, 50mm, Lens Module",Y,R,168837.0,Altech Corporation,Min/Max,166553.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,ALT
+166557.0,Dallas,448721,ALT-CA73210,"Current Bar, 6mm spacing, 10 Pole",Y,R,168837.0,Altech Corporation,Min/Max,166557.0,0.0,0.0,N,Y,Y,75.0,N,,N,N,Y,Replenishment method,ALT
+166557.0,Dallas,468119,ALT-MT633K40,Overload Relay for MC-50A~65A,Y,R,168837.0,Altech Corporation,Min/Max,166557.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,ALT
+166557.0,Dallas,114915,ALT-MT633K50L,"OVERLOAD RELAY, 30-50A, 65AF, LUG",Y,R,168837.0,Altech Corporation,Min/Max,166557.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,ALT
+166557.0,Dallas,471459,ALT-PSC9624,"Power Supply;DinRail,100W, CL2",Y,R,168837.0,Altech Corporation,Min/Max,166557.0,0.0,0.0,N,Y,Y,4.0,N,,N,N,Y,Replenishment method,ALT
+166559.0,Houston,98091,ALT-153901,"PB1-L, 94x94x81mm Enclosure",Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,1.0,6.0,Y,Y,Y,3.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
+166559.0,Houston,98227,ALT-22040100,"H1.50/8 Insulated,16AWG",Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,100.0,200.0,Y,Y,Y,499.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
+166559.0,Houston,98315,ALT-25111201M,"TS35x7.5 DIN Rail, Steel, 1M",Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,0.0,20.0,Y,Y,Y,46.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
+166559.0,Houston,98316,ALT-25111211M,"TS35x7.5 DIN Rail, Aluminum",Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,0.0,60.0,Y,Y,Y,21.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
+166559.0,Houston,98349,ALT-27770100,"H2x1.50/8, Dual Wire",Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,100.0,400.0,Y,Y,Y,400.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
+166559.0,Houston,98352,ALT-28410100,"H1.50/8-D, DIN Std,16AWG",Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,200.0,600.0,Y,Y,Y,499.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
+166559.0,Houston,98358,ALT-28640100,"H0.50/8-D DIN Std,20AWG",Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,0.0,0.0,N,Y,Y,100.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
+166559.0,Houston,98365,ALT-2ADP,"Fixing Adapter, 2 part kit",Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,2.0,10.0,Y,Y,Y,15.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
+166559.0,Houston,98367,ALT-2AF2,"Push Button Operator, 22 mm,",Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,2.0,6.0,Y,Y,Y,7.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
+166559.0,Houston,347281,ALT-2AF6,"Push Button Operator, 22 mm,",Y,R,168837.0,Altech Corporation,Min/Max,166559.0,0.0,0.0,N,Y,Y,4.0,N,,N,N,Y,Replenishment method,ALT
+166559.0,Houston,108754,ALT-B25X35S,"Wire duct, GREY (new) 1"" x 1.5"" nom.",Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,2.0,12.0,Y,Y,Y,14.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
+166559.0,Houston,285714,ALT-B25X35SB,"Wire duct BLACK (new) 1"" x 1.5"" nom.",N,R,168837.0,Altech Corporation,OP/OQ,166559.0,0.0,0.0,N,Y,Y,11.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
+166559.0,Houston,108759,ALT-B25X50S,"Wire duct, GREY (new) 1"" x  2"" nom.",Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,0.0,16.0,Y,Y,Y,12.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
+166559.0,Houston,108755,ALT-B25X75S,"Wire duct, GREY (new) 1"" x 3"" nom.",Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,2.0,8.0,Y,Y,Y,18.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
+166559.0,Houston,108760,ALT-B25X75SW,"Wire duct, WHITE (new), 1"" x 3""",Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,2.0,8.0,Y,Y,Y,8.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
+166559.0,Houston,109398,ALT-B35X50S,"Gray Wire Duct, 1.5""x 2""",Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,0.0,32.0,Y,Y,Y,39.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
+166559.0,Houston,109967,ALT-B35X50SW,"Wire duct,Stand Slot,1.5""x2"" White W/Cov",Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,0.0,24.0,Y,Y,Y,2.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
+166559.0,Houston,108390,ALT-B50X50S,50MM X  50MM Grey Wire Duct,Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,8.0,24.0,Y,Y,Y,30.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
+166559.0,Houston,100346,ALT-CA202,"End Stop 35mm DIN Rail, Heavy duty",Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,10.0,60.0,Y,Y,Y,102.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
+166559.0,Houston,100351,ALT-CA603,Angled din-rail sup bracket,Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,4.0,29.0,Y,Y,Y,32.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
+166559.0,Houston,448721,ALT-CA73210,"Current Bar, 6mm spacing, 10 Pole",Y,R,168837.0,Altech Corporation,Min/Max,166559.0,0.0,0.0,N,Y,Y,600.0,N,,N,N,Y,Replenishment method,ALT
+166559.0,Houston,100357,ALT-CA802,Terminal Block End Stop,Y,R,168837.0,Altech Corporation,Min/Max,166559.0,0.0,0.0,Y,Y,Y,122.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
+166559.0,Houston,100411,ALT-CF4UL110240V,"DIN Term Blk, Screw, Fuse 5x20mm, LED",Y,R,168837.0,Altech Corporation,Min/Max,166559.0,0.0,0.0,Y,Y,Y,41.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
+166559.0,Houston,100413,ALT-CGT4N,Grounding Terminal Yellow/Green 6mm,Y,R,168837.0,Altech Corporation,Min/Max,166559.0,0.0,0.0,Y,Y,Y,24.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
+166559.0,Houston,100480,ALT-CTS4UN,"DIN Term Blk, Screw, Feed-Thru",Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,300.0,700.0,Y,Y,Y,466.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
+166559.0,Houston,100481,ALT-CTS4UNBG,"DIN Term Blk, Screw, Feed-Thru",Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,0.0,100.0,Y,Y,Y,221.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
+166559.0,Houston,100482,ALT-CTS4UNBL,"DIN Term Blk, Screw, Feed-Thru",Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,50.0,300.0,Y,Y,Y,166.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
+166559.0,Houston,100483,ALT-CTS4UNBU,"DIN Term Blk, Screw, Feed-Thru",Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,50.0,200.0,Y,Y,Y,193.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
+166559.0,Houston,100484,ALT-CTS4UNDB,"DIN Term Blk, Screw, Feed-Thru",Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,0.0,100.0,Y,Y,Y,56.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
+166559.0,Houston,100485,ALT-CTS4UNG,"DIN Term Blk, Screw, Feed-Thru",Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,0.0,100.0,Y,Y,Y,121.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
+166559.0,Houston,100486,ALT-CTS4UNO,"DIN Term Blk, Screw, Feed-Thru",Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,0.0,200.0,Y,Y,Y,199.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
+166559.0,Houston,100487,ALT-CTS4UNR,"DIN Term Blk, Screw, Feed-Thru",Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,50.0,300.0,Y,Y,Y,203.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
+166559.0,Houston,100488,ALT-CTS4UNW,"DIN Term Blk, Screw, Feed-Thru",Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,0.0,100.0,Y,Y,Y,300.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
+166559.0,Houston,100489,ALT-CTS4UNY,"DIN Term Blk, Screw, Feed-Thru",Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,10.0,100.0,Y,Y,Y,131.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
+166559.0,Houston,100490,ALT-CTS6U,"DIN Term Blk, Screw, Feed-Thru",Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,10.0,100.0,Y,Y,Y,59.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
+166559.0,Houston,100766,ALT-EP254UN,Terminal Block End Piece Gray,Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,0.0,60.0,Y,Y,Y,216.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
+166559.0,Houston,100767,ALT-EP254UNBG,Terminal Block End Piece Beige,Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,0.0,60.0,Y,Y,Y,55.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
+166559.0,Houston,100768,ALT-EP254UNBL,Terminal Block End Piece Black,Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,10.0,60.0,Y,Y,Y,100.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
+166559.0,Houston,100769,ALT-EP254UNBU,Terminal Block End Piece Blue,Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,10.0,60.0,Y,Y,Y,175.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
+166559.0,Houston,100770,ALT-EP254UNDB,Terminal Block End Piece Dark Brown,Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,10.0,60.0,Y,Y,Y,91.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
+166559.0,Houston,100771,ALT-EP254UNG,Terminal Block End Piece Green,Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,10.0,60.0,Y,Y,Y,50.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
+166559.0,Houston,100772,ALT-EP254UNO,Terminal Block End Piece Orange,Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,10.0,60.0,Y,Y,Y,72.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
+166559.0,Houston,100773,ALT-EP254UNR,Terminal Block End Piece Red,Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,10.0,60.0,Y,Y,Y,51.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
+166559.0,Houston,100774,ALT-EP254UNW,Terminal Block End Piece White,Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,10.0,60.0,Y,Y,Y,120.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
+166559.0,Houston,100775,ALT-EP254UNY,Terminal Block End Piece Yellow,Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,10.0,50.0,N,Y,Y,101.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
+166559.0,Houston,100776,ALT-EP610U,Term Block 6-10mm end piece,Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,10.0,50.0,Y,Y,Y,47.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
+166559.0,Houston,101961,ALT-MT6H110,Terminal Block Tags Horizonal 1-10,Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,3.0,6.0,Y,Y,Y,6.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
+166559.0,Houston,101962,ALT-MT6H1120,Terminal Block Tags Horizontal 11-20,Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,3.0,6.0,Y,Y,Y,7.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
+166559.0,Houston,101963,ALT-MT6H2130,Terminal Block Tags Horizontal 21-30,Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,3.0,6.0,Y,Y,Y,8.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
+166559.0,Houston,101964,ALT-MT6H3140,Terminal Block Tags Horizontal 31-40,Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,3.0,6.0,Y,Y,Y,7.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
+166559.0,Houston,101965,ALT-MT6H4150,Terminal Block Tags Horizontal 41-50,Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,3.0,6.0,Y,Y,Y,5.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
+166559.0,Houston,101966,ALT-MT6H5160,Terminal Block Tags Horizontal 51-60,Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,3.0,6.0,Y,Y,Y,6.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
+166559.0,Houston,101967,ALT-MT6H6170,Terminal Block Tags Horizontal 61-70,Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,2.0,4.0,Y,Y,Y,4.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
+166559.0,Houston,101969,ALT-MT6H8190,Terminal Block Tags Horizontal 81-90,Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,0.0,4.0,Y,Y,Y,3.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
+166559.0,Houston,101970,ALT-MT6H91100,Terminal Block Tags Horizontal 91-10,Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,0.0,4.0,Y,Y,Y,3.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
+166559.0,Houston,101974,ALT-MT6HCOM,Terminal Block Tags Horizonal COM,N,R,168837.0,Altech Corporation,OP/OQ,166559.0,0.0,4.0,Y,Y,Y,3.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
+166559.0,Houston,101976,ALT-MT6HGRND,Term Block Tags Horiz GND SYMBOL,Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,0.0,4.0,Y,Y,Y,9.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
+166559.0,Houston,101977,ALT-MT6HH,"Terminal Block Tags Horizonal ""H""",N,R,168837.0,Altech Corporation,OP/OQ,166559.0,0.0,4.0,Y,Y,Y,3.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
+166559.0,Houston,101978,ALT-MT6HL,Terminal Block Tags Horizonal L,Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,0.0,4.0,Y,Y,Y,5.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
+166559.0,Houston,101982,ALT-MT6HNEG,Terminal Block Tags Horizonal (-),N,R,168837.0,Altech Corporation,OP/OQ,166559.0,0.0,4.0,Y,Y,Y,2.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
+166559.0,Houston,101983,ALT-MT6HPOS,Terminal Block Tags Horizonal ( ),N,R,168837.0,Altech Corporation,OP/OQ,166559.0,0.0,4.0,Y,Y,Y,2.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
+166559.0,Houston,468221,ALT-MT6VL,"Marking Tag Set MT6, 100 Tags",Y,R,168837.0,Altech Corporation,Min/Max,166559.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,ALT
+166559.0,Houston,102291,ALT-PP254UN,Terminal Block Isolation Partition C,Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,10.0,50.0,Y,Y,Y,23.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
+166560.0,New Orleans,100156,ALT-B25X40SR,"1""x1 1/2""x6 1/2 WireDuct Cvr Grey",N,R,168837.0,Altech Corporation,Min/Max,166553.0,0.0,0.0,N,Y,Y,4.0,Y,ALTCH,Y,N,N,Replenishment method,ALT
+166560.0,New Orleans,100159,ALT-B25X60SBUR,"1""x2""x6 1/2 WireDuct Cvr Blue",N,R,168837.0,Altech Corporation,Min/Max,166553.0,7.0,10.0,Y,Y,Y,0.0,Y,ALTCH,Y,N,N,Replenishment method,ALT
+166560.0,New Orleans,297382,ALT-B25X75TB,"1""x3""x6 1/2  Thin Wire Duct, BLK w Cover",N,R,168837.0,Altech Corporation,Min/Max,166560.0,0.0,8.0,Y,Y,Y,23.0,N,,N,N,Y,Replenishment method,ALT
+166560.0,New Orleans,100253,ALT-B60X60SBUR,"2""x2""x61/2 Wire Duct w/Cover",N,R,168837.0,Altech Corporation,Min/Max,166553.0,0.0,0.0,N,Y,Y,1.0,Y,ALTCH,Y,N,N,Replenishment method,ALT
+166560.0,New Orleans,100352,ALT-CA702,Terminal Block End Stop,Y,R,168837.0,Altech Corporation,Min/Max,166553.0,25.0,50.0,Y,Y,Y,7.0,Y,ALTCH,Y,N,N,Replenishment method,ALT
+166561.0,San Antonio,115702,ALT-B25X35SW,"1""x1.5""x 6.5 Wire duct  Cvr White",Y,R,168837.0,Altech Corporation,Min/Max,166561.0,0.0,0.0,N,Y,Y,22.0,N,,N,N,Y,Replenishment method,ALT
+166561.0,San Antonio,114326,ALT-B25X50SW,"Wire Duct, 1""x2"", White",Y,R,168837.0,Altech Corporation,Min/Max,166561.0,0.0,0.0,N,Y,Y,11.0,N,,N,N,Y,Replenishment method,ALT
+166561.0,San Antonio,111765,ALT-B35X35S,"Wire Duct, GRAY, 35x35mm x 2m",Y,R,168837.0,Altech Corporation,Min/Max,166561.0,0.0,0.0,N,Y,Y,14.0,N,,N,N,Y,Replenishment method,ALT
+166561.0,San Antonio,465577,ALT-B50X75SW,"Wire duct, 50x75mm, 2m length",Y,R,168837.0,Altech Corporation,Min/Max,166561.0,0.0,0.0,N,Y,Y,8.0,N,,N,N,Y,Replenishment method,ALT
+166561.0,San Antonio,471459,ALT-PSC9624,"Power Supply;DinRail,100W, CL2",Y,R,168837.0,Altech Corporation,Min/Max,166561.0,0.0,0.0,N,Y,Y,6.0,N,,N,N,Y,Replenishment method,ALT
+173042.0,Boston,117253,ALT-S5,FUSE(S),Y,R,168837.0,Altech Corporation,Min/Max,173042.0,0.0,0.0,N,Y,Y,7.0,N,,N,N,Y,Replenishment method,ALT
+175883.0,Charlotte,98315,ALT-25111201M,"TS35x7.5 DIN Rail, Steel, 1M",Y,R,168837.0,Altech Corporation,Min/Max,175883.0,0.0,0.0,N,Y,Y,40.0,N,,N,N,Y,Replenishment method,ALT
+175883.0,Charlotte,98316,ALT-25111211M,"TS35x7.5 DIN Rail, Aluminum",Y,R,168837.0,Altech Corporation,Min/Max,175883.0,0.0,0.0,N,Y,Y,40.0,N,,N,N,Y,Replenishment method,ALT
+175883.0,Charlotte,108754,ALT-B25X35S,"Wire duct, GREY (new) 1"" x 1.5"" nom.",Y,R,168837.0,Altech Corporation,Min/Max,175883.0,0.0,0.0,N,Y,Y,12.0,N,,N,N,Y,Replenishment method,ALT
+175883.0,Charlotte,109398,ALT-B35X50S,"Gray Wire Duct, 1.5""x 2""",Y,R,168837.0,Altech Corporation,Min/Max,175883.0,0.0,0.0,N,Y,Y,8.0,N,,N,N,Y,Replenishment method,ALT
+175883.0,Charlotte,111766,ALT-B35X75S,"Wire Duct, GRAY, 35x75mm x 2m length",Y,R,168837.0,Altech Corporation,Min/Max,175883.0,0.0,0.0,N,Y,Y,8.0,N,,N,N,Y,Replenishment method,ALT
+175883.0,Charlotte,101126,ALT-GMC12M10AC120V,"MINI CONTACTOR, 12A/380/440,120V COI",Y,R,168837.0,Altech Corporation,Min/Max,175883.0,0.0,0.0,N,Y,Y,4.0,N,,N,N,Y,Replenishment method,ALT
+175883.0,Charlotte,101149,ALT-GTK12M25,"OVERLOAD RELAY,1.6 TO 2.5A, 12A MINI",Y,R,168837.0,Altech Corporation,Min/Max,175883.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,ALT
+175883.0,Charlotte,101151,ALT-GTK12M6,"OVERLOAD RELAY, 4-6A, 12A MINI",Y,R,168837.0,Altech Corporation,Min/Max,175883.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,ALT
+175883.0,Charlotte,101765,ALT-MC32AAC120V,"3 POLE, 32A, 120VAC COIL 1NO/1NC AUX",Y,R,168837.0,Altech Corporation,Min/Max,175883.0,0.0,0.0,N,Y,Y,4.0,N,,N,N,Y,Replenishment method,ALT
+175883.0,Charlotte,101766,ALT-MC32AAC24V,3P 32A 2NO/2NC 24VAC COIL,Y,R,168837.0,Altech Corporation,Min/Max,175883.0,0.0,0.0,N,Y,Y,4.0,N,,N,N,Y,Replenishment method,ALT
+175883.0,Charlotte,101767,ALT-MC40AAC120V,"3 POLE, 40A, 120VAC COIL 2NO/2NC AUX",Y,R,168837.0,Altech Corporation,Min/Max,175883.0,0.0,0.0,N,Y,Y,4.0,N,,N,N,Y,Replenishment method,ALT
+175883.0,Charlotte,101768,ALT-MC40AAC24V,"3 POLE, 40A, 24VAC COIL 1NO/1NC AUX",Y,R,168837.0,Altech Corporation,Min/Max,175883.0,0.0,0.0,N,Y,Y,4.0,N,,N,N,Y,Replenishment method,ALT
+175883.0,Charlotte,101948,ALT-MT323K13,"OVERLOAD 9-13A, 22AF/40AF FRAME",Y,R,168837.0,Altech Corporation,Min/Max,175883.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,ALT
+175883.0,Charlotte,101949,ALT-MT323K18,"OVERLOAD RELAY, 12-18A, 40AF FRAME",Y,R,168837.0,Altech Corporation,Min/Max,175883.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,ALT
+175883.0,Charlotte,101950,ALT-MT323K22,"OVERLOAD RELAY, 16-22A, 40AF FRAME",Y,R,168837.0,Altech Corporation,Min/Max,175883.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,ALT
+175883.0,Charlotte,101952,ALT-MT323K32,"OVERLOAD RELAY, 22-32A, 40AF FRAME",Y,R,168837.0,Altech Corporation,Min/Max,175883.0,0.0,0.0,N,Y,Y,3.0,N,,N,N,Y,Replenishment method,ALT
+175891.0,Milwaukee (West Allis),15594,ALT-22120,"H10.0/12, Insulated,8AWG",Y,R,168837.0,Altech Corporation,Min/Max,175891.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,ALT

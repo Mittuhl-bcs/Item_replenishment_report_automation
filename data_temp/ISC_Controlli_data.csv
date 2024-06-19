@@ -1,0 +1,5 @@
+location_id,location_name,inv_mast_uid,item_id,item_desc,on_vendor_price_book,product_type,primary_supplier_id,supplier_name,replenishment_method,replenishment_location,inv_min,inv_max,stockable,sellable,buy,qty_on_hand,track_bins,primary_bin,repl_loc_review,repl_meth_review,track_bin_review,discrepancy_type,Prefix_of_company
+166553.0,Austin,488725,ISC-PALED10B,"10.1"" LCD room panel with LED bar,",Y,R,189127.0,iSMA Controlli US,Min/Max,166553.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,ISC
+166561.0,San Antonio,488553,ISC-ISMAB4U4AH,I/O module with Modbus RTU/ASCII,Y,R,189127.0,iSMA Controlli US,Min/Max,166561.0,0.0,0.0,N,Y,Y,4.0,N,,N,N,Y,Replenishment method,ISC
+166561.0,San Antonio,488651,ISC-ISMABMIX18,I/O module with Modbus RTU/ASCII or,Y,R,189127.0,iSMA Controlli US,Min/Max,166561.0,0.0,0.0,N,Y,Y,4.0,N,,N,N,Y,Replenishment method,ISC
+175883.0,Charlotte,427052,ISC-ISMABSDNL,iSMA-B-MAC36NL SD Card.,Y,R,189127.0,iSMA Controlli US,Min/Max,175883.0,5.0,10.0,Y,Y,Y,10.0,N,,N,N,Y,Replenishment method,ISC

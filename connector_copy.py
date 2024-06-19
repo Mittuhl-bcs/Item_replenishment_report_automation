@@ -26,16 +26,11 @@ def connect_db(query):
     # cursor object
     cursor = connection.cursor()
 
-    """
-    query = f"select top 10 * from bcs_view_master_data_sales_by_class
-
-    order by class_id1, class_id2, class_id3{supplier_id}
-
-    """
+    # declare variables here
 
     # delete it while using automation
     # execute the query
-    cursor.execute(query)
+    #cursor.execute(query)
 
     # unblock it while using automation
     # read data into DataFrame
@@ -68,3 +63,8 @@ def connect_db(query):
 
     
     # return df
+    return True
+
+if __name__ == "__main__" :
+
+    result = connect_db()

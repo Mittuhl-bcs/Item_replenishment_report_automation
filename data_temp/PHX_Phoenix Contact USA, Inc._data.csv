@@ -1,0 +1,62 @@
+location_id,location_name,inv_mast_uid,item_id,item_desc,on_vendor_price_book,product_type,primary_supplier_id,supplier_name,replenishment_method,replenishment_location,inv_min,inv_max,stockable,sellable,buy,qty_on_hand,track_bins,primary_bin,repl_loc_review,repl_meth_review,track_bin_review,discrepancy_type,Prefix_of_company
+10008.0,Salt Lake City,394523,PHX-2700153,PSD-S ME OB,Y,R,169692.0,"Phoenix Contact USA, Inc.",Min/Max,10008.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,PHX
+10008.0,Salt Lake City,396423,PHX-2866750,QUINT-PS/1AC/24DC/ 5,Y,R,169692.0,"Phoenix Contact USA, Inc.",Min/Max,10008.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,PHX
+10008.0,Salt Lake City,156848,PHX-3044759,Ground Modular Terminal Block,Y,R,169692.0,"Phoenix Contact USA, Inc.",OP/OQ,10008.0,20.0,100.0,Y,Y,Y,132.0,Y,SL-2J4,N,Y,N,Replenishment method,PHX
+166557.0,Dallas,400271,PHX-3004362,UK  5 N,Y,R,169692.0,"Phoenix Contact USA, Inc.",Min/Max,166557.0,0.0,0.0,N,Y,Y,50.0,N,,N,N,Y,Replenishment method,PHX
+166557.0,Dallas,274524,PHX-3005073,UK 10 N - FEED THROUGH TERM BLOCK,Y,R,169692.0,"Phoenix Contact USA, Inc.",Min/Max,166557.0,0.0,0.0,N,Y,Y,50.0,N,,N,N,Y,Replenishment method,PHX
+173042.0,Boston,3418,PHX-0800886,E/NS 35 N,Y,R,169692.0,"Phoenix Contact USA, Inc.",Min/Max,10008.0,50.0,350.0,Y,Y,Y,0.0,N,,Y,N,Y,Replenishment method,PHX
+173042.0,Boston,110001,PHX-0828736,UCT-TM 6,Y,R,169692.0,"Phoenix Contact USA, Inc.",Min/Max,10008.0,40.0,240.0,Y,Y,Y,0.0,N,,Y,N,Y,Replenishment method,PHX
+173042.0,Boston,126650,PHX-10510160001,ZB 6 LGS:FORTL.ZAHLEN 1-10,Y,R,169692.0,"Phoenix Contact USA, Inc.",Min/Max,173042.0,0.0,0.0,N,Y,Y,9.0,N,,N,N,Y,Replenishment method,PHX
+173042.0,Boston,126652,PHX-10510160011,ZB 6 LGS:FORTL.ZAHLEN 11-20,Y,R,169692.0,"Phoenix Contact USA, Inc.",Min/Max,173042.0,0.0,0.0,N,Y,Y,9.0,N,,N,N,Y,Replenishment method,PHX
+173042.0,Boston,126654,PHX-10510160021,ZB 6 LGS:FORTL.ZAHLEN 21-30,Y,R,169692.0,"Phoenix Contact USA, Inc.",Min/Max,173042.0,0.0,0.0,N,Y,Y,15.0,N,,N,N,Y,Replenishment method,PHX
+173042.0,Boston,126656,PHX-10510160031,ZB 6 LGS:FORTL.ZAHLEN 31-40,Y,R,169692.0,"Phoenix Contact USA, Inc.",Min/Max,173042.0,0.0,0.0,N,Y,Y,6.0,N,,N,N,Y,Replenishment method,PHX
+173042.0,Boston,126663,PHX-10510160061,ZB 6 LGS:FORTL.ZAHLEN 61-70,Y,R,169692.0,"Phoenix Contact USA, Inc.",Min/Max,173042.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,PHX
+173042.0,Boston,126666,PHX-10510160071,ZB 6 LGS:FORTL.ZAHLEN 71-80,Y,R,169692.0,"Phoenix Contact USA, Inc.",Min/Max,173042.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,PHX
+173042.0,Boston,126668,PHX-10510160081,ZB 6 LGS:FORTL.ZAHLEN 81-90,Y,R,169692.0,"Phoenix Contact USA, Inc.",Min/Max,173042.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,PHX
+173042.0,Boston,126670,PHX-10510160091,ZB 6 LGS:FORTL.ZAHLEN 91-100,Y,R,169692.0,"Phoenix Contact USA, Inc.",Min/Max,173042.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,PHX
+173042.0,Boston,126671,PHX-10510160101,ZB 6 LGS:FORTL.ZAHLEN 101-110,Y,R,169692.0,"Phoenix Contact USA, Inc.",Min/Max,173042.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,PHX
+173042.0,Boston,126674,PHX-10510160111,ZB 6 LGS:FORTL.ZAHLEN 111-120,Y,R,169692.0,"Phoenix Contact USA, Inc.",Min/Max,173042.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,PHX
+173042.0,Boston,105264,PHX-2907918,Type2/3 Surge Protection 120V,Y,R,169692.0,"Phoenix Contact USA, Inc.",Min/Max,10008.0,50.0,100.0,Y,Y,Y,0.0,N,,Y,N,Y,Replenishment method,PHX
+173042.0,Boston,400002,PHX-3001594,FBSR 3-6,Y,R,169692.0,"Phoenix Contact USA, Inc.",Min/Max,173042.0,0.0,0.0,N,Y,Y,48.0,N,,N,N,Y,Replenishment method,PHX
+173042.0,Boston,39548,PHX-3030271,10 position plug in jumper bridge,Y,R,169692.0,"Phoenix Contact USA, Inc.",Up To,10008.0,,,Y,Y,Y,0.0,N,,Y,Y,Y,Replenishment method,PHX
+173042.0,Boston,16065,PHX-3044102,"TERM BLOCK, 26-10AWG, GREY",Y,R,169692.0,"Phoenix Contact USA, Inc.",Min/Max,10008.0,50.0,250.0,Y,Y,Y,0.0,N,,Y,N,Y,Replenishment method,PHX
+173042.0,Boston,16066,PHX-3044115,"TERM BLOCK 26-10AWG, BLUE",Y,R,169692.0,"Phoenix Contact USA, Inc.",Min/Max,10008.0,50.0,250.0,Y,Y,Y,0.0,N,,Y,N,Y,Replenishment method,PHX
+173042.0,Boston,16067,PHX-3044128,"Terminal Block 26-10 AWG, Green Yellow",Y,R,169692.0,"Phoenix Contact USA, Inc.",Min/Max,10008.0,50.0,250.0,Y,Y,Y,0.0,N,,Y,N,Y,Replenishment method,PHX
+173042.0,Boston,105759,PHX-3045114,"TERM BLOCK 26-10AWG, YELLOW",Y,R,169692.0,"Phoenix Contact USA, Inc.",Min/Max,10008.0,50.0,250.0,Y,Y,Y,0.0,N,,Y,N,Y,Replenishment method,PHX
+173042.0,Boston,105758,PHX-3045143,"Term Block 26-10 AWG, BLACK",Y,R,169692.0,"Phoenix Contact USA, Inc.",Min/Max,10008.0,50.0,250.0,Y,Y,Y,0.0,N,,Y,N,Y,Replenishment method,PHX
+173042.0,Boston,16079,PHX-3047028,"END CAP, GREY",Y,R,169692.0,"Phoenix Contact USA, Inc.",Min/Max,10008.0,20.0,60.0,Y,Y,Y,0.0,N,,Y,N,Y,Replenishment method,PHX
+173042.0,Boston,16082,PHX-3047167,"END PLATE, PARTITION",Y,R,169692.0,"Phoenix Contact USA, Inc.",Min/Max,10008.0,20.0,60.0,Y,Y,Y,0.0,N,,Y,N,Y,Replenishment method,PHX
+175888.0,New Jersey,15907,2966171,"PLC INTERFACE RELAY, RAIL MOUNT WITH REL",N,R,169692.0,"Phoenix Contact USA, Inc.",EOQ,175888.0,0.0,0.0,Y,Y,Y,0.0,N,,N,Y,Y,Replenishment method,PHX
+175888.0,New Jersey,16064,3044092,UT 2.5 PE,N,R,169692.0,"Phoenix Contact USA, Inc.",EOQ,175888.0,0.0,0.0,Y,Y,Y,0.0,N,,N,Y,Y,Replenishment method,PHX
+175888.0,New Jersey,126210,PHX-0916604,UT 6-TMC M 1A,Y,R,169692.0,"Phoenix Contact USA, Inc.",EOQ,175888.0,0.0,0.0,Y,Y,Y,0.0,Y,NOBIN,N,Y,N,Replenishment method,PHX
+175888.0,New Jersey,354122,PHX-0916610,UT 6-TMC M 10A,Y,R,169692.0,"Phoenix Contact USA, Inc.",Min/Max,175888.0,0.0,0.0,N,Y,Y,5.0,N,,N,N,Y,Replenishment method,PHX
+175888.0,New Jersey,379303,PHX-1755583,PT 1 5/ 2-PH-5 0,Y,R,169692.0,"Phoenix Contact USA, Inc.",Min/Max,175888.0,0.0,0.0,N,Y,Y,200.0,N,,N,N,Y,Replenishment method,PHX
+175888.0,New Jersey,379313,PHX-1755635,PT 1 5/ 7-PH-5 0,Y,R,169692.0,"Phoenix Contact USA, Inc.",Min/Max,175888.0,0.0,0.0,N,Y,Y,90.0,N,,N,N,Y,Replenishment method,PHX
+175888.0,New Jersey,379316,PHX-1755648,PT 1 5/ 8-PH-5 0,Y,R,169692.0,"Phoenix Contact USA, Inc.",Min/Max,175888.0,0.0,0.0,N,Y,Y,90.0,N,,N,N,Y,Replenishment method,PHX
+175888.0,New Jersey,128708,PHX-3030213,FBS 10-5 MIN QTY 10,Y,R,169692.0,"Phoenix Contact USA, Inc.",EOQ,175888.0,1.0,0.0,Y,Y,Y,0.0,Y,NOBIN,N,Y,N,Replenishment method,PHX
+175888.0,New Jersey,128710,PHX-3030242,JUMPERS FBS 3-6 MIN QTY 50,Y,R,169692.0,"Phoenix Contact USA, Inc.",EOQ,175888.0,0.0,0.0,Y,Y,Y,0.0,Y,NOBIN,N,Y,N,Replenishment method,PHX
+175888.0,New Jersey,16075,PHX-3046139,"Phoenix UT 4-MT, Single Level Feed Thru",Y,R,169692.0,"Phoenix Contact USA, Inc.",EOQ,175888.0,0.0,0.0,N,Y,Y,50.0,Y,NOBIN,N,Y,N,Replenishment method,PHX
+175890.0,New York,39944,PHX-0916605,UT 6-TMC M 2A,Y,R,169692.0,"Phoenix Contact USA, Inc.",EOQ,175890.0,0.0,0.0,N,Y,Y,5.0,Y,BB04-03,N,Y,N,Replenishment method,PHX
+175890.0,New York,126214,PHX-0916607,UT 6-TMC M 5A,Y,R,169692.0,"Phoenix Contact USA, Inc.",EOQ,175890.0,0.0,0.0,N,Y,Y,1.0,Y,BB04-03,N,Y,N,Replenishment method,PHX
+175890.0,New York,126654,PHX-10510160021,ZB 6 LGS:FORTL.ZAHLEN 21-30,Y,R,169692.0,"Phoenix Contact USA, Inc.",Min/Max,175890.0,0.0,0.0,N,Y,Y,4.0,N,,N,N,Y,Replenishment method,PHX
+175890.0,New York,126656,PHX-10510160031,ZB 6 LGS:FORTL.ZAHLEN 31-40,Y,R,169692.0,"Phoenix Contact USA, Inc.",Min/Max,175890.0,0.0,0.0,N,Y,Y,6.0,N,,N,N,Y,Replenishment method,PHX
+175890.0,New York,128708,PHX-3030213,FBS 10-5 MIN QTY 10,Y,R,169692.0,"Phoenix Contact USA, Inc.",EOQ,175890.0,0.0,0.0,N,Y,Y,1.0,Y,NOBIN,N,Y,N,Replenishment method,PHX
+175890.0,New York,16067,PHX-3044128,"Terminal Block 26-10 AWG, Green Yellow",Y,R,169692.0,"Phoenix Contact USA, Inc.",Min/Max,175890.0,0.0,0.0,N,Y,Y,45.0,N,,N,N,Y,Replenishment method,PHX
+175890.0,New York,16083,PHX-3047293,"PHOENIX D-UTTB 2,5/4  End Cover, Gray",Y,R,169692.0,"Phoenix Contact USA, Inc.",EOQ,175890.0,0.0,0.0,N,Y,Y,45.0,N,,N,Y,Y,Replenishment method,PHX
+175890.0,New York,129249,PHX-3240188,"6.5' X 1"" X 1.5""WIRE DUCT INCLUDES COVER",Y,R,169692.0,"Phoenix Contact USA, Inc.",OP/OQ,175890.0,6.0,24.0,Y,Y,Y,11.0,Y,AA02-05,N,Y,N,Replenishment method,PHX
+175890.0,New York,129253,PHX-3240199,6.5FT x 2IN x 3IN WIRE DUCT INCL COVER,Y,R,169692.0,"Phoenix Contact USA, Inc.",OP/OQ,175890.0,6.0,12.0,Y,Y,Y,15.0,N,,N,Y,Y,Replenishment method,PHX
+175891.0,Milwaukee (West Allis),3418,PHX-0800886,E/NS 35 N,Y,R,169692.0,"Phoenix Contact USA, Inc.",OP/OQ,175891.0,50.0,100.0,Y,Y,Y,124.0,Y,AB1195,N,Y,N,Replenishment method,PHX
+175891.0,Milwaukee (West Allis),126145,PHX-0804155,EO-AB/UT/LED/15,Y,R,169692.0,"Phoenix Contact USA, Inc.",EOQ,175891.0,0.0,5.0,Y,Y,Y,0.0,Y,AB1195,N,Y,N,Replenishment method,PHX
+175891.0,Milwaukee (West Allis),126650,PHX-10510160001,ZB 6 LGS:FORTL.ZAHLEN 1-10,Y,R,169692.0,"Phoenix Contact USA, Inc.",OP/OQ,175891.0,0.0,10.0,Y,Y,Y,0.0,Y,AB1195,N,Y,N,Replenishment method,PHX
+175891.0,Milwaukee (West Allis),302561,PHX-2703022,PP-RJ-SCC-F,Y,R,169692.0,"Phoenix Contact USA, Inc.",Min/Max,175891.0,0.0,0.0,Y,Y,Y,0.0,N,,N,Y,Y,Replenishment method,PHX
+175891.0,Milwaukee (West Allis),128710,PHX-3030242,JUMPERS FBS 3-6 MIN QTY 50,Y,R,169692.0,"Phoenix Contact USA, Inc.",OP/OQ,175891.0,20.0,50.0,Y,Y,Y,46.0,Y,AB1195,N,Y,N,Replenishment method,PHX
+175891.0,Milwaukee (West Allis),16065,PHX-3044102,"TERM BLOCK, 26-10AWG, GREY",Y,R,169692.0,"Phoenix Contact USA, Inc.",OP/OQ,175891.0,20.0,50.0,N,Y,Y,4.0,Y,AB0431,N,Y,N,Replenishment method,PHX
+175892.0,Green Bay,3418,PHX-0800886,E/NS 35 N,Y,R,169692.0,"Phoenix Contact USA, Inc.",EOQ,175892.0,0.0,0.0,N,Y,Y,50.0,Y,PNL PARTS,N,Y,N,Replenishment method,PHX
+175892.0,Green Bay,126145,PHX-0804155,EO-AB/UT/LED/15,Y,R,169692.0,"Phoenix Contact USA, Inc.",EOQ,175892.0,0.0,0.0,N,Y,Y,2.0,Y,PNL PARTS,N,Y,N,Replenishment method,PHX
+175892.0,Green Bay,39944,PHX-0916605,UT 6-TMC M 2A,Y,R,169692.0,"Phoenix Contact USA, Inc.",EOQ,175892.0,0.0,0.0,N,Y,Y,8.0,Y,PNL PARTS,N,Y,N,Replenishment method,PHX
+175892.0,Green Bay,126654,PHX-10510160021,ZB 6 LGS:FORTL.ZAHLEN 21-30,Y,R,169692.0,"Phoenix Contact USA, Inc.",EOQ,175892.0,0.0,0.0,N,Y,Y,14.0,Y,PNL PARTS,N,Y,N,Replenishment method,PHX
+175892.0,Green Bay,126656,PHX-10510160031,ZB 6 LGS:FORTL.ZAHLEN 31-40,Y,R,169692.0,"Phoenix Contact USA, Inc.",EOQ,175892.0,0.0,0.0,N,Y,Y,52.0,Y,PNL PARTS,N,Y,N,Replenishment method,PHX
+175892.0,Green Bay,128710,PHX-3030242,JUMPERS FBS 3-6 MIN QTY 50,Y,R,169692.0,"Phoenix Contact USA, Inc.",EOQ,175892.0,0.0,0.0,N,Y,Y,12.0,Y,PNL PARTS,N,Y,N,Replenishment method,PHX
+175892.0,Green Bay,16067,PHX-3044128,"Terminal Block 26-10 AWG, Green Yellow",Y,R,169692.0,"Phoenix Contact USA, Inc.",EOQ,175892.0,0.0,0.0,N,Y,Y,33.0,Y,PNL PARTS,N,Y,N,Replenishment method,PHX
+175892.0,Green Bay,16079,PHX-3047028,"END CAP, GREY",Y,R,169692.0,"Phoenix Contact USA, Inc.",EOQ,175892.0,0.0,0.0,N,Y,Y,34.0,Y,PNL PARTS,N,Y,N,Replenishment method,PHX
+175892.0,Green Bay,129257,PHX-3240282,"6.5' x 1"" x 3"" WIRE DUCT INCLUDES COVER",Y,R,169692.0,"Phoenix Contact USA, Inc.",EOQ,175892.0,0.0,0.0,N,Y,Y,10.0,Y,PNL PARTS,N,Y,N,Replenishment method,PHX

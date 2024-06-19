@@ -44,6 +44,9 @@ def runner(suppliers):
 
     if process_flag == 1:
 
+        # get the connection variable
+        connection = PGS_connector.connect_to_postgres()
+        
         # download the data as a csv file
         csv_file = PGS_connector.load_data_csv(connection, table_name, output_file)
 
@@ -53,10 +56,14 @@ def runner(suppliers):
         #result = mailer.send_email(csv_file)
         result = True
 
+    else:
+        raise ValueError("Failed loading data into PGS database")
+
 
     # runs only if the result is true- mails have been sent
     if result:
         print("Process finished - files saved!!")
+        logging.info("Process finished - files saved!!")
 
 
 if __name__ == "__main__":

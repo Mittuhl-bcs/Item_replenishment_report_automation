@@ -1,0 +1,53 @@
+location_id,location_name,inv_mast_uid,item_id,item_desc,on_vendor_price_book,product_type,primary_supplier_id,supplier_name,replenishment_method,replenishment_location,inv_min,inv_max,stockable,sellable,buy,qty_on_hand,track_bins,primary_bin,repl_loc_review,repl_meth_review,track_bin_review,discrepancy_type,Prefix_of_company
+10008.0,Salt Lake City,27496,ICM-ICM203B,DELAY ON BREAK TIMER,Y,R,133959.0,ICM CONTROLS CORP.,Min/Max,10008.0,4.0,6.0,Y,Y,Y,5.0,N,,N,N,Y,Replenishment method,ICM
+10008.0,Salt Lake City,493250,ICM-ICM401A,"3-Phase Monitor, Universal 190-600 VAC,",Y,R,133959.0,ICM CONTROLS CORP.,Min/Max,10008.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,ICM
+10510.0,Minneapolis,493205,ICM-ACH055,"Temp Stat, Cool only, 55* fixed (This pa",Y,R,133959.0,ICM CONTROLS CORP.,Min/Max,10510.0,1.0,3.0,Y,Y,Y,3.0,N,,N,N,Y,Replenishment method,ICM
+10510.0,Minneapolis,297665,ICM-ACH065,"Temp Stat, Heat only, 65F fixed",Y,R,133959.0,ICM CONTROLS CORP.,Min/Max,10510.0,8.0,28.0,Y,Y,Y,20.0,N,0,N,N,Y,Replenishment method,ICM
+10510.0,Minneapolis,108713,ICM-ACH075,ICM Cool Only Temp Stat Fixed,Y,R,133959.0,ICM CONTROLS CORP.,Min/Max,10510.0,1.0,4.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,ICM
+10510.0,Minneapolis,124882,ICM-ICM206B,"DOB Timer, 10 minutes adjustable",Y,R,133959.0,ICM CONTROLS CORP.,Min/Max,10510.0,4.0,14.0,Y,Y,Y,6.0,N,,N,N,Y,Replenishment method,ICM
+10510.0,Minneapolis,493250,ICM-ICM401A,"3-Phase Monitor, Universal 190-600 VAC,",Y,R,133959.0,ICM CONTROLS CORP.,Min/Max,10510.0,2.0,10.0,Y,Y,Y,10.0,N,,N,N,Y,Replenishment method,ICM
+10510.0,Minneapolis,147257,ICM326HNCLF,ICM Low Ambient Head Press Cntrl,N,R,133959.0,ICM CONTROLS CORP.,Min/Max,10510.0,0.0,0.0,Y,Y,Y,2.0,Y,35H3,N,Y,N,Replenishment method,ICM
+10520.0,St Paul,493205,ICM-ACH055,"Temp Stat, Cool only, 55* fixed (This pa",Y,R,133959.0,ICM CONTROLS CORP.,Min/Max,10520.0,2.0,4.0,Y,Y,Y,3.0,N,,N,N,Y,Replenishment method,ICM
+10520.0,St Paul,297665,ICM-ACH065,"Temp Stat, Heat only, 65F fixed",Y,R,133959.0,ICM CONTROLS CORP.,Min/Max,10520.0,2.0,4.0,Y,Y,Y,4.0,N,0,N,N,Y,Replenishment method,ICM
+10520.0,St Paul,108713,ICM-ACH075,ICM Cool Only Temp Stat Fixed,Y,R,133959.0,ICM CONTROLS CORP.,Min/Max,10520.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,ICM
+10520.0,St Paul,124882,ICM-ICM206B,"DOB Timer, 10 minutes adjustable",Y,R,133959.0,ICM CONTROLS CORP.,Min/Max,10520.0,0.0,1.0,Y,Y,Y,4.0,N,,N,N,Y,Replenishment method,ICM
+10520.0,St Paul,305818,ICM-ICM325A,ICM universal head pres cntrl,Y,R,133959.0,ICM CONTROLS CORP.,Min/Max,10520.0,0.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,ICM
+10520.0,St Paul,493250,ICM-ICM401A,"3-Phase Monitor, Universal 190-600 VAC,",Y,R,133959.0,ICM CONTROLS CORP.,Min/Max,10520.0,0.0,1.0,Y,Y,Y,1.0,N,,N,N,Y,Replenishment method,ICM
+166553.0,Austin,114749,ICM-ICM450A,PRGRMBL 3-PHASE LINE VOLT MONT,Y,R,133959.0,ICM CONTROLS CORP.,Min/Max,166553.0,0.0,0.0,N,Y,Y,4.0,N,,N,N,Y,Replenishment method,ICM
+166557.0,Dallas,493250,ICM-ICM401A,"3-Phase Monitor, Universal 190-600 VAC,",Y,R,133959.0,ICM CONTROLS CORP.,Min/Max,166557.0,0.0,4.0,Y,Y,Y,4.0,N,,N,N,Y,Replenishment method,ICM
+166557.0,Dallas,114749,ICM-ICM450A,PRGRMBL 3-PHASE LINE VOLT MONT,Y,R,133959.0,ICM CONTROLS CORP.,Min/Max,166557.0,0.0,0.0,N,Y,Y,5.0,N,,N,N,Y,Replenishment method,ICM
+166559.0,Houston,493205,ICM-ACH055,"Temp Stat, Cool only, 55* fixed (This pa",Y,R,133959.0,ICM CONTROLS CORP.,Min/Max,166559.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,ICM
+166559.0,Houston,493250,ICM-ICM401A,"3-Phase Monitor, Universal 190-600 VAC,",Y,R,133959.0,ICM CONTROLS CORP.,Min/Max,166559.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,ICM
+166561.0,San Antonio,114749,ICM-ICM450A,PRGRMBL 3-PHASE LINE VOLT MONT,Y,R,133959.0,ICM CONTROLS CORP.,Min/Max,166561.0,2.0,3.0,Y,Y,Y,0.0,N,,N,N,Y,Replenishment method,ICM
+173042.0,Boston,27496,ICM-ICM203B,DELAY ON BREAK TIMER,Y,R,133959.0,ICM CONTROLS CORP.,Up To,173042.0,,,Y,Y,Y,14.0,Y,ICM,N,Y,N,Replenishment method,ICM
+173042.0,Boston,304335,ICM-ICM253B,ICM post-purge fan delay timer390 second,Y,R,133959.0,ICM CONTROLS CORP.,Min/Max,173042.0,0.0,0.0,N,Y,Y,7.0,N,,N,N,Y,Replenishment method,ICM
+173042.0,Boston,8576,ICM-ICM379,"PROBE FOR USE WITH ICM325H, ICM326H AND",Y,R,133959.0,ICM CONTROLS CORP.,Min/Max,10008.0,0.0,0.0,N,Y,Y,1.0,N,,Y,N,Y,Replenishment method,ICM
+173042.0,Boston,490677,ICM-ICM550ENC,"Defrost Timer, Multi Voltage",Y,R,133959.0,ICM CONTROLS CORP.,Up To,173042.0,,,Y,Y,Y,10.0,N,0,N,Y,Y,Replenishment method,ICM
+173042.0,Boston,117822,ICM-SC1600L,HEATING ONLY,Y,R,133959.0,ICM CONTROLS CORP.,Up To,173042.0,,,Y,Y,Y,4.0,Y,ICM,N,Y,N,Replenishment method,ICM
+173042.0,Boston,29129,ICM-SC2010L,SC2010 1-Stage Ht/Cl or 1-Stage,Y,R,133959.0,ICM CONTROLS CORP.,Min/Max,10008.0,0.0,0.0,N,Y,Y,7.0,N,,Y,N,Y,Replenishment method,ICM
+173042.0,Boston,117826,ICM-SC5010,7 DAY PROGRAMABLE PRO-SERIES,Y,R,133959.0,ICM CONTROLS CORP.,Up To,173042.0,,,Y,Y,Y,17.0,Y,ICM,N,Y,N,Replenishment method,ICM
+173042.0,Boston,106692,ICM-SC5811,2H/2C 24V 7 DAY PROGRAMMABLE,Y,R,133959.0,ICM CONTROLS CORP.,Up To,173042.0,,,Y,Y,Y,12.0,Y,ICM,N,Y,N,Replenishment method,ICM
+175888.0,New Jersey,305818,ICM-ICM325A,ICM universal head pres cntrl,Y,R,133959.0,ICM CONTROLS CORP.,Min/Max,175888.0,2.0,4.0,Y,Y,Y,0.0,N,,N,N,Y,Replenishment method,ICM
+175888.0,New Jersey,490677,ICM-ICM550ENC,"Defrost Timer, Multi Voltage",Y,R,133959.0,ICM CONTROLS CORP.,Min/Max,175888.0,2.0,4.0,Y,Y,Y,4.0,N,0,N,N,Y,Replenishment method,ICM
+175890.0,New York,305818,ICM-ICM325A,ICM universal head pres cntrl,Y,R,133959.0,ICM CONTROLS CORP.,Min/Max,175890.0,0.0,0.0,N,Y,Y,4.0,N,,N,N,Y,Replenishment method,ICM
+175890.0,New York,147261,ICM-ICM380,"Pressure,Transducer, 0-500 PSI Pressure",Y,R,133959.0,ICM CONTROLS CORP.,Min/Max,175890.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,ICM
+175890.0,New York,114749,ICM-ICM450A,PRGRMBL 3-PHASE LINE VOLT MONT,Y,R,133959.0,ICM CONTROLS CORP.,EOQ,175890.0,0.0,0.0,N,Y,Y,2.0,N,,N,Y,Y,Replenishment method,ICM
+175890.0,New York,490677,ICM-ICM550ENC,"Defrost Timer, Multi Voltage",Y,R,133959.0,ICM CONTROLS CORP.,Min/Max,175890.0,4.0,6.0,Y,Y,Y,6.0,N,0,N,N,Y,Replenishment method,ICM
+175891.0,Milwaukee (West Allis),305069,ICM-ACH045,ICM low ambient cutoff switch45 degrees,Y,R,133959.0,ICM CONTROLS CORP.,Min/Max,175891.0,0.0,0.0,Y,Y,Y,3.0,N,,N,Y,Y,Replenishment method,ICM
+175891.0,Milwaukee (West Allis),493205,ICM-ACH055,"Temp Stat, Cool only, 55* fixed (This pa",Y,R,133959.0,ICM CONTROLS CORP.,Min/Max,175891.0,0.0,0.0,N,Y,Y,3.0,N,,N,N,Y,Replenishment method,ICM
+175891.0,Milwaukee (West Allis),305070,ICM-ACH060,ICM 60F temp thermostatheating only,Y,R,133959.0,ICM CONTROLS CORP.,Min/Max,175891.0,0.0,0.0,Y,Y,Y,6.0,N,,N,Y,Y,Replenishment method,ICM
+175891.0,Milwaukee (West Allis),297665,ICM-ACH065,"Temp Stat, Heat only, 65F fixed",Y,R,133959.0,ICM CONTROLS CORP.,Min/Max,175891.0,0.0,0.0,Y,Y,Y,2.0,N,0,N,Y,Y,Replenishment method,ICM
+175891.0,Milwaukee (West Allis),108713,ICM-ACH075,ICM Cool Only Temp Stat Fixed,Y,R,133959.0,ICM CONTROLS CORP.,Min/Max,175891.0,0.0,0.0,Y,Y,Y,2.0,N,,N,Y,Y,Replenishment method,ICM
+175891.0,Milwaukee (West Allis),41720,ICM-ICM102B,"Timer, Time Delay",Y,R,133959.0,ICM CONTROLS CORP.,Min/Max,175891.0,0.0,0.0,Y,Y,Y,1.0,N,,N,Y,Y,Replenishment method,ICM
+175891.0,Milwaukee (West Allis),117804,ICM-ICM103,"DOM Timer, 1-1,023 seconds, switch-s",Y,R,133959.0,ICM CONTROLS CORP.,Min/Max,175891.0,0.0,0.0,Y,Y,Y,8.0,N,,N,Y,Y,Replenishment method,ICM
+175891.0,Milwaukee (West Allis),1906,ICM-ICM175B,BYPASS TIMER 1000 SECONDS ADJUSTABLE,Y,R,133959.0,ICM CONTROLS CORP.,Min/Max,175891.0,0.0,0.0,Y,Y,Y,1.0,N,,N,Y,Y,Replenishment method,ICM
+175891.0,Milwaukee (West Allis),27496,ICM-ICM203B,DELAY ON BREAK TIMER,Y,R,133959.0,ICM CONTROLS CORP.,EOQ,175891.0,0.0,0.0,Y,Y,Y,0.0,Y,AE08-07,N,Y,N,Replenishment method,ICM
+175891.0,Milwaukee (West Allis),124882,ICM-ICM206B,"DOB Timer, 10 minutes adjustable",Y,R,133959.0,ICM CONTROLS CORP.,Min/Max,175891.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,ICM
+175891.0,Milwaukee (West Allis),304335,ICM-ICM253B,ICM post-purge fan delay timer390 second,Y,R,133959.0,ICM CONTROLS CORP.,Min/Max,175891.0,0.0,0.0,Y,Y,Y,2.0,N,,N,Y,Y,Replenishment method,ICM
+175891.0,Milwaukee (West Allis),304336,ICM-ICM275C,ICM fan blower controlsdual function fix,Y,R,133959.0,ICM CONTROLS CORP.,Min/Max,175891.0,0.0,0.0,Y,Y,Y,1.0,N,,N,Y,Y,Replenishment method,ICM
+175891.0,Milwaukee (West Allis),8574,ICM-ICM282B,FURNACE CONTROL BOARD MODULE REPLACES CA,Y,R,133959.0,ICM CONTROLS CORP.,Min/Max,175891.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,ICM
+175891.0,Milwaukee (West Allis),493250,ICM-ICM401A,"3-Phase Monitor, Universal 190-600 VAC,",Y,R,133959.0,ICM CONTROLS CORP.,EOQ,175891.0,0.0,0.0,Y,Y,Y,1.0,N,,N,Y,Y,Replenishment method,ICM
+175891.0,Milwaukee (West Allis),114749,ICM-ICM450A,PRGRMBL 3-PHASE LINE VOLT MONT,Y,R,133959.0,ICM CONTROLS CORP.,Min/Max,175891.0,0.0,0.0,Y,Y,Y,3.0,N,,N,Y,Y,Replenishment method,ICM
+175891.0,Milwaukee (West Allis),304343,ICM325HNC-LF,ICM head press w/ht pump bypasinput24VAC,N,R,133959.0,ICM CONTROLS CORP.,Min/Max,175891.0,0.0,0.0,Y,Y,Y,0.0,N,,N,Y,Y,Replenishment method,ICM
+175891.0,Milwaukee (West Allis),304344,ICM327HNC-LF,ICM head press w/ht pump bypasinput/outp,N,R,133959.0,ICM CONTROLS CORP.,Min/Max,175891.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,ICM
+175891.0,Milwaukee (West Allis),304345,ICM379C,ICM probe for H serieshead pressure cont,N,R,133959.0,ICM CONTROLS CORP.,Min/Max,175891.0,0.0,0.0,Y,Y,Y,1.0,N,,N,Y,Y,Replenishment method,ICM

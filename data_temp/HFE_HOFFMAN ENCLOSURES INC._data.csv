@@ -1,0 +1,72 @@
+location_id,location_name,inv_mast_uid,item_id,item_desc,on_vendor_price_book,product_type,primary_supplier_id,supplier_name,replenishment_method,replenishment_location,inv_min,inv_max,stockable,sellable,buy,qty_on_hand,track_bins,primary_bin,repl_loc_review,repl_meth_review,track_bin_review,discrepancy_type,Prefix_of_company
+10006.0,Phoenix,25916,HFE-ASE24X18X6,"nVent Hoffman, Junction Box, Screw-Cover",Y,R,133920.0,HOFFMAN ENCLOSURES INC.,Min/Max,10006.0,0.0,0.0,N,Y,Y,4.0,N,,N,N,Y,Replenishment method,HFE
+10008.0,Salt Lake City,108002,HFE-A30N24MP,Backplate for Nema 1 Enclosure,Y,R,133920.0,HOFFMAN ENCLOSURES INC.,Min/Max,10008.0,0.0,0.0,N,Y,Y,3.0,N,,N,N,Y,Replenishment method,HFE
+10008.0,Salt Lake City,100010,HFE-ASE24X24X6,"nVent Hoffman, Junction Box, Screw-Cover",Y,R,133920.0,HOFFMAN ENCLOSURES INC.,Min/Max,10008.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,HFE
+10510.0,Minneapolis,25622,HFE-A12N12PP,"nVent Hoffman, Perforated Panel for Smal",Y,R,133920.0,HOFFMAN ENCLOSURES INC.,Min/Max,10510.0,1.0,17.0,Y,Y,Y,0.0,N,,N,N,Y,Replenishment method,HFE
+10510.0,Minneapolis,6363,HFE-A16N16MPP,"Panel,N1, Perf / 13.00x14.50",Y,R,133920.0,HOFFMAN ENCLOSURES INC.,Min/Max,10510.0,0.0,7.0,Y,Y,Y,0.0,N,,N,N,Y,Replenishment method,HFE
+10510.0,Minneapolis,271883,HFE-A6P6,6X6 Panel,Y,R,133920.0,HOFFMAN ENCLOSURES INC.,Min/Max,10510.0,0.0,0.0,Y,Y,Y,0.0,Y,17A1,N,Y,N,Replenishment method,HFE
+166553.0,Austin,25664,HFE-A24N24MPP,"nVent Hoffman, Perforated Panel for Medi",Y,R,133920.0,HOFFMAN ENCLOSURES INC.,Min/Max,166553.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,HFE
+166553.0,Austin,25703,HFE-A36N24MP,"nVent Hoffman, Panel for Medium Enclosur",Y,R,133920.0,HOFFMAN ENCLOSURES INC.,Min/Max,166553.0,0.0,0.0,N,Y,Y,5.0,N,,N,N,Y,Replenishment method,HFE
+166553.0,Austin,97775,HFE-AHE18X12X6,Hoffman Hinged Enclosure 18in 12in X 6in,Y,R,133920.0,HOFFMAN ENCLOSURES INC.,Min/Max,166553.0,0.0,0.0,N,Y,Y,5.0,N,,N,N,Y,Replenishment method,HFE
+166553.0,Austin,25911,HFE-ASE12X12X6,"nVent Hoffman, Junction Box, Screw-Cover",Y,R,133920.0,HOFFMAN ENCLOSURES INC.,Min/Max,166553.0,0.0,0.0,N,Y,Y,8.0,N,,N,N,Y,Replenishment method,HFE
+166553.0,Austin,30714,HFE-ASE6X6X6,"nVent Hoffman, Junction Box, Screw-Cover",Y,R,133920.0,HOFFMAN ENCLOSURES INC.,Min/Max,166553.0,0.0,0.0,N,Y,Y,9.0,N,,N,N,Y,Replenishment method,HFE
+166557.0,Dallas,99108,HFE-A16N126,16X12X6 Hinged Cover NEMA-1 Enclosur,Y,R,133920.0,HOFFMAN ENCLOSURES INC.,Min/Max,166557.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,HFE
+166557.0,Dallas,99109,HFE-A16N12PP,16X12 Perforated Backplate,Y,R,133920.0,HOFFMAN ENCLOSURES INC.,Min/Max,166557.0,1.0,2.0,Y,Y,Y,4.0,N,,N,N,Y,Replenishment method,HFE
+166557.0,Dallas,25632,HFE-A16N16ALP,"nVent Hoffman, Metallic Enclosure, Mediu",Y,R,133920.0,HOFFMAN ENCLOSURES INC.,Min/Max,166557.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,HFE
+166557.0,Dallas,6363,HFE-A16N16MPP,"Panel,N1, Perf / 13.00x14.50",Y,R,133920.0,HOFFMAN ENCLOSURES INC.,Min/Max,166557.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,HFE
+166557.0,Dallas,99144,HFE-A36N24MPP,36X24 Perforated Backplate,Y,R,133920.0,HOFFMAN ENCLOSURES INC.,Min/Max,166557.0,1.0,1.0,Y,Y,Y,1.0,N,,N,N,Y,Replenishment method,HFE
+166557.0,Dallas,97775,HFE-AHE18X12X6,Hoffman Hinged Enclosure 18in 12in X 6in,Y,R,133920.0,HOFFMAN ENCLOSURES INC.,Min/Max,166557.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,HFE
+166557.0,Dallas,36494,HFE-CP1612,Mounting Plate,Y,R,133920.0,HOFFMAN ENCLOSURES INC.,Min/Max,166557.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,HFE
+166559.0,Houston,301886,HFE-ATPG20GLP,"nVent Hoffman, Touch-Up Paint Pen, Gray,",Y,R,133920.0,HOFFMAN ENCLOSURES INC.,Min/Max,166559.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,HFE
+166560.0,New Orleans,25620,HFE-A12N126,SMALL NEMA ENCLOSURE,Y,R,133920.0,HOFFMAN ENCLOSURES INC.,Min/Max,166553.0,3.0,5.0,Y,Y,Y,0.0,Y,HOFEN,Y,N,N,Replenishment method,HFE
+166560.0,New Orleans,25621,HFE-A12N12P,"nVent Hoffman, Panel for Small Enclosure",Y,R,133920.0,HOFFMAN ENCLOSURES INC.,Min/Max,166553.0,0.0,0.0,N,Y,Y,3.0,Y,HOFEN,Y,N,N,Replenishment method,HFE
+166560.0,New Orleans,25622,HFE-A12N12PP,"nVent Hoffman, Perforated Panel for Smal",Y,R,133920.0,HOFFMAN ENCLOSURES INC.,Min/Max,166553.0,3.0,5.0,Y,Y,Y,1.0,Y,HOFEN,Y,N,N,Replenishment method,HFE
+166560.0,New Orleans,25650,HFE-A20N16ALP,"nVent Hoffman, Metallic Enclosure, Mediu",Y,R,133920.0,HOFFMAN ENCLOSURES INC.,Min/Max,166553.0,3.0,5.0,Y,Y,Y,2.0,Y,HOFEN,Y,N,N,Replenishment method,HFE
+166560.0,New Orleans,25653,HFE-A20N20ALP,"nVent Hoffman, Metallic Enclosure, Mediu",Y,R,133920.0,HOFFMAN ENCLOSURES INC.,Min/Max,166553.0,3.0,5.0,Y,Y,Y,3.0,Y,HOFEN,Y,N,N,Replenishment method,HFE
+166560.0,New Orleans,2853,HFE-A20N20MPP,20X20 Perf Panel,Y,R,133920.0,HOFFMAN ENCLOSURES INC.,Min/Max,166553.0,3.0,5.0,Y,Y,Y,3.0,Y,HOFEN,Y,N,N,Replenishment method,HFE
+166560.0,New Orleans,25660,HFE-A24N16ALP,"nVent Hoffman, Metallic Enclosure, Mediu",Y,R,133920.0,HOFFMAN ENCLOSURES INC.,Min/Max,166553.0,3.0,5.0,Y,Y,Y,4.0,Y,HOFEN,Y,N,N,Replenishment method,HFE
+166560.0,New Orleans,19332,HFE-A24N16MPP,HOFFMAN 24x16 FLAT PERF PANEL,Y,R,133920.0,HOFFMAN ENCLOSURES INC.,Min/Max,166553.0,3.0,5.0,Y,Y,Y,4.0,Y,HOFEN,Y,N,N,Replenishment method,HFE
+166560.0,New Orleans,25661,HFE-A24N20ALP,"nVent Hoffman, Metallic Enclosure, Mediu",Y,R,133920.0,HOFFMAN ENCLOSURES INC.,Min/Max,166553.0,0.0,0.0,N,Y,Y,2.0,Y,HOFEN,Y,N,N,Replenishment method,HFE
+166560.0,New Orleans,25662,HFE-A24N24ALP,"nVent Hoffman, Metallic Enclosure, Mediu",Y,R,133920.0,HOFFMAN ENCLOSURES INC.,Min/Max,166553.0,3.0,5.0,Y,Y,Y,0.0,Y,HOFEN,Y,N,N,Replenishment method,HFE
+166560.0,New Orleans,25664,HFE-A24N24MPP,"nVent Hoffman, Perforated Panel for Medi",Y,R,133920.0,HOFFMAN ENCLOSURES INC.,Min/Max,166553.0,3.0,5.0,Y,Y,Y,0.0,Y,HOFEN,Y,N,N,Replenishment method,HFE
+166560.0,New Orleans,99164,HFE-A8N64,8X6X4 Hinged Cover NEMA-1 Enclosure,Y,R,133920.0,HOFFMAN ENCLOSURES INC.,Min/Max,166553.0,0.0,0.0,N,Y,Y,14.0,Y,HOFEN,Y,N,N,Replenishment method,HFE
+166560.0,New Orleans,99551,HFE-AHE16X16X6,"16x16x6 Pull box, Hinged, Steel",Y,R,133920.0,HOFFMAN ENCLOSURES INC.,Min/Max,166553.0,0.0,0.0,N,Y,Y,15.0,Y,HOFEN,Y,N,N,Replenishment method,HFE
+166560.0,New Orleans,25831,HFE-AHE8X8X4,AHE8X8X4 HINGED COVER  AHE8X8X4,Y,R,133920.0,HOFFMAN ENCLOSURES INC.,Min/Max,166553.0,0.0,0.0,N,Y,Y,1.0,Y,HOFEN,Y,N,N,Replenishment method,HFE
+166560.0,New Orleans,25842,HFE-AL12AR,AL12AR LOCK KIT FOR HOFFMAN,Y,R,133920.0,HOFFMAN ENCLOSURES INC.,Min/Max,166553.0,3.0,5.0,Y,Y,Y,3.0,Y,HOFEN,Y,N,N,Replenishment method,HFE
+166560.0,New Orleans,25911,HFE-ASE12X12X6,"nVent Hoffman, Junction Box, Screw-Cover",Y,R,133920.0,HOFFMAN ENCLOSURES INC.,Min/Max,166553.0,2.0,3.0,Y,Y,Y,0.0,Y,HOFEN,Y,N,N,Replenishment method,HFE
+166560.0,New Orleans,25915,HFE-ASE18X18X6,"nVent Hoffman, Junction Box, Screw-Cover",Y,R,133920.0,HOFFMAN ENCLOSURES INC.,Min/Max,166553.0,5.0,10.0,Y,Y,Y,4.0,Y,HOFEN,Y,N,N,Replenishment method,HFE
+166560.0,New Orleans,25919,HFE-ASE8X8X4,"nVent Hoffman, Junction Box, Screw-Cover",Y,R,133920.0,HOFFMAN ENCLOSURES INC.,Min/Max,166553.0,0.0,0.0,N,Y,Y,3.0,Y,HOFEN,Y,N,N,Replenishment method,HFE
+166560.0,New Orleans,25920,HFE-ASE8X8X6,"nVent Hoffman, Junction Box, Screw-Cover",Y,R,133920.0,HOFFMAN ENCLOSURES INC.,Min/Max,166553.0,3.0,5.0,Y,Y,Y,3.0,Y,HOFEN,Y,N,N,Replenishment method,HFE
+166560.0,New Orleans,102188,HFE-PB88PP,8X8 PULL BOX PERF BACKPLATE,Y,R,133920.0,HOFFMAN ENCLOSURES INC.,Min/Max,166553.0,0.0,0.0,N,Y,Y,8.0,Y,HOFEN,Y,N,N,Replenishment method,HFE
+166561.0,San Antonio,300980,HFE-A16N126LP,"nVent Hoffman, Metallic Enclosure, Hinge",Y,R,133920.0,HOFFMAN ENCLOSURES INC.,Min/Max,166561.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,HFE
+175883.0,Charlotte,99108,HFE-A16N126,16X12X6 Hinged Cover NEMA-1 Enclosur,Y,R,133920.0,HOFFMAN ENCLOSURES INC.,Min/Max,175883.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,HFE
+175883.0,Charlotte,99109,HFE-A16N12PP,16X12 Perforated Backplate,Y,R,133920.0,HOFFMAN ENCLOSURES INC.,Min/Max,175883.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,HFE
+175883.0,Charlotte,25650,HFE-A20N16ALP,"nVent Hoffman, Metallic Enclosure, Mediu",Y,R,133920.0,HOFFMAN ENCLOSURES INC.,Min/Max,175883.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,HFE
+175883.0,Charlotte,25652,HFE-A20N16MPP,PREFORATED BACKPLATE,Y,R,133920.0,HOFFMAN ENCLOSURES INC.,Min/Max,175883.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,HFE
+175883.0,Charlotte,25653,HFE-A20N20ALP,"nVent Hoffman, Metallic Enclosure, Mediu",Y,R,133920.0,HOFFMAN ENCLOSURES INC.,EOQ,175883.0,1.0,2.0,Y,Y,Y,1.0,N,,N,Y,Y,Replenishment method,HFE
+175883.0,Charlotte,2853,HFE-A20N20MPP,20X20 Perf Panel,Y,R,133920.0,HOFFMAN ENCLOSURES INC.,Min/Max,175883.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,HFE
+175883.0,Charlotte,25660,HFE-A24N16ALP,"nVent Hoffman, Metallic Enclosure, Mediu",Y,R,133920.0,HOFFMAN ENCLOSURES INC.,Min/Max,175883.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,HFE
+175883.0,Charlotte,19332,HFE-A24N16MPP,HOFFMAN 24x16 FLAT PERF PANEL,Y,R,133920.0,HOFFMAN ENCLOSURES INC.,Min/Max,175883.0,1.0,2.0,Y,Y,Y,1.0,N,,N,N,Y,Replenishment method,HFE
+175883.0,Charlotte,25702,HFE-A36N24ALP,"nVent Hoffman, Metallic Enclosure, Mediu",Y,R,133920.0,HOFFMAN ENCLOSURES INC.,Min/Max,175883.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,HFE
+175883.0,Charlotte,99144,HFE-A36N24MPP,36X24 Perforated Backplate,Y,R,133920.0,HOFFMAN ENCLOSURES INC.,Min/Max,175883.0,0.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,HFE
+175883.0,Charlotte,25704,HFE-A36N30ALP,"nVent Hoffman, Metallic Enclosure, Mediu",Y,R,133920.0,HOFFMAN ENCLOSURES INC.,Min/Max,175883.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,HFE
+175883.0,Charlotte,25706,HFE-A36N30MPP,Perf Panel,Y,R,133920.0,HOFFMAN ENCLOSURES INC.,Min/Max,175883.0,0.0,2.0,Y,Y,Y,1.0,N,,N,N,Y,Replenishment method,HFE
+175883.0,Charlotte,99164,HFE-A8N64,8X6X4 Hinged Cover NEMA-1 Enclosure,Y,R,133920.0,HOFFMAN ENCLOSURES INC.,Min/Max,175883.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,HFE
+175883.0,Charlotte,25822,HFE-AHE10X10X4,AHE10X10X4  AHE10X10X4,Y,R,133920.0,HOFFMAN ENCLOSURES INC.,Min/Max,175883.0,1.0,2.0,Y,Y,Y,11.0,N,,N,N,Y,Replenishment method,HFE
+175883.0,Charlotte,25825,HFE-AHE12X12X4,"These boxes feature a recessed, slotted",Y,R,133920.0,HOFFMAN ENCLOSURES INC.,EOQ,175883.0,1.0,2.0,Y,Y,Y,1.0,N,,N,Y,Y,Replenishment method,HFE
+175883.0,Charlotte,25826,HFE-AHE12X12X6,"These boxes feature a recessed, slotted",Y,R,133920.0,HOFFMAN ENCLOSURES INC.,Min/Max,175883.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,HFE
+175883.0,Charlotte,97775,HFE-AHE18X12X6,Hoffman Hinged Enclosure 18in 12in X 6in,Y,R,133920.0,HOFFMAN ENCLOSURES INC.,Min/Max,175883.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,HFE
+175883.0,Charlotte,25828,HFE-AHE18X18X6,18X18X6 Hinged Cover N1 J-Box w/ KO's,Y,R,133920.0,HOFFMAN ENCLOSURES INC.,Min/Max,175883.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,HFE
+175883.0,Charlotte,25829,HFE-AHE24X18X6,"These boxes feature a recessed, slotted",Y,R,133920.0,HOFFMAN ENCLOSURES INC.,Min/Max,175883.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,HFE
+175883.0,Charlotte,25830,HFE-AHE24X24X6,"These boxes feature a recessed, slotted",Y,R,133920.0,HOFFMAN ENCLOSURES INC.,Min/Max,175883.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,HFE
+175883.0,Charlotte,99554,HFE-AHE8X8X6,8X8X6 Hinged Cover NEMA1 Pull Box KO,Y,R,133920.0,HOFFMAN ENCLOSURES INC.,Min/Max,175883.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,HFE
+175883.0,Charlotte,25842,HFE-AL12AR,AL12AR LOCK KIT FOR HOFFMAN,Y,R,133920.0,HOFFMAN ENCLOSURES INC.,Min/Max,175883.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,HFE
+175883.0,Charlotte,25911,HFE-ASE12X12X6,"nVent Hoffman, Junction Box, Screw-Cover",Y,R,133920.0,HOFFMAN ENCLOSURES INC.,Min/Max,175883.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,HFE
+175883.0,Charlotte,102183,HFE-PB1212PP,"nVent Hoffman, Perforated Panel for Scre",Y,R,133920.0,HOFFMAN ENCLOSURES INC.,Min/Max,175883.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,HFE
+175883.0,Charlotte,102184,HFE-PB1818PP,"nVent Hoffman, Perforated Panel for Scre",Y,R,133920.0,HOFFMAN ENCLOSURES INC.,Min/Max,175883.0,1.0,2.0,Y,Y,Y,0.0,N,,N,N,Y,Replenishment method,HFE
+175883.0,Charlotte,102185,HFE-PB2424PP,"nVent Hoffman, Perforated Panel for Scre",Y,R,133920.0,HOFFMAN ENCLOSURES INC.,Min/Max,175883.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,HFE
+175883.0,Charlotte,102188,HFE-PB88PP,8X8 PULL BOX PERF BACKPLATE,Y,R,133920.0,HOFFMAN ENCLOSURES INC.,Min/Max,175883.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,HFE
+175890.0,New York,25825,HFE-AHE12X12X4,"These boxes feature a recessed, slotted",Y,R,133920.0,HOFFMAN ENCLOSURES INC.,EOQ,175890.0,0.0,0.0,N,Y,Y,1.0,N,,N,Y,Y,Replenishment method,HFE
+175891.0,Milwaukee (West Allis),25622,HFE-A12N12PP,"nVent Hoffman, Perforated Panel for Smal",Y,R,133920.0,HOFFMAN ENCLOSURES INC.,Min/Max,175891.0,2.0,4.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,HFE
+175891.0,Milwaukee (West Allis),25632,HFE-A16N16ALP,"nVent Hoffman, Metallic Enclosure, Mediu",Y,R,133920.0,HOFFMAN ENCLOSURES INC.,Min/Max,175891.0,0.0,0.0,Y,Y,Y,0.0,N,,N,Y,Y,Replenishment method,HFE
+175891.0,Milwaukee (West Allis),25633,HFE-A16N16MP,A16N16MP 16ft BACKPLATE,Y,R,133920.0,HOFFMAN ENCLOSURES INC.,Min/Max,175891.0,0.0,0.0,Y,Y,Y,0.0,N,,N,Y,Y,Replenishment method,HFE

@@ -1,0 +1,4 @@
+location_id,location_name,inv_mast_uid,item_id,item_desc,on_vendor_price_book,product_type,primary_supplier_id,supplier_name,replenishment_method,replenishment_location,inv_min,inv_max,stockable,sellable,buy,qty_on_hand,track_bins,primary_bin,repl_loc_review,repl_meth_review,track_bin_review,discrepancy_type,Prefix_of_company
+175891.0,Milwaukee (West Allis),28014,MXC-MAXICAP3R,MAXICAP3R RUBBER WEATHER COVER FITS,Y,R,187613.0,MAXICAP INC.,Min/Max,175891.0,0.0,0.0,Y,Y,Y,27.0,Y,AB1014,N,Y,N,Replenishment method,MXC
+175892.0,Green Bay,28015,MXC-MAXICAP5R,MAXICAP5R RUBBER WEATHER COVER FITS,Y,R,187613.0,MAXICAP INC.,Min/Max,175891.0,10.0,20.0,Y,Y,Y,21.0,Y,AC01,Y,N,N,Replenishment method,MXC
+175892.0,Green Bay,148463,MXC-MAXICAP7R,MAXICAP COVER FOR 325-7 & 210D,Y,R,187613.0,MAXICAP INC.,Min/Max,175891.0,5.0,10.0,Y,Y,Y,23.0,Y,AC01,Y,N,N,Replenishment method,MXC

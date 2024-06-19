@@ -163,6 +163,10 @@ class checker:
 
         logging.info("Loaded suppliers json file")
 
+        
+        # getting the connection variable
+        conn = PGS_connector.connect_to_postgres()
+        
         # Step 2: Iterate over each supplier and print the related prefix
         for supplier in suppliers_data:
             supplier_id = supplier['supplier_id']
@@ -180,9 +184,8 @@ class checker:
             logging.info("Checking process over.")
 
             # instead of saving it into csv files, do the insert command to db
-            # getting the connection for pgs and not the ssms database
-            conn = PGS_connector.insert_data_into_db(df)
-            
+            # getting the connection for pgs and not the ssms database and inserting into database
+            result = PGS_connector.insert_data_into_db(df, conn)           
 
             logging.info("Processed data successfully inserted into PGS database")
 
@@ -198,6 +201,7 @@ class checker:
 
             process_flag = 1
 
+        conn.close()
         # once the process is finished
-        return process_flag, conn
+        return process_flag
 

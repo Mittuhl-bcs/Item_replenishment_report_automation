@@ -1,0 +1,61 @@
+location_id,location_name,inv_mast_uid,item_id,item_desc,on_vendor_price_book,product_type,primary_supplier_id,supplier_name,replenishment_method,replenishment_location,inv_min,inv_max,stockable,sellable,buy,qty_on_hand,track_bins,primary_bin,repl_loc_review,repl_meth_review,track_bin_review,discrepancy_type,Prefix_of_company
+10008.0,Salt Lake City,106348,KMC-BAC8005,VAV CONTROLLER 40 IN-LBS,Y,R,134053.0,Kreuter (KMC) Controls,Min/Max,10008.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,KMC
+10008.0,Salt Lake City,23701,KMC-STE6017W80,"Sensor; SimplyVAV, Room Temp, Setpoint D",Y,R,134053.0,Kreuter (KMC) Controls,Min/Max,10008.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,KMC
+10008.0,Salt Lake City,102671,KMC-STE8001W80,VAV Sensor w/Digital Disp; Stpnt; Co,Y,R,134053.0,Kreuter (KMC) Controls,Min/Max,10008.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,KMC
+10510.0,Minneapolis,5019,KMC-CSC2007,PNEU. RESET VOLUME CONT.DA/NO BOX W/BRAC,Y,R,134053.0,Kreuter (KMC) Controls,Min/Max,10510.0,0.0,0.0,Y,Y,Y,6.0,Y,29G5,N,Y,N,Replenishment method,KMC
+10510.0,Minneapolis,148548,KMC-MEP3006,24VAC N/O VLV ACTUAT,Y,R,134053.0,Kreuter (KMC) Controls,Min/Max,10510.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,KMC
+10510.0,Minneapolis,97838,KMC-PLT1100WWL,Digital Thermostat,Y,R,134053.0,Kreuter (KMC) Controls,Min/Max,10510.0,0.0,0.0,Y,Y,Y,0.0,Y,23C6,N,Y,N,Replenishment method,KMC
+10510.0,Minneapolis,106995,KMC-RCC1001,REVERSING RELAY W/O BRACKET,Y,R,134053.0,Kreuter (KMC) Controls,Min/Max,10510.0,0.0,0.0,Y,Y,Y,0.0,Y,9B4,N,Y,N,Replenishment method,KMC
+10520.0,St Paul,20717,KMC-CSC2017,"VAV CONTROL, DA/NO, 2""WC, LOW CONSUMPTIO",Y,R,134053.0,Kreuter (KMC) Controls,Min/Max,10520.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,KMC
+10520.0,St Paul,106620,KMC-MCP10405211,PNEUMATIC DAMPER ACTUATOR,Y,R,134053.0,Kreuter (KMC) Controls,Min/Max,10520.0,0.0,1.0,Y,Y,Y,1.0,N,,N,N,Y,Replenishment method,KMC
+10520.0,St Paul,19701,KMC-XEC3001,Current to Pressure transducer,Y,R,134053.0,Kreuter (KMC) Controls,Min/Max,10520.0,0.0,1.0,Y,Y,Y,1.0,N,,N,N,Y,Replenishment method,KMC
+10770.0,Nashville,26560,KMC-CSC2003,CSC-2003 PNEU. RESET VOLUME CONT.,Y,R,134053.0,Kreuter (KMC) Controls,Min/Max,10770.0,15.0,30.0,Y,Y,Y,0.0,N,,N,N,Y,Replenishment method,KMC
+166553.0,Austin,410210,KMC-BAC5051AE,BACnet IP Ethernet Single MSTP Router,Y,R,134053.0,Kreuter (KMC) Controls,Min/Max,166553.0,1.0,1.0,Y,Y,Y,2.0,N,0,N,N,Y,Replenishment method,KMC
+166560.0,New Orleans,26559,KMC-CSC2001,CSC-2001 PNEU. RESET VOLUME CONT.,Y,R,134053.0,Kreuter (KMC) Controls,Min/Max,166553.0,0.0,0.0,N,Y,Y,2.0,Y,KMCCT,Y,N,N,Replenishment method,KMC
+166560.0,New Orleans,26560,KMC-CSC2003,CSC-2003 PNEU. RESET VOLUME CONT.,Y,R,134053.0,Kreuter (KMC) Controls,Min/Max,166553.0,0.0,0.0,N,Y,Y,1.0,Y,KMCCT,Y,N,N,Replenishment method,KMC
+166560.0,New Orleans,8813,KMC-CSC2009,"Controller, Pnuematic Reset",Y,R,134053.0,Kreuter (KMC) Controls,Min/Max,166553.0,0.0,0.0,N,Y,Y,2.0,Y,KMCCT,Y,N,N,Replenishment method,KMC
+166560.0,New Orleans,26561,KMC-CSC301110,PNEU. RESET VOLUME CONT.,Y,R,134053.0,Kreuter (KMC) Controls,Min/Max,166553.0,0.0,0.0,N,Y,Y,12.0,Y,KMCCT,Y,N,N,Replenishment method,KMC
+166560.0,New Orleans,16725,KMC-CTE5202,24vElectronicStat0-12vdcAlmond,Y,R,134053.0,Kreuter (KMC) Controls,Min/Max,166553.0,0.0,0.0,N,Y,Y,1.0,Y,KMCCT,Y,N,N,Replenishment method,KMC
+166560.0,New Orleans,101204,KMC-HFO0014,HFO-0014- 1/8in RUBBER CAP,Y,R,134053.0,Kreuter (KMC) Controls,Min/Max,166553.0,0.0,0.0,N,Y,Y,3.0,Y,KMCCT,Y,N,N,Replenishment method,KMC
+166560.0,New Orleans,101259,KMC-HPO0054,Fuse Bulb (Network Protection),Y,R,134053.0,Kreuter (KMC) Controls,Min/Max,166553.0,0.0,0.0,N,Y,Y,1.0,Y,KMCCT,Y,N,N,Replenishment method,KMC
+166560.0,New Orleans,101791,KMC-MCP10202311,Right Angle Act 2in- 3-12 Cran,Y,R,134053.0,Kreuter (KMC) Controls,Min/Max,166553.0,0.0,0.0,N,Y,Y,1.0,Y,KMCCT,Y,N,N,Replenishment method,KMC
+166560.0,New Orleans,101795,KMC-MCP10205311,"Right Angle 2"" Stroke Act 8-13 PSI C",Y,R,134053.0,Kreuter (KMC) Controls,Min/Max,166553.0,0.0,0.0,N,Y,Y,5.0,Y,KMCCT,Y,N,N,Replenishment method,KMC
+166560.0,New Orleans,102400,KMC-RCC1006,Pneumatic Low Pressure Selector,Y,R,134053.0,Kreuter (KMC) Controls,Min/Max,166553.0,0.0,0.0,N,Y,Y,2.0,Y,KMCCT,Y,N,N,Replenishment method,KMC
+166560.0,New Orleans,8621,KMC-RCC1504,"Relay, Reversing",Y,R,134053.0,Kreuter (KMC) Controls,Min/Max,166553.0,0.0,0.0,N,Y,Y,1.0,Y,KMCCT,Y,N,N,Replenishment method,KMC
+166560.0,New Orleans,892,KMC-SSS1002,"Sensor, Air Flow",Y,R,134053.0,Kreuter (KMC) Controls,Min/Max,166553.0,0.0,0.0,N,Y,Y,10.0,Y,KMCCT,Y,N,N,Replenishment method,KMC
+166560.0,New Orleans,4068,KMC-VTD0803,KREUTER BALLJOINT 5/16IN ROD LONG,Y,R,134053.0,Kreuter (KMC) Controls,Min/Max,166553.0,10.0,20.0,Y,Y,Y,8.0,Y,KMCCT,Y,N,N,Replenishment method,KMC
+166560.0,New Orleans,2207,KMC-VTD1611,PUSHROD FOR MCP-8031 ACTUATOR,Y,R,134053.0,Kreuter (KMC) Controls,Min/Max,166553.0,0.0,0.0,N,Y,Y,2.0,Y,KMCCT,Y,N,N,Replenishment method,KMC
+166560.0,New Orleans,30334,KMC-VTD9422,"2"" PNEUMATIC DIAPHRAM",Y,R,134053.0,Kreuter (KMC) Controls,Min/Max,166553.0,3.0,5.0,Y,Y,Y,3.0,Y,KMCCT,Y,N,N,Replenishment method,KMC
+166560.0,New Orleans,8721,KMC-VTD9423,Diaphragm,Y,R,134053.0,Kreuter (KMC) Controls,Min/Max,166553.0,3.0,5.0,Y,Y,Y,3.0,Y,KMCCT,Y,N,N,Replenishment method,KMC
+166560.0,New Orleans,5018,KMC-VTD9424,Diaphragm,Y,R,134053.0,Kreuter (KMC) Controls,Min/Max,166553.0,3.0,5.0,Y,Y,Y,3.0,Y,KMCCT,Y,N,N,Replenishment method,KMC
+173042.0,Boston,26561,KMC-CSC301110,PNEU. RESET VOLUME CONT.,Y,R,134053.0,Kreuter (KMC) Controls,Up To,173042.0,,,Y,Y,Y,4.0,Y,KMC,N,Y,N,Replenishment method,KMC
+175883.0,Charlotte,892,KMC-SSS1002,"Sensor, Air Flow",Y,R,134053.0,Kreuter (KMC) Controls,EOQ,175883.0,0.0,0.0,N,Y,Y,5.0,N,,N,Y,Y,Replenishment method,KMC
+175883.0,Charlotte,29299,KMC-SSS1003,"Sensor, Air Flow",Y,R,134053.0,Kreuter (KMC) Controls,EOQ,175883.0,0.0,0.0,N,Y,Y,5.0,N,,N,Y,Y,Replenishment method,KMC
+175883.0,Charlotte,29300,KMC-SSS1004,"Sensor, Air Flow",Y,R,134053.0,Kreuter (KMC) Controls,EOQ,175883.0,0.0,0.0,N,Y,Y,5.0,N,,N,Y,Y,Replenishment method,KMC
+175883.0,Charlotte,893,KMC-SSS1005,"Sensor, Air Flow",Y,R,134053.0,Kreuter (KMC) Controls,EOQ,175883.0,0.0,0.0,N,Y,Y,5.0,N,,N,Y,Y,Replenishment method,KMC
+175888.0,New Jersey,106898,KMC-BAC5901CE,BACNET CONTROLLER,N,R,134053.0,Kreuter (KMC) Controls,EOQ,175888.0,0.0,0.0,Y,Y,Y,0.0,N,,N,Y,Y,Replenishment method,KMC
+175890.0,New York,8808,KMC-CEP4011,VAV CONTROLLER 100 DEGREE CW,N,R,134053.0,Kreuter (KMC) Controls,EOQ,175890.0,0.0,0.0,Y,Y,Y,0.0,Y,BB03-04,N,Y,N,Replenishment method,KMC
+175890.0,New York,101256,KMC-HPO0005,Clevis Pin for MCP-803xxxx actuators,Y,R,134053.0,Kreuter (KMC) Controls,EOQ,175890.0,0.0,0.0,Y,Y,Y,0.0,N,,N,Y,Y,Replenishment method,KMC
+175890.0,New York,101257,KMC-HPO0006,Cotter PIn for HPO0005 Clevis Pin fo,Y,R,134053.0,Kreuter (KMC) Controls,EOQ,175890.0,0.0,0.0,Y,Y,Y,0.0,N,,N,Y,Y,Replenishment method,KMC
+175890.0,New York,106946,KMC-HSO5001,Test Leads,Y,R,134053.0,Kreuter (KMC) Controls,EOQ,175890.0,0.0,0.0,Y,Y,Y,0.0,Y,BB03-03,N,Y,N,Replenishment method,KMC
+175891.0,Milwaukee (West Allis),305839,0390.0085,0390.0085,Y,R,134053.0,Kreuter (KMC) Controls,Min/Max,175891.0,0.0,0.0,Y,Y,Y,0.0,N,,N,Y,Y,Replenishment method,KMC
+175891.0,Milwaukee (West Allis),8806,KMC-CCE3001,"PNEUMATIC-ELECTRIC RELAY,SINGLE STAGE, 2",Y,R,134053.0,Kreuter (KMC) Controls,EOQ,175891.0,0.0,0.0,N,Y,Y,1.0,Y,AB0155,N,Y,N,Replenishment method,KMC
+175891.0,Milwaukee (West Allis),2060,KMC-CSC2004,R.A. RESET VOLUME CONTROLLER,Y,R,134053.0,Kreuter (KMC) Controls,Min/Max,175891.0,5.0,0.0,Y,Y,Y,2.0,Y,AB0154,N,Y,N,Replenishment method,KMC
+175891.0,Milwaukee (West Allis),5019,KMC-CSC2007,PNEU. RESET VOLUME CONT.DA/NO BOX W/BRAC,Y,R,134053.0,Kreuter (KMC) Controls,EOQ,175891.0,5.0,0.0,N,Y,Y,4.0,Y,AE01-06,N,Y,N,Replenishment method,KMC
+175891.0,Milwaukee (West Allis),8814,KMC-CSC2010,"RESET VOLUME CONTROLLER,0-2"" WG RANGE,",Y,R,134053.0,Kreuter (KMC) Controls,EOQ,175891.0,5.0,0.0,N,Y,Y,1.0,Y,AB0154,N,Y,N,Replenishment method,KMC
+175891.0,Milwaukee (West Allis),6603,KMC-CSC302510,"Controller, Reset Volume",Y,R,134053.0,Kreuter (KMC) Controls,EOQ,175891.0,10.0,0.0,Y,Y,Y,8.0,Y,AB0153,N,Y,N,Replenishment method,KMC
+175891.0,Milwaukee (West Allis),142557,KMC-CTE110510,DAY/NIGHT T2 DAY/DAYT1,N,R,134053.0,Kreuter (KMC) Controls,EOQ,175891.0,0.0,0.0,N,Y,Y,1.0,Y,AB0153,N,Y,N,Replenishment method,KMC
+175891.0,Milwaukee (West Allis),100474,KMC-CTE510110,CTE510110 SINGLE SETPOINT DA,Y,R,134053.0,Kreuter (KMC) Controls,EOQ,175891.0,0.0,0.0,N,Y,Y,1.0,Y,AB0153,N,Y,N,Replenishment method,KMC
+175891.0,Milwaukee (West Allis),106962,KMC-MCP0303,PNEUMATIC ACTUATOR 5-10#,Y,R,134053.0,Kreuter (KMC) Controls,EOQ,175891.0,0.0,0.0,N,Y,Y,1.0,Y,AB0152,N,Y,N,Replenishment method,KMC
+175891.0,Milwaukee (West Allis),8865,KMC-MCP0355,"ACTUATOR ONLY 3"" STROKE,#3,8-13# PSI,POS",Y,R,134053.0,Kreuter (KMC) Controls,EOQ,175891.0,0.0,0.0,N,Y,Y,1.0,Y,AB0152,N,Y,N,Replenishment method,KMC
+175891.0,Milwaukee (West Allis),102402,KMC-RCC1009,RCC-1009  Diverting Relay,Y,R,134053.0,Kreuter (KMC) Controls,EOQ,175891.0,0.0,0.0,Y,Y,Y,0.0,Y,AB0165,N,Y,N,Replenishment method,KMC
+175891.0,Milwaukee (West Allis),30728,KMC-RCC1112,Pilot Capacity Reversing Relay,Y,R,134053.0,Kreuter (KMC) Controls,EOQ,175891.0,3.0,0.0,Y,Y,Y,3.0,Y,AB0165,N,Y,N,Replenishment method,KMC
+175891.0,Milwaukee (West Allis),106999,KMC-SSE1001,"4"" VELOCITY SENSOR 3-WIRE",N,R,134053.0,Kreuter (KMC) Controls,EOQ,175891.0,0.0,0.0,N,Y,Y,2.0,Y,AB0164,N,Y,N,Replenishment method,KMC
+175891.0,Milwaukee (West Allis),892,KMC-SSS1002,"Sensor, Air Flow",Y,R,134053.0,Kreuter (KMC) Controls,Min/Max,175891.0,5.0,0.0,Y,Y,Y,2.0,Y,AG04-03,N,Y,N,Replenishment method,KMC
+175891.0,Milwaukee (West Allis),29300,KMC-SSS1004,"Sensor, Air Flow",Y,R,134053.0,Kreuter (KMC) Controls,EOQ,175891.0,10.0,0.0,Y,Y,Y,12.0,Y,AE03-06,N,Y,N,Replenishment method,KMC
+175891.0,Milwaukee (West Allis),106715,KMC-STE6010W80,ROOM TEMP SENSOR,Y,R,134053.0,Kreuter (KMC) Controls,EOQ,175891.0,6.0,0.0,N,Y,Y,7.0,Y,AB0162,N,Y,N,Replenishment method,KMC
+175891.0,Milwaukee (West Allis),30334,KMC-VTD9422,"2"" PNEUMATIC DIAPHRAM",Y,R,134053.0,Kreuter (KMC) Controls,EOQ,175891.0,0.0,0.0,Y,Y,Y,2.0,Y,AG04-01,N,Y,N,Replenishment method,KMC
+175891.0,Milwaukee (West Allis),8721,KMC-VTD9423,Diaphragm,Y,R,134053.0,Kreuter (KMC) Controls,EOQ,175891.0,0.0,0.0,Y,Y,Y,0.0,Y,AE03-03,N,Y,N,Replenishment method,KMC
+175891.0,Milwaukee (West Allis),5018,KMC-VTD9424,Diaphragm,Y,R,134053.0,Kreuter (KMC) Controls,Min/Max,175891.0,0.0,0.0,Y,Y,Y,5.0,Y,G37A01,N,Y,N,Replenishment method,KMC
+175891.0,Milwaukee (West Allis),1811,KMC-VTD9426,PNEUMATIC DIAPHRAGM,Y,R,134053.0,Kreuter (KMC) Controls,EOQ,175891.0,0.0,0.0,Y,Y,Y,1.0,Y,AG05-06,N,Y,N,Replenishment method,KMC
+175892.0,Green Bay,19701,KMC-XEC3001,Current to Pressure transducer,Y,R,134053.0,Kreuter (KMC) Controls,Min/Max,175891.0,1.0,1.0,Y,Y,Y,1.0,Y,AA03,Y,N,N,Replenishment method,KMC

@@ -1,0 +1,11 @@
+location_id,location_name,inv_mast_uid,item_id,item_desc,on_vendor_price_book,product_type,primary_supplier_id,supplier_name,replenishment_method,replenishment_location,inv_min,inv_max,stockable,sellable,buy,qty_on_hand,track_bins,primary_bin,repl_loc_review,repl_meth_review,track_bin_review,discrepancy_type,Prefix_of_company
+173042.0,Boston,136896,90501500,"HEAT TIMER MOTOR,",N,R,173238.0,HEAT-TIMER CORP,Min/Max,173042.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,HTM
+173042.0,Boston,117446,HTM-90422000,"Universal 3 in 1 (Outdoor, Immersions, S",Y,R,173238.0,HEAT-TIMER CORP,Up To,173042.0,,,Y,Y,Y,13.0,Y,HEAT TIMER,N,Y,N,Replenishment method,HTM
+173042.0,Boston,117448,HTM-90422800,Blue Universal 3 in 1 Sensor w/ temp Sen,Y,R,173238.0,HEAT-TIMER CORP,Up To,173042.0,,,Y,Y,Y,2.0,Y,HEAT TIMER,N,Y,N,Replenishment method,HTM
+173042.0,Boston,117452,HTM-90431600,Pressure Sensor 0-15 PSIG Digi-Span Plat,Y,R,173238.0,HEAT-TIMER CORP,Up To,173042.0,,,Y,Y,Y,2.0,Y,HEAT TIMER,N,Y,N,Replenishment method,HTM
+173042.0,Boston,117468,HTM-92500500,Varivalve Angle,Y,R,173238.0,HEAT-TIMER CORP,Min/Max,173042.0,10.0,25.0,N,Y,Y,29.0,N,HEAT TIMER,N,N,Y,Replenishment method,HTM
+173042.0,Boston,117469,HTM-92500600,Varivalve Straight,Y,R,173238.0,HEAT-TIMER CORP,Up To,173042.0,,,Y,Y,Y,25.0,Y,HEAT TIMER,N,Y,N,Replenishment method,HTM
+173042.0,Boston,117476,HTM-92678500,MPC Platinum Series,Y,R,173238.0,HEAT-TIMER CORP,Up To,173042.0,,,Y,Y,Y,6.0,Y,HEAT TIMER,N,Y,N,Replenishment method,HTM
+173042.0,Boston,117482,HTM-92682500,Model PLL (Pump Lead Lag),Y,R,173238.0,HEAT-TIMER CORP,Up To,173042.0,,,Y,Y,Y,2.0,Y,HEAT TIMER,N,Y,N,Replenishment method,HTM
+173042.0,Boston,117483,HTM-92684000,EPU-D,Y,R,173238.0,HEAT-TIMER CORP,Up To,173042.0,,,Y,Y,Y,1.0,Y,HEAT TIMER,N,Y,N,Replenishment method,HTM
+173042.0,Boston,117489,HTM-92917500,HWE Elite Single Stage,Y,R,173238.0,HEAT-TIMER CORP,Up To,173042.0,,,Y,Y,Y,4.0,Y,HEAT TIMER,N,Y,N,Replenishment method,HTM

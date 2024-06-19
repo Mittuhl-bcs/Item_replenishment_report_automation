@@ -1,0 +1,327 @@
+location_id,location_name,inv_mast_uid,item_id,item_desc,on_vendor_price_book,product_type,primary_supplier_id,supplier_name,replenishment_method,replenishment_location,inv_min,inv_max,stockable,sellable,buy,qty_on_hand,track_bins,primary_bin,repl_loc_review,repl_meth_review,track_bin_review,discrepancy_type,Prefix_of_company
+10006.0,Phoenix,3355,ACI-ACS,"CURRENT SWITCH, SOLID CORE, .5A TRIP, N.",N,R,130004.0,Automation Components Inc (ACI),Min/Max,10006.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,ACI
+10006.0,Phoenix,13225,ACI-ADLP010WUDA0,"Differential Pressure, (0.5% Acc), 1, 2,",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,10006.0,0.0,0.0,N,Y,Y,3.0,N,,N,N,Y,Replenishment method,ACI
+10006.0,Phoenix,25797,ACI-AFS222,"Air Flow Switch  .05-12""wc; SPDT",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,10006.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,ACI
+10006.0,Phoenix,24383,ACI-APS2424VS,24VDC Adjustable Power Supply w/Snap Tra,Y,R,130004.0,Automation Components Inc (ACI),Min/Max,10006.0,0.0,0.0,Y,Y,Y,0.0,Y,PHX-3D,N,Y,N,Replenishment method,ACI
+10006.0,Phoenix,120786,ACI-FS1,"Freeze Stat, 20ft Capillary, Manual Rese",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,10006.0,0.0,0.0,N,Y,Y,11.0,N,,N,N,Y,Replenishment method,ACI
+10006.0,Phoenix,102372,ACI-Q5CCO250POX,"Smart Sensor, Carbon Monoxide",N,R,130004.0,Automation Components Inc (ACI),Min/Max,10006.0,0.0,2.0,Y,Y,Y,2.0,N,0,N,N,Y,Replenishment method,ACI
+10008.0,Salt Lake City,36682,ACI-ACO2DUCT,"Carbon Dioxide Sensor, Duct, 0-2000ppm (",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,10008.0,0.0,0.0,N,Y,Y,3.0,N,,N,N,Y,Replenishment method,ACI
+10008.0,Salt Lake City,106262,ACI-ACPD6PB,"10,000 Ohm Thermistor (Type II), Duct, 6",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,10008.0,10.0,20.0,Y,Y,Y,0.0,N,,N,N,Y,Replenishment method,ACI
+10008.0,Salt Lake City,106263,ACI-ACPD8PB,"10,000 Ohm Thermistor (Type II), Duct, 8",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,10008.0,10.0,20.0,Y,Y,Y,0.0,N,,N,N,Y,Replenishment method,ACI
+10008.0,Salt Lake City,43040,ACI-ACPFA24GD,"10,000 Ohm Thermistor (Type II) Flexible",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,10008.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,ACI
+10008.0,Salt Lake City,116335,ACI-ACPINW4GD,"10,000 Ohm Thermistor (Type II), Immersi",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,10008.0,0.0,0.0,N,Y,Y,10.0,N,,N,N,Y,Replenishment method,ACI
+10008.0,Salt Lake City,13226,ACI-ADLP001WUNA3,"Differential Pressure, (0.5% Acc), 0.1,",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,10008.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,ACI
+10008.0,Salt Lake City,282984,ACI-BN2130R2,"BACnet MS/TP, Modbus RTU, Relative Humid",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,10008.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,ACI
+10008.0,Salt Lake City,283413,ACI-STN50,"Sampling Tube for SL-2000/RT3000, 5.0ft",Y,R,130004.0,Automation Components Inc (ACI),OP/OQ,10008.0,1.0,5.0,Y,Y,Y,10.0,Y,SL-8J5,N,Y,N,Replenishment method,ACI
+10510.0,Minneapolis,5726,ACI-ACPRSO,10K TYPE II ROOM SENSOR WITH SETPOINT &,N,R,130004.0,Automation Components Inc (ACI),Min/Max,10510.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,ACI
+10510.0,Minneapolis,281813,ACI-ARH2ANR,"Relative Humidity, RH Outputs: 0-5, 0-10",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,10510.0,0.0,0.0,Y,Y,Y,0.0,Y,15B3,N,Y,N,Replenishment method,ACI
+10510.0,Minneapolis,116361,ACI-PAM1,"Multi-Voltage Control Relay, 24 VDC, 24",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,10510.0,10.0,20.0,Y,Y,Y,20.0,N,,N,N,Y,Replenishment method,ACI
+10510.0,Minneapolis,102372,ACI-Q5CCO250POX,"Smart Sensor, Carbon Monoxide",N,R,130004.0,Automation Components Inc (ACI),Min/Max,10510.0,0.0,0.0,N,Y,Y,6.0,N,0,N,N,Y,Replenishment method,ACI
+10520.0,St Paul,25603,ACI-ARH3R,"Relative Humidity, RH Outputs: 0-5, 0-10",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,10520.0,0.0,0.0,Y,Y,Y,0.0,Y,1A1,N,Y,N,Replenishment method,ACI
+10520.0,St Paul,100630,ACI-DRN4,PWM/Analog/Floating Point Input to Resis,Y,R,130004.0,Automation Components Inc (ACI),Min/Max,10520.0,0.0,0.0,N,Y,Y,3.0,N,,N,N,Y,Replenishment method,ACI
+10520.0,St Paul,94661,ACI-NO2RRBD,"Nitrogen Dioxide Sensor, 0-6 PPM Default",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,10520.0,0.0,1.0,Y,Y,Y,0.0,N,,N,N,Y,Replenishment method,ACI
+10770.0,Nashville,280120,ACI-A01ANO4XAS,"High Accuracy 10,000 Ohm Thermistor (Typ",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,10770.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,ACI
+10770.0,Nashville,99232,ACI-A1KNID4GD,"1,000 Ohm Nickel RTD, Duct, 4in, Galvani",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,10770.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,ACI
+10770.0,Nashville,99233,ACI-A1KNID4PB,"1,000 Ohm Nickel RTD, Duct, 4in, Plastic",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,10770.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,ACI
+10770.0,Nashville,284582,ACI-A3KDO610CL2P,"3,000 Ohm Thermistor, Duct, Without Box,",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,10770.0,2.0,5.0,Y,Y,Y,5.0,N,,N,N,Y,Replenishment method,ACI
+10770.0,Nashville,99329,ACI-AAND4GD,"10,000 Ohm Thermistor (Type III), Duct,",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,10770.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,ACI
+10770.0,Nashville,2053,ACI-AAND4PB,"10,000 Ohm Thermistor (Type III), Duct,",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,10770.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,ACI
+10770.0,Nashville,280883,ACI-AASCS2L,"Adjustable Current Switch, DIN Rail, Spl",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,10770.0,2.0,5.0,Y,Y,Y,4.0,N,,N,N,Y,Replenishment method,ACI
+10770.0,Nashville,106270,ACI-ADLP001WUDA3,"Differential Pressure, (0.5% Acc), 0.1,",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,10770.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,ACI
+10770.0,Nashville,25798,ACI-AFS262,"Differential Pressure Switch, 0.05 to 2.",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,10770.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,ACI
+10770.0,Nashville,99539,ACI-AFS262112,"Differential Pressure Switch, 0.05 to 2.",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,10770.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,ACI
+10770.0,Nashville,274149,ACI-ECMCS25A,ECMCS25-A,Y,R,130004.0,Automation Components Inc (ACI),Min/Max,10770.0,0.0,0.0,N,Y,Y,5.0,N,,N,N,Y,Replenishment method,ACI
+10770.0,Nashville,285382,ACI-SPT80,"Static Pitot Tube, Aluminum, 8in",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,10770.0,10.0,30.0,Y,Y,Y,30.0,N,,N,N,Y,Replenishment method,ACI
+166553.0,Austin,502640,ACI-A10KE1D6GD,"10,000 Ohm Thermistor (E1),",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166553.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,ACI
+166553.0,Austin,116326,ACI-A20KD18PB,"20,000 Ohm Thermistor, Duct, 18in, Plast",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166553.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,ACI
+166553.0,Austin,5274,ACI-A20KD8PB,"20,000 Ohm Thermistor, Duct, 8"", Plastic",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166553.0,10.0,24.0,Y,Y,Y,16.0,N,0,N,N,Y,Replenishment method,ACI
+166553.0,Austin,284722,ACI-AANDO1210CL2P,"10,000 Ohm Thermistor (Type III), Duct,",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166553.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,ACI
+166553.0,Austin,280806,ACI-AANR2SOA03B4,"10,000 Ohm Thermistor (Type III), Room (",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166553.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,ACI
+166553.0,Austin,280831,ACI-AANRSA02C5,"10,000 Ohm Thermistor (Type III), Room (",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166553.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,ACI
+166553.0,Austin,281667,ACI-ARH1R2,"Relative Humidity, RH Outputs: 0-5, 0-10",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166553.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,ACI
+166553.0,Austin,281986,ACI-ARH31K2WR,"Relative Humidity, RH Outputs: 0-5, 0-10",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166553.0,0.0,0.0,N,Y,Y,4.0,N,,N,N,Y,Replenishment method,ACI
+166553.0,Austin,105308,ACI-GP030G20P,Pressure Trans GP 0-30#,Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166553.0,0.0,0.0,N,Y,Y,4.0,N,0,N,N,Y,Replenishment method,ACI
+166553.0,Austin,102372,ACI-Q5CCO250POX,"Smart Sensor, Carbon Monoxide",N,R,130004.0,Automation Components Inc (ACI),Min/Max,166553.0,2.0,5.0,Y,Y,Y,5.0,N,0,N,N,Y,Replenishment method,ACI
+166553.0,Austin,503234,ACI-QIRFR123X0,"Refrigerant Sensor,",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166553.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,ACI
+166553.0,Austin,283404,ACI-SL2000P,"Smoke Detector, Duct, Multi-Application,",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166553.0,10.0,40.0,Y,Y,Y,21.0,N,,N,N,Y,Replenishment method,ACI
+166553.0,Austin,283412,ACI-STN25,"Sampling Tube for SL-2000/RT3000, 2.5ft",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166553.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,ACI
+166553.0,Austin,283413,ACI-STN50,"Sampling Tube for SL-2000/RT3000, 5.0ft",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166553.0,0.0,0.0,N,Y,Y,16.0,N,,N,N,Y,Replenishment method,ACI
+166557.0,Dallas,515657,ACI-A/MSCTA-40,analog curr sensor 4 to 20 mA,N,R,130004.0,Automation Components Inc (ACI),Min/Max,166557.0,2.0,5.0,Y,Y,Y,5.0,N,0,N,N,Y,Replenishment method,ACI
+166557.0,Dallas,515658,ACI-A/MSCTE-40,analog curr sensor  0 to 5 VDC,N,R,130004.0,Automation Components Inc (ACI),Min/Max,166557.0,2.0,5.0,Y,Y,Y,5.0,N,0,N,N,Y,Replenishment method,ACI
+166557.0,Dallas,5274,ACI-A20KD8PB,"20,000 Ohm Thermistor, Duct, 8"", Plastic",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166557.0,0.0,0.0,N,Y,Y,9.0,N,0,N,N,Y,Replenishment method,ACI
+166557.0,Dallas,283829,ACI-AANI25BB,"10,000 Ohm Thermistor (Type III), Immers",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166557.0,2.0,10.0,Y,Y,Y,9.0,N,,N,N,Y,Replenishment method,ACI
+166557.0,Dallas,283874,ACI-ACPDO472CL2PQC,"10,000 Ohm Thermistor (Type II), Duct, W",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166557.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,ACI
+166557.0,Dallas,285475,ACI-AGPM20HARNESS,"GP Packard Harness, 20ft(6.1m), Metal Cl",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166557.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,ACI
+166557.0,Dallas,282313,ACI-ATT100BP44X6CL2P,"Transmitter w/ 100 Ohm RTD, Bullet Probe",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166557.0,0.0,0.0,N,Y,Y,5.0,N,,N,N,Y,Replenishment method,ACI
+166557.0,Dallas,283937,ACI-ATT100D82PB,"Transmitter w/ 100 Ohm RTD, Duct, 8in, P",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166557.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,ACI
+166557.0,Dallas,105308,ACI-GP030G20P,Pressure Trans GP 0-30#,Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166557.0,0.0,0.0,N,Y,Y,1.0,N,0,N,N,Y,Replenishment method,ACI
+166557.0,Dallas,102372,ACI-Q5CCO250POX,"Smart Sensor, Carbon Monoxide",N,R,130004.0,Automation Components Inc (ACI),Min/Max,166557.0,1.0,2.0,Y,Y,Y,2.0,N,0,N,N,Y,Replenishment method,ACI
+166557.0,Dallas,283404,ACI-SL2000P,"Smoke Detector, Duct, Multi-Application,",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166557.0,0.0,0.0,N,Y,Y,8.0,N,,N,N,Y,Replenishment method,ACI
+166557.0,Dallas,283413,ACI-STN50,"Sampling Tube for SL-2000/RT3000, 5.0ft",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166557.0,0.0,0.0,N,Y,Y,10.0,N,,N,N,Y,Replenishment method,ACI
+166557.0,Dallas,490861,M-CONTROLLER2-X00,M-Controller2 with M-View  Software,N,T,130004.0,Automation Components Inc (ACI),Min/Max,166557.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,ACI
+166559.0,Houston,284418,ACI-A1K2WINW6PB,"1,000 Ohm (Two Wires) RTD, Immersion, No",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166559.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,ACI
+166559.0,Houston,284508,ACI-A1KNIINW25PB,"1,000 Ohm Nickel RTD, Immersion, No Well",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166559.0,1.0,2.0,Y,Y,Y,4.0,N,,N,N,Y,Replenishment method,ACI
+166559.0,Houston,280487,ACI-A1KNIO4X,"1,000 Ohm Nickel RTD, Outside Air, NEMA",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166559.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,ACI
+166559.0,Houston,18660,ACI-A20KDO6,"20,000 Ohm Thermistor, Duct, Without Box",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166559.0,0.0,0.0,Y,Y,Y,4.0,Y,ACINC,N,Y,N,Replenishment method,ACI
+166559.0,Houston,284552,ACI-A20KINW254X,"20,000 Ohm Thermistor, Immersion, No Wel",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166559.0,0.0,1.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,ACI
+166559.0,Houston,275439,ACI-A20KRA24GD,"20,000 Ohm Thermistor, Rigid Probe Avera",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166559.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,ACI
+166559.0,Houston,99289,ACI-A3KPO4,"3,000 Ohm Thermistor, Probe Only, 4in",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166559.0,0.0,0.0,Y,Y,Y,3.0,Y,ACINC,N,Y,N,Replenishment method,ACI
+166559.0,Houston,99324,ACI-AANA12GD,"10,000 Ohm Thermistor (Type III), Copper",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166559.0,0.0,0.0,Y,Y,Y,1.0,Y,ACINC,N,Y,N,Replenishment method,ACI
+166559.0,Houston,283883,ACI-ACPINW25PB,"10,000 Ohm Thermistor (Type II), Immersi",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166559.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,ACI
+166559.0,Houston,281024,ACI-ACPR2SA09C5,"10,000 Ohm Thermistor (Type II), Room (R",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166559.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,ACI
+166559.0,Houston,25798,ACI-AFS262,"Differential Pressure Switch, 0.05 to 2.",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166559.0,0.0,0.0,Y,Y,Y,2.0,Y,ACINC,N,Y,N,Replenishment method,ACI
+166559.0,Houston,116341,ACI-AHOSECLAMP25,"Hose Clamp, 2in to 5in",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166559.0,1.0,3.0,Y,Y,Y,0.0,N,,N,N,Y,Replenishment method,ACI
+166559.0,Houston,281439,ACI-AIM11,"Analog Input, Analog Output, Analog Isol",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166559.0,0.0,0.0,Y,Y,Y,0.0,Y,ACINC,N,Y,N,Replenishment method,ACI
+166559.0,Houston,36990,ACI-AIM2,"Analog Input, Analog Output, Analog Isol",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166559.0,0.0,0.0,Y,Y,Y,2.0,Y,ACINC,N,Y,N,Replenishment method,ACI
+166559.0,Houston,99447,ACI-AMLP2003WUAA0P,"Differential Pressure, Panel Mount, 3.00",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166559.0,0.0,0.0,Y,Y,Y,4.0,Y,ACINC,N,Y,N,Replenishment method,ACI
+166559.0,Houston,281601,ACI-AMOUNTINGPLATEWHITER,"Plastic Mounting Plate, White Infinity (",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166559.0,0.0,0.0,N,Y,Y,8.0,N,,N,N,Y,Replenishment method,ACI
+166559.0,Houston,281602,ACI-AMOUNTINGPLATEWHITER2,"Plastic Mounting Plate, White Aries (R2)",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166559.0,0.0,0.0,N,Y,Y,6.0,N,,N,N,Y,Replenishment method,ACI
+166559.0,Houston,297170,ACI-ARH1ANRSO,"Relative Humidity, RH Outputs: 0-5, 0-10",N,R,130004.0,Automation Components Inc (ACI),Min/Max,166559.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,ACI
+166559.0,Houston,107075,ACI-ARH31K2WO,"Relative Humidity, RH Outputs: 0-5, 0-10",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166559.0,0.0,0.0,Y,Y,Y,3.0,Y,ACINC,N,Y,N,Replenishment method,ACI
+166559.0,Houston,99475,ACI-ARH31KNID,"Relative Humidity, RH Outputs: 0-5, 0-10",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166559.0,0.0,0.0,Y,Y,Y,3.0,Y,ACINC,N,Y,N,Replenishment method,ACI
+166559.0,Houston,99476,ACI-ARH31KNIO,"Relative Humidity, RH Outputs: 0-5, 0-10",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166559.0,0.0,0.0,Y,Y,Y,5.0,Y,ACINC,N,Y,N,Replenishment method,ACI
+166559.0,Houston,120777,ACI-ARH31KNIO4X,"Relative Humidity, RH Outputs: 0-5, 0-10",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166559.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,ACI
+166559.0,Houston,18505,ACI-AWPR210020,"Remote Wet Differential Pressure, 0-10,",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166559.0,1.0,0.0,Y,Y,Y,0.0,Y,ACINC,N,Y,N,Replenishment method,ACI
+166559.0,Houston,102372,ACI-Q5CCO250POX,"Smart Sensor, Carbon Monoxide",N,R,130004.0,Automation Components Inc (ACI),Min/Max,166559.0,2.0,4.0,Y,Y,Y,4.0,N,0,N,N,Y,Replenishment method,ACI
+166559.0,Houston,283404,ACI-SL2000P,"Smoke Detector, Duct, Multi-Application,",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166559.0,0.0,0.0,N,Y,Y,8.0,N,,N,N,Y,Replenishment method,ACI
+166559.0,Houston,283413,ACI-STN50,"Sampling Tube for SL-2000/RT3000, 5.0ft",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166559.0,0.0,0.0,N,Y,Y,8.0,N,,N,N,Y,Replenishment method,ACI
+166560.0,New Orleans,99210,ACI-A1K2WD6PB,"1,000 Ohm (Two Wires) RTD, Duct, 6in, Pl",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166553.0,0.0,0.0,N,Y,Y,6.0,Y,ACINC,Y,N,N,Replenishment method,ACI
+166560.0,New Orleans,99228,ACI-A1KNIBP,"1,000 Ohm Nickel RTD, Bullet Probe, 1in",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166553.0,0.0,0.0,N,Y,Y,1.0,Y,ACINC,Y,N,N,Replenishment method,ACI
+166560.0,New Orleans,99229,ACI-A1KNID12GD,"1,000 Ohm Nickel RTD, Duct, 12in, Galvan",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166553.0,1.0,3.0,Y,Y,Y,0.0,Y,ACINC,Y,N,N,Replenishment method,ACI
+166560.0,New Orleans,99230,ACI-A1KNID12PB,"1,000 Ohm Nickel RTD, Duct, 12in, Plasti",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166553.0,2.0,3.0,Y,Y,Y,5.0,Y,ACINC,Y,N,N,Replenishment method,ACI
+166560.0,New Orleans,99233,ACI-A1KNID4PB,"1,000 Ohm Nickel RTD, Duct, 4in, Plastic",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166553.0,2.0,3.0,Y,Y,Y,3.0,Y,ACINC,Y,N,N,Replenishment method,ACI
+166560.0,New Orleans,99236,ACI-A1KNID8GD,"1,000 Ohm Nickel RTD, Duct, 8in, Galvani",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166553.0,0.0,0.0,N,Y,Y,5.0,Y,ACINC,Y,N,N,Replenishment method,ACI
+166560.0,New Orleans,99297,ACI-A1KNIINW6PB,"1,000 Ohm Nickel RTD, Immersion, No Well",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166553.0,0.0,0.0,N,Y,Y,4.0,Y,ACINC,Y,N,N,Replenishment method,ACI
+166560.0,New Orleans,99252,ACI-A1KNIOEH,"1,000 Ohm Nickel RTD, Outside Air, Euro",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166553.0,0.0,0.0,N,Y,Y,3.0,Y,ACINC,Y,N,N,Replenishment method,ACI
+166560.0,New Orleans,99255,ACI-A1KNIPO2,"1,000 Ohm Nickel RTD, Probe Only, 2in",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166553.0,0.0,0.0,N,Y,Y,5.0,Y,ACINC,Y,N,N,Replenishment method,ACI
+166560.0,New Orleans,99256,ACI-A1KNIPO4,"1,000 Ohm Nickel RTD, Probe Only, 4in",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166553.0,0.0,0.0,N,Y,Y,5.0,Y,ACINC,Y,N,N,Replenishment method,ACI
+166560.0,New Orleans,99257,ACI-A1KNIPO6,"1,000 Ohm Nickel RTD, Probe Only, 6in",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166553.0,0.0,0.0,N,Y,Y,3.0,Y,ACINC,Y,N,N,Replenishment method,ACI
+166560.0,New Orleans,99258,ACI-A1KNIPO8,"1,000 Ohm Nickel RTD, Probe Only, 8in",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166553.0,0.0,0.0,N,Y,Y,4.0,Y,ACINC,Y,N,N,Replenishment method,ACI
+166560.0,New Orleans,99264,ACI-A1KNISBS,"1,000 Ohm Nickel RTD, Flush Mount Button",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166553.0,0.0,0.0,N,Y,Y,3.0,Y,ACINC,Y,N,N,Replenishment method,ACI
+166560.0,New Orleans,4906,ACI-A1KNISP,"1,000 Ohm Nickel RTD, Wall Plate, Stainl",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166553.0,0.0,0.0,N,Y,Y,4.0,Y,ACINC,Y,N,N,Replenishment method,ACI
+166560.0,New Orleans,25587,ACI-A20KD6GD,"20,000 Ohm Thermistor, Duct, 6in, Galvan",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166553.0,0.0,0.0,N,Y,Y,9.0,Y,ACINC,Y,N,N,Replenishment method,ACI
+166560.0,New Orleans,3656,ACI-A20KD8GD,"20,000 Ohm Thermistor, Duct, 8in, Galvan",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166553.0,0.0,0.0,N,Y,Y,3.0,Y,ACINC,Y,N,N,Replenishment method,ACI
+166560.0,New Orleans,5274,ACI-A20KD8PB,"20,000 Ohm Thermistor, Duct, 8"", Plastic",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166560.0,3.0,5.0,Y,Y,Y,6.0,N,0,N,N,Y,Replenishment method,ACI
+166560.0,New Orleans,99274,ACI-A20KPO2,"20,000 Ohm Thermistor, Probe Only, 2in",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166553.0,0.0,0.0,N,Y,Y,6.0,Y,ACINC,Y,N,N,Replenishment method,ACI
+166560.0,New Orleans,99275,ACI-A20KPO4,"20,000 Ohm Thermistor, Probe Only, 4in",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166553.0,0.0,0.0,N,Y,Y,4.0,Y,ACINC,Y,N,N,Replenishment method,ACI
+166560.0,New Orleans,99277,ACI-A20KPO6,"20,000 Ohm Thermistor, Probe Only, 6in",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166553.0,2.0,3.0,Y,Y,Y,5.0,Y,ACINC,Y,N,N,Replenishment method,ACI
+166560.0,New Orleans,12521,ACI-A20KR2,"20,000 Ohm Thermistor, Room (R2)",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166553.0,0.0,0.0,N,Y,Y,4.0,Y,ACINC,Y,N,N,Replenishment method,ACI
+166560.0,New Orleans,3570,ACI-A20KSGD,"20,000 Ohm Thermistor, Strap On, Galvani",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166553.0,0.0,0.0,N,Y,Y,4.0,Y,ACINC,Y,N,N,Replenishment method,ACI
+166560.0,New Orleans,25584,ACI-A25,"1/2""x1/2""NPT SS WELL",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166553.0,0.0,0.0,N,Y,Y,1.0,N,,Y,N,Y,Replenishment method,ACI
+166560.0,New Orleans,99282,ACI-A3KBP,"3,000 Ohm Thermistor, Bullet Probe, 1in",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166553.0,0.0,0.0,N,Y,Y,5.0,Y,ACINC,Y,N,N,Replenishment method,ACI
+166560.0,New Orleans,99283,ACI-A3KD4PB,"3,000 Ohm Thermistor, Duct, 4in, Plastic",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166553.0,0.0,0.0,N,Y,Y,3.0,Y,ACINC,Y,N,N,Replenishment method,ACI
+166560.0,New Orleans,99284,ACI-A3KD6GD,"3,000 Ohm Thermistor, Duct, 6in, Galvani",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166553.0,0.0,0.0,N,Y,Y,3.0,Y,ACINC,Y,N,N,Replenishment method,ACI
+166560.0,New Orleans,99285,ACI-A3KD6PB,"3,000 Ohm Thermistor, Duct, 6in, Plastic",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166553.0,0.0,0.0,N,Y,Y,4.0,Y,ACINC,Y,N,N,Replenishment method,ACI
+166560.0,New Orleans,99286,ACI-A3KD8GD,"3,000 Ohm Thermistor, Duct, 8in, Galvani",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166553.0,0.0,0.0,N,Y,Y,5.0,Y,ACINC,Y,N,N,Replenishment method,ACI
+166560.0,New Orleans,99287,ACI-A3KD8PB,"3,000 Ohm Thermistor, Duct, 8in, Plastic",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166553.0,0.0,0.0,N,Y,Y,6.0,Y,ACINC,Y,N,N,Replenishment method,ACI
+166560.0,New Orleans,99288,ACI-A3KPO2,"3,000 Ohm Thermistor, Probe Only, 2in",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166553.0,0.0,0.0,N,Y,Y,3.0,Y,ACINC,Y,N,N,Replenishment method,ACI
+166560.0,New Orleans,99289,ACI-A3KPO4,"3,000 Ohm Thermistor, Probe Only, 4in",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166553.0,0.0,0.0,N,Y,Y,4.0,Y,ACINC,Y,N,N,Replenishment method,ACI
+166560.0,New Orleans,99291,ACI-A3KPO8,"3,000 Ohm Thermistor, Probe Only, 8in",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166553.0,0.0,0.0,N,Y,Y,5.0,Y,ACINC,Y,N,N,Replenishment method,ACI
+166560.0,New Orleans,280639,ACI-A3KSPB,"3,000 Ohm Thermistor, Strap On, Plastic",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166560.0,0.0,0.0,N,Y,Y,5.0,N,,N,N,Y,Replenishment method,ACI
+166560.0,New Orleans,99302,ACI-AA1KNIRSO,1k ohm Nickel Room w/ Setpoint &Over,N,R,130004.0,Automation Components Inc (ACI),Min/Max,166553.0,0.0,0.0,N,Y,N,5.0,Y,ACINC,Y,N,N,Replenishment method,ACI
+166560.0,New Orleans,99323,ACI-AADP295,"Diff Press Trans, 0-5""wc, 0-5vdc",N,R,130004.0,Automation Components Inc (ACI),Min/Max,166553.0,0.0,0.0,N,Y,Y,1.0,Y,ACINC,Y,N,N,Replenishment method,ACI
+166560.0,New Orleans,2979,ACI-ACPD6GD,"10,000 Ohm Thermistor (Type II), Duct, 6",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166553.0,0.0,0.0,N,Y,Y,11.0,Y,ACINC,Y,N,N,Replenishment method,ACI
+166560.0,New Orleans,25593,ACI-ACPOEH,"10,000 Ohm Thermistor (Type II), Outside",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166553.0,0.0,0.0,N,Y,Y,1.0,Y,ACINC,Y,N,N,Replenishment method,ACI
+166560.0,New Orleans,14366,ACI-ACPPO6,"10,000 Ohm Thermistor (Type II), Probe O",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166553.0,2.0,3.0,Y,Y,Y,5.0,Y,ACINC,Y,N,N,Replenishment method,ACI
+166560.0,New Orleans,7551,ACI-ACPPO8,"10,000 Ohm Thermistor (Type II), Probe O",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166553.0,0.0,0.0,N,Y,Y,4.0,Y,ACINC,Y,N,N,Replenishment method,ACI
+166560.0,New Orleans,99541,ACI-AFS460DSS,"Differential Pressure Switch, 1.25 to 12",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166553.0,0.0,0.0,N,Y,Y,4.0,Y,ACINC,Y,N,N,Replenishment method,ACI
+166560.0,New Orleans,99422,ACI-AGP050020,Pressure Transducer  0-500psig  4-20,N,R,130004.0,Automation Components Inc (ACI),Min/Max,166553.0,0.0,0.0,N,Y,N,4.0,Y,ACINC,Y,N,N,Replenishment method,ACI
+166560.0,New Orleans,99456,ACI-AMSCS,"Mini, Fixed Current Switch, Split Core,",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166553.0,0.0,0.0,N,Y,Y,2.0,Y,ACINC,Y,N,N,Replenishment method,ACI
+166560.0,New Orleans,99476,ACI-ARH31KNIO,"Relative Humidity, RH Outputs: 0-5, 0-10",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166553.0,0.0,0.0,N,Y,Y,4.0,Y,ACINC,Y,N,N,Replenishment method,ACI
+166560.0,New Orleans,99477,ACI-ARH31KNIR,"Relative Humidity, RH Outputs: 0-5, 0-10",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166553.0,7.0,10.0,Y,Y,Y,1.0,Y,ACINC,Y,N,N,Replenishment method,ACI
+166560.0,New Orleans,99478,ACI-ARH31KNIR2,"Relative Humidity, RH Outputs: 0-5, 0-10",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166553.0,0.0,0.0,N,Y,Y,5.0,Y,ACINC,Y,N,N,Replenishment method,ACI
+166560.0,New Orleans,13117,ACI-ARH3CPD,"Relative Humidity, RH Outputs: 0-5, 0-10",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166553.0,0.0,0.0,N,Y,Y,2.0,Y,ACINC,Y,N,N,Replenishment method,ACI
+166560.0,New Orleans,4541,ACI-ARH3CPO,"Relative Humidity, RH Outputs: 0-5, 0-10",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166553.0,0.0,0.0,N,Y,Y,2.0,Y,ACINC,Y,N,N,Replenishment method,ACI
+166560.0,New Orleans,99484,ACI-ARH3R2,"Relative Humidity, RH Outputs: 0-5, 0-10",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166553.0,0.0,0.0,N,Y,Y,2.0,Y,ACINC,Y,N,N,Replenishment method,ACI
+166560.0,New Orleans,99485,ACI-ARH3R2O,"Relative Humidity, RH Outputs: 0-5, 0-10",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166553.0,0.0,0.0,N,Y,Y,2.0,Y,ACINC,Y,N,N,Replenishment method,ACI
+166560.0,New Orleans,25607,ACI-ASPPUP,Stainless Wall Plate Pickup Port,Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166553.0,0.0,0.0,N,Y,Y,4.0,Y,ACINC,Y,N,N,Replenishment method,ACI
+166560.0,New Orleans,23621,ACI-AWPR210010,"Remote Wet Differential Pressure, 0-10,",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166553.0,2.0,3.0,Y,Y,Y,0.0,Y,ACINC,Y,N,N,Replenishment method,ACI
+166560.0,New Orleans,283020,ACI-EPCG,"Analog Input (0-5VDC), Pressure Output (",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166560.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,ACI
+166560.0,New Orleans,99464,ACI-PXP23GFS,"Analog Input (0-5VDC), Pressure Output (",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166553.0,0.0,0.0,N,Y,Y,3.0,Y,ACINC,Y,N,N,Replenishment method,ACI
+166560.0,New Orleans,410522,P51-100-G-B-P-20MA-000-000,Pressure Transducer  0-100psig  Schrader,N,T,130004.0,Automation Components Inc (ACI),Min/Max,166560.0,0.0,0.0,N,Y,Y,4.0,N,,N,N,Y,Replenishment method,ACI
+166561.0,San Antonio,284126,ACI-A01CPPO4,"High Accuracy 10,000 Ohm Thermistor (Typ",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166561.0,0.0,0.0,N,Y,Y,9.0,N,,N,N,Y,Replenishment method,ACI
+166561.0,San Antonio,285458,ACI-A1K2WPO18,"1,000 Ohm (Two Wires) RTD, Probe Only, 1",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166561.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,ACI
+166561.0,San Antonio,280500,ACI-A1KNIR2SOA09C5,"1,000 Ohm Nickel RTD, Room (R2), Setpoin",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166561.0,0.0,0.0,N,Y,Y,10.0,N,,N,N,Y,Replenishment method,ACI
+166561.0,San Antonio,5274,ACI-A20KD8PB,"20,000 Ohm Thermistor, Duct, 8"", Plastic",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166561.0,2.0,6.0,Y,Y,Y,0.0,N,0,N,N,Y,Replenishment method,ACI
+166561.0,San Antonio,281601,ACI-AMOUNTINGPLATEWHITER,"Plastic Mounting Plate, White Infinity (",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166561.0,0.0,0.0,N,Y,Y,5.0,N,,N,N,Y,Replenishment method,ACI
+166561.0,San Antonio,281682,ACI-ARH1TT1KR24,"Relative Humidity, RH Outputs: 0-5, 0-10",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166561.0,0.0,0.0,N,Y,Y,8.0,N,,N,N,Y,Replenishment method,ACI
+166561.0,San Antonio,282276,ACI-ASENSEDLCDREL,"Carbon Dioxide Sensor, Duct Mount, 0-200",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166561.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,ACI
+166561.0,San Antonio,283022,ACI-EPW2,"Pulse Width Modulation Input (2.93 sec),",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166561.0,0.0,0.0,N,Y,Y,4.0,N,,N,N,Y,Replenishment method,ACI
+166561.0,San Antonio,116357,ACI-FS6A,"Freeze Stat, 6ft Capillary, Automatic Re",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166561.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,ACI
+166561.0,San Antonio,38825,ACI-GP0100G20P,"Gage Pressure with Packard Connector, 0",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,166561.0,0.0,0.0,Y,Y,Y,1.0,Y,ACINC,N,Y,N,Replenishment method,ACI
+173042.0,Boston,99191,ACI-A1002WBP,"100 Ohm (Two Wires) RTD, Bullet Probe, 1",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,10008.0,0.0,0.0,N,Y,Y,8.0,Y,ACI,Y,N,N,Replenishment method,ACI
+173042.0,Boston,5142,ACI-A1K2WBP,"1,000 Ohm (Two Wires) RTD, Bullet Probe,",Y,R,130004.0,Automation Components Inc (ACI),Up To,10008.0,,,Y,Y,Y,10.0,N,,Y,Y,Y,Replenishment method,ACI
+173042.0,Boston,99228,ACI-A1KNIBP,"1,000 Ohm Nickel RTD, Bullet Probe, 1in",Y,R,130004.0,Automation Components Inc (ACI),Up To,173042.0,,,Y,Y,Y,6.0,Y,ACI,N,Y,N,Replenishment method,ACI
+173042.0,Boston,99232,ACI-A1KNID4GD,"1,000 Ohm Nickel RTD, Duct, 4in, Galvani",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,10008.0,0.0,0.0,N,Y,Y,9.0,N,,Y,N,Y,Replenishment method,ACI
+173042.0,Boston,99234,ACI-A1KNID6GD,"1,000 Ohm Nickel RTD, Duct, 6in, Galvani",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,10008.0,0.0,0.0,N,Y,Y,1.0,N,,Y,N,Y,Replenishment method,ACI
+173042.0,Boston,99260,ACI-A1KNIR2,"1,000 Ohm Nickel RTD, Room (R2)",Y,R,130004.0,Automation Components Inc (ACI),Up To,173042.0,,,Y,Y,Y,3.0,Y,ACI,N,Y,N,Replenishment method,ACI
+173042.0,Boston,4906,ACI-A1KNISP,"1,000 Ohm Nickel RTD, Wall Plate, Stainl",Y,R,130004.0,Automation Components Inc (ACI),Up To,173042.0,,,Y,Y,Y,3.0,Y,ACI,N,Y,N,Replenishment method,ACI
+173042.0,Boston,2596,ACI-AANBP,"10,000 Ohm Thermistor (Type III), Bullet",Y,R,130004.0,Automation Components Inc (ACI),Up To,173042.0,,,Y,Y,Y,9.0,Y,ACI,N,Y,N,Replenishment method,ACI
+173042.0,Boston,1628,ACI-AANSGD,"10,000 Ohm Thermistor (Type III), Strap",Y,R,130004.0,Automation Components Inc (ACI),Up To,173042.0,,,Y,Y,Y,4.0,Y,ACI,N,Y,N,Replenishment method,ACI
+173042.0,Boston,2052,ACI-AANSP,"10,000 Ohm Thermistor (Type III), Wall P",Y,R,130004.0,Automation Components Inc (ACI),Up To,173042.0,,,Y,Y,Y,9.0,Y,ACI,N,Y,N,Replenishment method,ACI
+173042.0,Boston,120,ACI-AAR,"Analog Input, Relay Output, 2 (SPDT) Rel",Y,R,130004.0,Automation Components Inc (ACI),Up To,10008.0,,,Y,Y,Y,6.0,N,,Y,Y,Y,Replenishment method,ACI
+173042.0,Boston,1712,ACI-ACPBP,"10,000 Ohm Thermistor (Type II), Bullet",Y,R,130004.0,Automation Components Inc (ACI),Up To,173042.0,,,Y,Y,Y,11.0,Y,ACI,N,Y,N,Replenishment method,ACI
+173042.0,Boston,106261,ACI-ACPD4PB,"10,000 Ohm Thermistor (Type II), Duct, 4",Y,R,130004.0,Automation Components Inc (ACI),Up To,173042.0,,,Y,Y,Y,18.0,Y,ACI,N,Y,N,Replenishment method,ACI
+173042.0,Boston,2443,ACI-ACPD8GD,"10,000 Ohm Thermistor (Type II), Duct, 8",Y,R,130004.0,Automation Components Inc (ACI),Up To,173042.0,,,Y,Y,Y,9.0,Y,ACI,N,Y,N,Replenishment method,ACI
+173042.0,Boston,106263,ACI-ACPD8PB,"10,000 Ohm Thermistor (Type II), Duct, 8",Y,R,130004.0,Automation Components Inc (ACI),Up To,173042.0,,,Y,Y,Y,11.0,Y,ACI,N,Y,N,Replenishment method,ACI
+173042.0,Boston,103774,ACI-ACPDO410CL2P,"10,000 Ohm Thermistor (Type II), Duct, W",Y,R,130004.0,Automation Components Inc (ACI),Up To,10008.0,,,Y,Y,Y,19.0,N,,Y,Y,Y,Replenishment method,ACI
+173042.0,Boston,116332,ACI-ACPDO496CL2PQC,"10,000 Ohm Thermistor (Type II), Duct, W",Y,R,130004.0,Automation Components Inc (ACI),Up To,173042.0,,,Y,Y,Y,8.0,Y,ACI,N,Y,N,Replenishment method,ACI
+173042.0,Boston,12436,ACI-ACPI25GD,"10,000 Ohm Thermistor (Type II), Immersi",Y,R,130004.0,Automation Components Inc (ACI),Up To,173042.0,,,Y,Y,Y,10.0,Y,ACI,N,Y,N,Replenishment method,ACI
+173042.0,Boston,2137,ACI-ACPI4GD,"10,000 Ohm Thermistor (Type II), Immersi",Y,R,130004.0,Automation Components Inc (ACI),Up To,173042.0,,,Y,Y,Y,4.0,Y,ACI,N,Y,N,Replenishment method,ACI
+173042.0,Boston,25593,ACI-ACPOEH,"10,000 Ohm Thermistor (Type II), Outside",Y,R,130004.0,Automation Components Inc (ACI),Up To,173042.0,,,Y,Y,Y,7.0,Y,ACI,N,Y,N,Replenishment method,ACI
+173042.0,Boston,8811,ACI-ACPR2,"10,000 Ohm Thermistor (Type II), Room (R",Y,R,130004.0,Automation Components Inc (ACI),Up To,173042.0,,,Y,Y,Y,11.0,Y,ACI,N,Y,N,Replenishment method,ACI
+173042.0,Boston,284859,ACI-ACPRA12PB,"10,000 Ohm Thermistor (Type II), Rigid P",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,173042.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,ACI
+173042.0,Boston,31013,ACI-ACPSGD,"10,000 Ohm Thermistor (Type II), Strap O",Y,R,130004.0,Automation Components Inc (ACI),Up To,173042.0,,,Y,Y,Y,3.0,Y,ACI,N,Y,N,Replenishment method,ACI
+173042.0,Boston,4367,ACI-ACPSP,"10,000 Ohm Thermistor (Type II), Wall Pl",Y,R,130004.0,Automation Components Inc (ACI),Up To,173042.0,,,Y,Y,Y,5.0,Y,ACI,N,Y,N,Replenishment method,ACI
+173042.0,Boston,99402,ACI-ACPSPB,"10,000 Ohm Thermistor (Type II), Strap O",Y,R,130004.0,Automation Components Inc (ACI),Up To,173042.0,,,Y,Y,Y,4.0,Y,ACI,N,Y,N,Replenishment method,ACI
+173042.0,Boston,13225,ACI-ADLP010WUDA0,"Differential Pressure, (0.5% Acc), 1, 2,",Y,R,130004.0,Automation Components Inc (ACI),Up To,173042.0,,,Y,Y,Y,4.0,Y,ACI,N,Y,N,Replenishment method,ACI
+173042.0,Boston,99405,ACI-ADLP010WUNA0,"Differential Pressure, (0.5% Acc), 1, 2,",Y,R,130004.0,Automation Components Inc (ACI),Up To,173042.0,,,Y,Y,Y,7.0,Y,ACI,N,Y,N,Replenishment method,ACI
+173042.0,Boston,25797,ACI-AFS222,"Air Flow Switch  .05-12""wc; SPDT",Y,R,130004.0,Automation Components Inc (ACI),Up To,173042.0,,,Y,Y,Y,21.0,Y,CLE CONT,N,Y,N,Replenishment method,ACI
+173042.0,Boston,25799,ACI-AFS460,"Differential Pressure Switch, 0.40 to 12",Y,R,130004.0,Automation Components Inc (ACI),Up To,173042.0,,,Y,Y,Y,10.0,Y,ACI,N,Y,N,Replenishment method,ACI
+173042.0,Boston,99540,ACI-AFS460112,"Differential Pressure Switch, 0.40 to 12",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,10008.0,0.0,0.0,N,Y,Y,19.0,Y,CLE CONT,Y,N,N,Replenishment method,ACI
+173042.0,Boston,104431,ACI-AGP10HARNESS,"GP Packard Harness, 10ft(3.1m)",Y,R,130004.0,Automation Components Inc (ACI),Up To,173042.0,,,Y,Y,Y,2.0,Y,ACI,N,Y,N,Replenishment method,ACI
+173042.0,Boston,103957,ACI-AGP20HARNESS,"GP Packard Harness, 20ft (6.1m)",Y,R,130004.0,Automation Components Inc (ACI),Up To,173042.0,,,Y,Y,Y,2.0,Y,ACI,N,Y,N,Replenishment method,ACI
+173042.0,Boston,116341,ACI-AHOSECLAMP25,"Hose Clamp, 2in to 5in",Y,R,130004.0,Automation Components Inc (ACI),Up To,173042.0,,,Y,Y,Y,10.0,Y,ACI,N,Y,N,Replenishment method,ACI
+173042.0,Boston,4266,ACI-AOPUPH,"Outside Air Pickup Port, Horizontal",Y,R,130004.0,Automation Components Inc (ACI),Up To,10008.0,,,Y,Y,Y,3.0,N,,Y,Y,Y,Replenishment method,ACI
+173042.0,Boston,25599,ACI-ARH2CPO,"Relative Humidity, RH Outputs: 0-5, 0-10",Y,R,130004.0,Automation Components Inc (ACI),Up To,173042.0,,,Y,Y,Y,5.0,Y,ACI,N,Y,N,Replenishment method,ACI
+173042.0,Boston,99475,ACI-ARH31KNID,"Relative Humidity, RH Outputs: 0-5, 0-10",Y,R,130004.0,Automation Components Inc (ACI),Up To,173042.0,,,Y,Y,Y,2.0,Y,ACI,N,Y,N,Replenishment method,ACI
+173042.0,Boston,13117,ACI-ARH3CPD,"Relative Humidity, RH Outputs: 0-5, 0-10",Y,R,130004.0,Automation Components Inc (ACI),Up To,173042.0,,,Y,Y,Y,3.0,Y,ACI,N,Y,N,Replenishment method,ACI
+173042.0,Boston,25607,ACI-ASPPUP,Stainless Wall Plate Pickup Port,Y,R,130004.0,Automation Components Inc (ACI),Up To,173042.0,,,Y,Y,Y,10.0,Y,ACI,N,Y,N,Replenishment method,ACI
+173042.0,Boston,23621,ACI-AWPR210010,"Remote Wet Differential Pressure, 0-10,",Y,R,130004.0,Automation Components Inc (ACI),Up To,173042.0,,,Y,Y,Y,2.0,Y,ACI,N,Y,N,Replenishment method,ACI
+173042.0,Boston,38825,ACI-GP0100G20P,"Gage Pressure with Packard Connector, 0",Y,R,130004.0,Automation Components Inc (ACI),Up To,173042.0,,,Y,Y,Y,2.0,Y,ACI,N,Y,N,Replenishment method,ACI
+173042.0,Boston,99459,ACI-PT52,Total Pressure Pitot Tube with Foam Gask,Y,R,130004.0,Automation Components Inc (ACI),Up To,173042.0,,,Y,Y,Y,6.0,Y,ACI,N,Y,N,Replenishment method,ACI
+173042.0,Boston,283404,ACI-SL2000P,"Smoke Detector, Duct, Multi-Application,",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,173042.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,ACI
+173042.0,Boston,99488,ACI-SPT35,"Static Pitot Tube, Aluminum, 3.5in",Y,R,130004.0,Automation Components Inc (ACI),Up To,173042.0,,,Y,Y,Y,25.0,Y,ACI,N,Y,N,Replenishment method,ACI
+173042.0,Boston,285382,ACI-SPT80,"Static Pitot Tube, Aluminum, 8in",Y,R,130004.0,Automation Components Inc (ACI),Up To,173042.0,,,Y,Y,Y,7.0,Y,ACI,N,Y,N,Replenishment method,ACI
+173042.0,Boston,283529,ACI-UNIVERSALCLIP50,"Universal Clip for Cap Tube, Plastic",Y,R,130004.0,Automation Components Inc (ACI),Up To,173042.0,,,Y,Y,Y,500.0,Y,ACI,N,Y,N,Replenishment method,ACI
+175883.0,Charlotte,487626,A/DP-9-20,Pressure Sensor Pressure Transmitter 0-5,N,T,130004.0,Automation Components Inc (ACI),Min/Max,175883.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,ACI
+175883.0,Charlotte,284540,ACI-A20KDO810CL2P,"20,000 Ohm Thermistor, Duct, Without Box",Y,R,130004.0,Automation Components Inc (ACI),EOQ,175883.0,0.0,0.0,Y,Y,Y,26.0,Y,ACI,N,Y,N,Replenishment method,ACI
+175883.0,Charlotte,280544,ACI-A20KR2SA24B4,"20,000 Ohm Thermistor, Room (R2), Setpoi",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175883.0,5.0,20.0,Y,Y,Y,20.0,N,,N,N,Y,Replenishment method,ACI
+175883.0,Charlotte,284582,ACI-A3KDO610CL2P,"3,000 Ohm Thermistor, Duct, Without Box,",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175883.0,15.0,30.0,Y,Y,Y,21.0,N,,N,N,Y,Replenishment method,ACI
+175883.0,Charlotte,2596,ACI-AANBP,"10,000 Ohm Thermistor (Type III), Bullet",Y,R,130004.0,Automation Components Inc (ACI),EOQ,175883.0,0.0,0.0,N,Y,Y,2.0,Y,ACI,N,Y,N,Replenishment method,ACI
+175883.0,Charlotte,99329,ACI-AAND4GD,"10,000 Ohm Thermistor (Type III), Duct,",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175883.0,5.0,10.0,Y,Y,Y,9.0,N,,N,N,Y,Replenishment method,ACI
+175883.0,Charlotte,106258,ACI-AANR,"10,000 Ohm Thermistor (Type III), Room (",Y,R,130004.0,Automation Components Inc (ACI),EOQ,175883.0,0.0,0.0,N,Y,Y,1.0,Y,ACI,N,Y,N,Replenishment method,ACI
+175883.0,Charlotte,12486,ACI-AANR2,"10,000 Ohm Thermistor (Type III), Room (",Y,R,130004.0,Automation Components Inc (ACI),EOQ,175883.0,0.0,0.0,N,Y,Y,2.0,Y,ACI,N,Y,N,Replenishment method,ACI
+175883.0,Charlotte,1712,ACI-ACPBP,"10,000 Ohm Thermistor (Type II), Bullet",Y,R,130004.0,Automation Components Inc (ACI),EOQ,175883.0,0.0,0.0,N,Y,Y,2.0,Y,ACI,N,Y,N,Replenishment method,ACI
+175883.0,Charlotte,106260,ACI-ACPD12PB,"10,000 Ohm Thermistor (Type II), Duct, 1",Y,R,130004.0,Automation Components Inc (ACI),EOQ,175883.0,0.0,0.0,N,Y,Y,2.0,Y,ACI,N,Y,N,Replenishment method,ACI
+175883.0,Charlotte,99376,ACI-ACPD4GD,"10,000 Ohm Thermistor (Type II), Duct, 4",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175883.0,2.0,5.0,Y,Y,Y,5.0,N,,N,N,Y,Replenishment method,ACI
+175883.0,Charlotte,106261,ACI-ACPD4PB,"10,000 Ohm Thermistor (Type II), Duct, 4",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175883.0,2.0,5.0,Y,Y,Y,21.0,N,,N,N,Y,Replenishment method,ACI
+175883.0,Charlotte,106263,ACI-ACPD8PB,"10,000 Ohm Thermistor (Type II), Duct, 8",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175883.0,2.0,10.0,Y,Y,Y,10.0,N,,N,N,Y,Replenishment method,ACI
+175883.0,Charlotte,19203,ACI-ACPFA24PB,"10,000 Ohm Thermistor (Type II), Flexibl",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175883.0,0.0,0.0,N,Y,Y,3.0,N,,N,N,Y,Replenishment method,ACI
+175883.0,Charlotte,5057,ACI-ACPR,"10,000 Ohm Thermistor (Type II), Room (R",Y,R,130004.0,Automation Components Inc (ACI),EOQ,175883.0,0.0,0.0,N,Y,Y,2.0,Y,ACI,N,Y,N,Replenishment method,ACI
+175883.0,Charlotte,99402,ACI-ACPSPB,"10,000 Ohm Thermistor (Type II), Strap O",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175883.0,2.0,5.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,ACI
+175883.0,Charlotte,104100,ACI-ACTV250,"Analog Current Sensor, 0-10 VDC, DIN Rai",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175883.0,5.0,20.0,Y,Y,Y,18.0,N,,N,N,Y,Replenishment method,ACI
+175883.0,Charlotte,13225,ACI-ADLP010WUDA0,"Differential Pressure, (0.5% Acc), 1, 2,",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175883.0,0.0,0.0,N,Y,Y,5.0,N,,N,N,Y,Replenishment method,ACI
+175883.0,Charlotte,25797,ACI-AFS222,"Air Flow Switch  .05-12""wc; SPDT",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175883.0,2.0,10.0,Y,Y,Y,17.0,N,,N,N,Y,Replenishment method,ACI
+175883.0,Charlotte,3878,ACI-AMCS,"Mini, Fixed Current Switch, Solid Core,",Y,R,130004.0,Automation Components Inc (ACI),EOQ,175883.0,0.0,0.0,N,Y,Y,2.0,N,,N,Y,Y,Replenishment method,ACI
+175883.0,Charlotte,281889,ACI-ARH2RLCD05,"Relative Humidity, Room, Humidity with L",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175883.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,ACI
+175883.0,Charlotte,13117,ACI-ARH3CPD,"Relative Humidity, RH Outputs: 0-5, 0-10",Y,R,130004.0,Automation Components Inc (ACI),EOQ,175883.0,0.0,0.0,N,Y,Y,3.0,N,,N,Y,Y,Replenishment method,ACI
+175883.0,Charlotte,4541,ACI-ARH3CPO,"Relative Humidity, RH Outputs: 0-5, 0-10",Y,R,130004.0,Automation Components Inc (ACI),EOQ,175883.0,0.0,0.0,N,Y,Y,1.0,N,,N,Y,Y,Replenishment method,ACI
+175883.0,Charlotte,99484,ACI-ARH3R2,"Relative Humidity, RH Outputs: 0-5, 0-10",Y,R,130004.0,Automation Components Inc (ACI),EOQ,175883.0,0.0,0.0,N,Y,Y,2.0,N,,N,Y,Y,Replenishment method,ACI
+175883.0,Charlotte,282989,ACI-COR4XRBD,"Carbon Monoxide Sensor, 0-125 PPM Defaul",N,R,130004.0,Automation Components Inc (ACI),Min/Max,175883.0,0.0,0.0,Y,Y,Y,1.0,Y,ACI,N,Y,N,Replenishment method,ACI
+175883.0,Charlotte,104516,ACI-FS50,"Freeze Stat, 50ft Capillary, Manual Rese",Y,R,130004.0,Automation Components Inc (ACI),EOQ,175883.0,0.0,0.0,N,Y,Y,1.0,N,,N,Y,Y,Replenishment method,ACI
+175883.0,Charlotte,283149,ACI-NSGHEATTRANSFERPASTE2OZ,"NonSilicon Grease, 2 Oz",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175883.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,ACI
+175883.0,Charlotte,99488,ACI-SPT35,"Static Pitot Tube, Aluminum, 3.5in",Y,R,130004.0,Automation Components Inc (ACI),OP/OQ,175883.0,30.0,30.0,Y,Y,Y,35.0,N,,N,Y,Y,Replenishment method,ACI
+175883.0,Charlotte,285382,ACI-SPT80,"Static Pitot Tube, Aluminum, 8in",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175883.0,20.0,50.0,Y,Y,Y,42.0,N,,N,N,Y,Replenishment method,ACI
+175888.0,New Jersey,25585,ACI-A20KBP,"20,000 Ohm Thermistor, Bullet Probe, 1in",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175888.0,5.0,10.0,Y,Y,Y,10.0,N,,N,N,Y,Replenishment method,ACI
+175888.0,New Jersey,5274,ACI-A20KD8PB,"20,000 Ohm Thermistor, Duct, 8"", Plastic",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175888.0,5.0,10.0,Y,Y,Y,0.0,N,0,N,N,Y,Replenishment method,ACI
+175888.0,New Jersey,502753,ACI-A20KDO610CMP,"20,000 Ohm Thermistor,",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175888.0,30.0,50.0,Y,Y,Y,100.0,N,,N,N,Y,Replenishment method,ACI
+175888.0,New Jersey,12521,ACI-A20KR2,"20,000 Ohm Thermistor, Room (R2)",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175888.0,5.0,10.0,Y,Y,Y,10.0,N,,N,N,Y,Replenishment method,ACI
+175888.0,New Jersey,280550,ACI-A20KR2SOA24C5,"20,000 Ohm Thermistor, Room (R2), w/ Set",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175888.0,30.0,50.0,Y,Y,Y,100.0,N,,N,N,Y,Replenishment method,ACI
+175888.0,New Jersey,25592,ACI-AANOEH,"10,000 Ohm Thermistor (Type III), Outsid",Y,R,130004.0,Automation Components Inc (ACI),EOQ,175888.0,0.0,0.0,N,Y,Y,3.0,Y,AA11-03A,N,Y,N,Replenishment method,ACI
+175888.0,New Jersey,116334,ACI-ACPIM4GD,"10,000 Ohm Thermistor (Type II), Immersi",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175888.0,2.0,4.0,Y,Y,Y,4.0,N,,N,N,Y,Replenishment method,ACI
+175888.0,New Jersey,123663,ACI-ACPIM8GD,10 K TYPE II IMMERSION SENSOR W/WELL,Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175888.0,2.0,4.0,Y,Y,Y,4.0,N,,N,N,Y,Replenishment method,ACI
+175888.0,New Jersey,8811,ACI-ACPR2,"10,000 Ohm Thermistor (Type II), Room (R",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175888.0,2.0,4.0,Y,Y,Y,0.0,N,,N,N,Y,Replenishment method,ACI
+175888.0,New Jersey,31013,ACI-ACPSGD,"10,000 Ohm Thermistor (Type II), Strap O",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175888.0,2.0,4.0,Y,Y,Y,4.0,N,,N,N,Y,Replenishment method,ACI
+175888.0,New Jersey,107506,ACI-ARH5R,"Relative Humidity, RH Outputs: 0-5, 0-10",Y,R,130004.0,Automation Components Inc (ACI),EOQ,175888.0,0.0,0.0,N,Y,Y,1.0,Y,AA11-03A,N,Y,N,Replenishment method,ACI
+175888.0,New Jersey,282986,ACI-BOBOX0,"4 Channel Relay Output Module, Q-Control",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175888.0,1.0,2.0,Y,Y,Y,2.0,N,,N,N,Y,Replenishment method,ACI
+175888.0,New Jersey,2768,ACI-FS2,"Freeze Stat, 20ft Capillary, Manual Rese",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175888.0,2.0,4.0,Y,Y,Y,4.0,N,,N,N,Y,Replenishment method,ACI
+175888.0,New Jersey,283047,ACI-FS5A,"Freeze Stat, 6ft Capillary, Automatic Re",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175888.0,2.0,4.0,Y,Y,Y,4.0,N,,N,N,Y,Replenishment method,ACI
+175888.0,New Jersey,283405,ACI-SM501N,"Smoke Detector, Ionization",N,R,130004.0,Automation Components Inc (ACI),Min/Max,175888.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,ACI
+175890.0,New York,53,ACI-6N1ISO,"Analog Input, Analog Output, Six Analog",Y,R,130004.0,Automation Components Inc (ACI),EOQ,175890.0,0.0,0.0,N,Y,Y,2.0,Y,ACI,N,Y,N,Replenishment method,ACI
+175890.0,New York,25592,ACI-AANOEH,"10,000 Ohm Thermistor (Type III), Outsid",Y,R,130004.0,Automation Components Inc (ACI),EOQ,175890.0,0.0,0.0,N,Y,Y,2.0,Y,BB03-04,N,Y,N,Replenishment method,ACI
+175890.0,New York,2137,ACI-ACPI4GD,"10,000 Ohm Thermistor (Type II), Immersi",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175890.0,2.0,4.0,Y,Y,Y,0.0,N,,N,N,Y,Replenishment method,ACI
+175890.0,New York,8811,ACI-ACPR2,"10,000 Ohm Thermistor (Type II), Room (R",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175890.0,1.0,2.0,Y,Y,Y,0.0,N,,N,N,Y,Replenishment method,ACI
+175890.0,New York,99406,ACI-ADLP010WUNA3,"Differential Pressure, (0.5% Acc), 1, 2,",Y,R,130004.0,Automation Components Inc (ACI),EOQ,175890.0,0.0,0.0,N,Y,Y,2.0,N,,N,Y,Y,Replenishment method,ACI
+175890.0,New York,282114,ACI-ARH3SP010,"Relative Humidity, RH Outputs: 0-5 & 0-1",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175890.0,0.0,0.0,N,Y,Y,6.0,N,,N,N,Y,Replenishment method,ACI
+175890.0,New York,283048,ACI-FS6,"Freeze Stat, 6ft Capillary, Manual Reset",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175890.0,1.0,2.0,Y,Y,Y,0.0,N,,N,N,Y,Replenishment method,ACI
+175890.0,New York,116361,ACI-PAM1,"Multi-Voltage Control Relay, 24 VDC, 24",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175890.0,4.0,6.0,Y,Y,Y,0.0,N,,N,N,Y,Replenishment method,ACI
+175891.0,Milwaukee (West Allis),138476,AANRS,"Room Sensor, 10K-AN (Type III) Thermist",N,R,130004.0,Automation Components Inc (ACI),EOQ,175891.0,0.0,0.0,Y,Y,Y,0.0,Y,NEW ITEM,N,Y,N,Replenishment method,ACI
+175891.0,Milwaukee (West Allis),53,ACI-6N1ISO,"Analog Input, Analog Output, Six Analog",Y,R,130004.0,Automation Components Inc (ACI),EOQ,175891.0,0.0,0.0,Y,Y,Y,2.0,Y,NEW ITEM,N,Y,N,Replenishment method,ACI
+175891.0,Milwaukee (West Allis),284191,ACI-A1003WI4PB,"100 Ohm (Three Wires) RTD, Immersion, We",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175891.0,3.0,6.0,Y,Y,Y,18.0,N,,N,N,Y,Replenishment method,ACI
+175891.0,Milwaukee (West Allis),503345,ACI-A20KDO1820CMP,"20,000 Ohm Thermistor, Duct",Y,R,130004.0,Automation Components Inc (ACI),EOQ,175891.0,0.0,0.0,N,Y,Y,3.0,Y,ECOUT,N,Y,N,Replenishment method,ACI
+175891.0,Milwaukee (West Allis),3580,ACI-A20KOEH,"20,000 Ohm Thermistor, Outside Air, Euro",Y,R,130004.0,Automation Components Inc (ACI),EOQ,175891.0,6.0,0.0,Y,Y,Y,6.0,Y,AB1286,N,Y,N,Replenishment method,ACI
+175891.0,Milwaukee (West Allis),99275,ACI-A20KPO4,"20,000 Ohm Thermistor, Probe Only, 4in",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175891.0,0.0,0.0,N,Y,Y,4.0,N,,N,N,Y,Replenishment method,ACI
+175891.0,Milwaukee (West Allis),25589,ACI-A20KSP,"20,000 Ohm Thermistor, Wall Plate, Stain",Y,R,130004.0,Automation Components Inc (ACI),EOQ,175891.0,3.0,0.0,Y,Y,Y,1.0,Y,AB1285,N,Y,N,Replenishment method,ACI
+175891.0,Milwaukee (West Allis),25584,ACI-A25,"1/2""x1/2""NPT SS WELL",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175891.0,0.0,0.0,Y,Y,Y,10.0,Y,AB1294,N,Y,N,Replenishment method,ACI
+175891.0,Milwaukee (West Allis),99282,ACI-A3KBP,"3,000 Ohm Thermistor, Bullet Probe, 1in",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175891.0,0.0,0.0,Y,Y,Y,3.0,N,,N,Y,Y,Replenishment method,ACI
+175891.0,Milwaukee (West Allis),8766,ACI-A4,"4in Thermowell, 1/2 NPT, 304 SS Welded",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175891.0,0.0,0.0,Y,Y,Y,5.0,Y,D66E,N,Y,N,Replenishment method,ACI
+175891.0,Milwaukee (West Allis),8770,ACI-A6,"6in Thermowell, 1/2in NPT, 304 SS Welded",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175891.0,0.0,0.0,Y,Y,Y,4.0,Y,NEW ITEM,N,Y,N,Replenishment method,ACI
+175891.0,Milwaukee (West Allis),4357,ACI-AANA12PB,"10,000 Ohm Thermistor (Type III), Copper",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175891.0,0.0,0.0,Y,Y,Y,1.0,Y,AB1285,N,Y,N,Replenishment method,ACI
+175891.0,Milwaukee (West Allis),2596,ACI-AANBP,"10,000 Ohm Thermistor (Type III), Bullet",Y,R,130004.0,Automation Components Inc (ACI),EOQ,175891.0,0.0,0.0,Y,Y,Y,3.0,Y,AB1285,N,Y,N,Replenishment method,ACI
+175891.0,Milwaukee (West Allis),8783,ACI-AANPO4,"10,000 Ohm Thermistor (Type III), Probe",Y,R,130004.0,Automation Components Inc (ACI),EOQ,175891.0,0.0,0.0,N,Y,Y,3.0,Y,AB1283,N,Y,N,Replenishment method,ACI
+175891.0,Milwaukee (West Allis),283845,ACI-AANRA18PB,"10,000 Ohm Thermistor (Type III), Rigid",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175891.0,0.0,0.0,Y,Y,Y,1.0,N,,N,Y,Y,Replenishment method,ACI
+175891.0,Milwaukee (West Allis),99346,ACI-AANRSO,10K TYPE III ROOM SENSOR OVRD,N,R,130004.0,Automation Components Inc (ACI),EOQ,175891.0,0.0,0.0,Y,Y,Y,0.0,Y,NEW ITEM,N,Y,N,Replenishment method,ACI
+175891.0,Milwaukee (West Allis),1628,ACI-AANSGD,"10,000 Ohm Thermistor (Type III), Strap",Y,R,130004.0,Automation Components Inc (ACI),EOQ,175891.0,0.0,0.0,Y,Y,Y,1.0,Y,D66E,N,Y,N,Replenishment method,ACI
+175891.0,Milwaukee (West Allis),36682,ACI-ACO2DUCT,"Carbon Dioxide Sensor, Duct, 0-2000ppm (",Y,R,130004.0,Automation Components Inc (ACI),EOQ,175891.0,2.0,0.0,Y,Y,Y,3.0,Y,AB1281,N,Y,N,Replenishment method,ACI
+175891.0,Milwaukee (West Allis),3929,ACI-ACPA12PB,"10,000 Ohm Thermistor (Type II), Copper",Y,R,130004.0,Automation Components Inc (ACI),EOQ,175891.0,0.0,0.0,Y,Y,Y,0.0,Y,D66E,N,Y,N,Replenishment method,ACI
+175891.0,Milwaukee (West Allis),106261,ACI-ACPD4PB,"10,000 Ohm Thermistor (Type II), Duct, 4",Y,R,130004.0,Automation Components Inc (ACI),EOQ,175891.0,4.0,0.0,Y,Y,Y,4.0,Y,AB1275,N,Y,N,Replenishment method,ACI
+175891.0,Milwaukee (West Allis),106263,ACI-ACPD8PB,"10,000 Ohm Thermistor (Type II), Duct, 8",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175891.0,0.0,0.0,Y,Y,Y,0.0,Y,AB03-05,N,Y,N,Replenishment method,ACI
+175891.0,Milwaukee (West Allis),12436,ACI-ACPI25GD,"10,000 Ohm Thermistor (Type II), Immersi",Y,R,130004.0,Automation Components Inc (ACI),EOQ,175891.0,2.0,0.0,Y,Y,Y,5.0,Y,AB1274,N,Y,N,Replenishment method,ACI
+175891.0,Milwaukee (West Allis),5057,ACI-ACPR,"10,000 Ohm Thermistor (Type II), Room (R",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175891.0,0.0,0.0,Y,Y,Y,0.0,Y,AB1273,N,Y,N,Replenishment method,ACI
+175891.0,Milwaukee (West Allis),13222,ACI-ADLP001WUNA0,"Differential Pressure, (0.5% Acc), 0.1,",Y,R,130004.0,Automation Components Inc (ACI),EOQ,175891.0,0.0,0.0,Y,Y,Y,2.0,Y,NEW ITEM,N,Y,N,Replenishment method,ACI
+175891.0,Milwaukee (West Allis),25799,ACI-AFS460,"Differential Pressure Switch, 0.40 to 12",Y,R,130004.0,Automation Components Inc (ACI),EOQ,175891.0,0.0,0.0,Y,Y,Y,0.0,Y,AB1475,N,Y,N,Replenishment method,ACI
+175891.0,Milwaukee (West Allis),91131,ACI-AMLP2D25WBAC0P,"Differential Pressure, Panel Mount, 0.25",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175891.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,ACI
+175891.0,Milwaukee (West Allis),99472,ACI-ARH2D,"Relative Humidity, RH Outputs: 0-5, 0-10",Y,R,130004.0,Automation Components Inc (ACI),EOQ,175891.0,0.0,0.0,Y,Y,Y,4.0,Y,D66E,N,Y,N,Replenishment method,ACI
+175891.0,Milwaukee (West Allis),99479,ACI-ARH320KD,"Relative Humidity, RH Outputs: 0-5, 0-10",Y,R,130004.0,Automation Components Inc (ACI),EOQ,175891.0,0.0,0.0,N,Y,Y,1.0,Y,AB1263,N,Y,N,Replenishment method,ACI
+175891.0,Milwaukee (West Allis),41188,ACI-ARH3AND,"Relative Humidity, RH Outputs: 0-5, 0-10",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175891.0,0.0,0.0,Y,Y,Y,0.0,Y,AB1263,N,Y,N,Replenishment method,ACI
+175891.0,Milwaukee (West Allis),116347,ACI-ARH3ANR,"Relative Humidity, RH Outputs: 0-5, 0-10",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175891.0,0.0,0.0,Y,Y,Y,1.0,N,,N,Y,Y,Replenishment method,ACI
+175891.0,Milwaukee (West Allis),13117,ACI-ARH3CPD,"Relative Humidity, RH Outputs: 0-5, 0-10",Y,R,130004.0,Automation Components Inc (ACI),EOQ,175891.0,0.0,0.0,N,Y,Y,2.0,Y,AB1263,N,Y,N,Replenishment method,ACI
+175891.0,Milwaukee (West Allis),25902,ACI-ARM,"Analog Input, Analog Output, Analog Resc",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175891.0,0.0,1.0,Y,Y,Y,0.0,N,,N,N,Y,Replenishment method,ACI
+175891.0,Milwaukee (West Allis),282500,ACI-ATTM100O4BB,"Transmitter w/ 100 Ohm RTD (NIST Cert),",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175891.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,ACI
+175891.0,Milwaukee (West Allis),106448,ACI-EPC2G,"Analog Input (0-5VDC), Pressure Output (",Y,R,130004.0,Automation Components Inc (ACI),EOQ,175891.0,0.0,0.0,N,Y,Y,3.0,Y,D66E,N,Y,N,Replenishment method,ACI
+175891.0,Milwaukee (West Allis),38825,ACI-GP0100G20P,"Gage Pressure with Packard Connector, 0",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175891.0,0.0,0.0,Y,Y,Y,0.0,Y,AB1261,N,Y,N,Replenishment method,ACI
+175891.0,Milwaukee (West Allis),105308,ACI-GP030G20P,Pressure Trans GP 0-30#,Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175891.0,0.0,0.0,N,Y,Y,2.0,N,0,N,N,Y,Replenishment method,ACI
+175891.0,Milwaukee (West Allis),283066,ACI-GP0500S20P,"Gage Pressure with Packard Connector, 0",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175891.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,ACI
+175891.0,Milwaukee (West Allis),8875,ACI-PTA2,Pulse Width Modulation Input (0.1 to 10,Y,R,130004.0,Automation Components Inc (ACI),EOQ,175891.0,0.0,0.0,Y,Y,Y,5.0,Y,NEW ITEM,N,Y,N,Replenishment method,ACI
+175891.0,Milwaukee (West Allis),99463,ACI-PXP23G,"Analog Input (0-5VDC), Pressure Output (",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175891.0,0.0,0.0,Y,Y,Y,0.0,Y,D66E,N,Y,N,Replenishment method,ACI
+175891.0,Milwaukee (West Allis),99467,ACI-Q5NO210POX,"Smart Sensor, Nitrogen Dioxide, 0-10 ppm",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175891.0,0.0,0.0,Y,Y,Y,1.0,Y,D66E,N,Y,N,Replenishment method,ACI
+175891.0,Milwaukee (West Allis),285382,ACI-SPT80,"Static Pitot Tube, Aluminum, 8in",Y,R,130004.0,Automation Components Inc (ACI),EOQ,175891.0,4.0,0.0,Y,Y,Y,24.0,Y,AB1262,N,Y,N,Replenishment method,ACI
+175891.0,Milwaukee (West Allis),97515,ACI-TSENSELCD,"Carbon Dioxide Sensor, Analog, Modbus, o",Y,R,130004.0,Automation Components Inc (ACI),EOQ,175891.0,0.0,0.0,N,Y,Y,2.0,Y,AB1262,N,Y,N,Replenishment method,ACI
+175891.0,Milwaukee (West Allis),283529,ACI-UNIVERSALCLIP50,"Universal Clip for Cap Tube, Plastic",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175891.0,0.0,0.0,N,Y,Y,94.0,N,,N,N,Y,Replenishment method,ACI
+175891.0,Milwaukee (West Allis),303464,ACI/GP(0-500)-20-U-P,ACI Pressure Transducer0-500 4-20ma Schr,N,R,130004.0,Automation Components Inc (ACI),Min/Max,175891.0,0.0,0.0,Y,Y,Y,1.0,N,,N,Y,Y,Replenishment method,ACI
+175891.0,Milwaukee (West Allis),303471,ACI/Q5-CO-250P-0-X,ACI Carbon Monoxide detectorElectro chem,N,R,130004.0,Automation Components Inc (ACI),Min/Max,175891.0,0.0,0.0,Y,Y,Y,0.0,N,,N,Y,Y,Replenishment method,ACI
+175891.0,Milwaukee (West Allis),304054,DRN3.1.0-135,Advanced Control analog voltagin to 135,N,R,130004.0,Automation Components Inc (ACI),Min/Max,175891.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,ACI
+175892.0,Green Bay,99208,ACI-A1K2WD12PB,"1,000 Ohm (Two Wires) RTD, Duct, 12in, P",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175891.0,0.0,0.0,N,Y,Y,1.0,Y,AB02,Y,N,N,Replenishment method,ACI
+175892.0,Green Bay,99211,ACI-A1K2WD8PB,"1,000 Ohm (Two Wires) RTD, Duct, 8in, Pl",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175891.0,0.0,0.0,N,Y,Y,2.0,Y,AB02,Y,N,N,Replenishment method,ACI
+175892.0,Green Bay,107303,ACI-A1KNIDO66CL2P,"1,000 Ohm Nickel RTD, Duct, Without Box,",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175891.0,0.0,0.0,N,Y,Y,2.0,Y,AB02,Y,N,N,Replenishment method,ACI
+175892.0,Green Bay,99268,ACI-A20KA24PB,"20,000 Ohm Thermistor, Copper Averaging,",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175891.0,2.0,4.0,N,Y,Y,3.0,Y,AB01,Y,N,N,Replenishment method,ACI
+175892.0,Green Bay,5635,ACI-A20KA8PB,"20,000 Ohm Thermistor, Copper Averaging,",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175891.0,2.0,4.0,Y,Y,Y,4.0,Y,AB01,Y,N,N,Replenishment method,ACI
+175892.0,Green Bay,5575,ACI-A20KD12PB,"20,000 Ohm Thermistor, Duct, 12in, Plast",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175891.0,2.0,3.0,Y,Y,Y,3.0,Y,AB01,Y,N,N,Replenishment method,ACI
+175892.0,Green Bay,116326,ACI-A20KD18PB,"20,000 Ohm Thermistor, Duct, 18in, Plast",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175891.0,2.0,4.0,Y,Y,Y,4.0,Y,AB01,Y,N,N,Replenishment method,ACI
+175892.0,Green Bay,104157,ACI-A20KI4PB,"20,000 Ohm Thermistor, Immersion, Welded",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175891.0,2.0,4.0,Y,Y,Y,3.0,Y,AB01,Y,N,N,Replenishment method,ACI
+175892.0,Green Bay,3580,ACI-A20KOEH,"20,000 Ohm Thermistor, Outside Air, Euro",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175891.0,1.0,2.0,Y,Y,Y,2.0,Y,AB01,Y,N,N,Replenishment method,ACI
+175892.0,Green Bay,12521,ACI-A20KR2,"20,000 Ohm Thermistor, Room (R2)",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175891.0,2.0,3.0,Y,Y,Y,4.0,Y,AB01,Y,N,N,Replenishment method,ACI
+175892.0,Green Bay,25589,ACI-A20KSP,"20,000 Ohm Thermistor, Wall Plate, Stain",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175891.0,1.0,2.0,Y,Y,Y,5.0,Y,AB01,Y,N,N,Replenishment method,ACI
+175892.0,Green Bay,4357,ACI-AANA12PB,"10,000 Ohm Thermistor (Type III), Copper",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175891.0,1.0,2.0,Y,Y,Y,3.0,Y,AB02,Y,N,N,Replenishment method,ACI
+175892.0,Green Bay,108040,ACI-AANA24PB,"10,000 Ohm Thermistor (Type III), Copper",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175891.0,1.0,1.0,Y,Y,Y,1.0,Y,AB03,Y,N,N,Replenishment method,ACI
+175892.0,Green Bay,106255,ACI-AANI4PB,"10,000 Ohm Thermistor (Type III), Immers",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175891.0,0.0,0.0,N,Y,Y,1.0,Y,AB02,Y,N,N,Replenishment method,ACI
+175892.0,Green Bay,25592,ACI-AANOEH,"10,000 Ohm Thermistor (Type III), Outsid",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175891.0,1.0,1.0,Y,Y,Y,1.0,Y,AB02,Y,N,N,Replenishment method,ACI
+175892.0,Green Bay,106258,ACI-AANR,"10,000 Ohm Thermistor (Type III), Room (",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175891.0,1.0,2.0,Y,Y,Y,2.0,Y,AB03,Y,N,N,Replenishment method,ACI
+175892.0,Green Bay,12486,ACI-AANR2,"10,000 Ohm Thermistor (Type III), Room (",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175891.0,0.0,0.0,N,Y,Y,2.0,Y,AB03,Y,N,N,Replenishment method,ACI
+175892.0,Green Bay,36682,ACI-ACO2DUCT,"Carbon Dioxide Sensor, Duct, 0-2000ppm (",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175891.0,1.0,2.0,Y,Y,Y,2.0,Y,AB03,Y,N,N,Replenishment method,ACI
+175892.0,Green Bay,6806,ACI-ACO2R2,"Carbon Dioxide Sensor, Room, 0-2000 PPM,",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175891.0,0.0,0.0,N,Y,Y,1.0,Y,AB03,Y,N,N,Replenishment method,ACI
+175892.0,Green Bay,99372,ACI-ACPA8GD,"10,000 Ohm Thermistor (Type II), Copper",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175891.0,0.0,0.0,N,Y,Y,1.0,Y,AB03,Y,N,N,Replenishment method,ACI
+175892.0,Green Bay,5057,ACI-ACPR,"10,000 Ohm Thermistor (Type II), Room (R",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175891.0,0.0,0.0,N,Y,Y,2.0,Y,AB03,Y,N,N,Replenishment method,ACI
+175892.0,Green Bay,8811,ACI-ACPR2,"10,000 Ohm Thermistor (Type II), Room (R",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175891.0,1.0,2.0,Y,Y,Y,7.0,Y,AB03,Y,N,N,Replenishment method,ACI
+175892.0,Green Bay,36511,ACI-ADLP010WUDA3,"Differential Pressure, (0.5% Acc), 1, 2,",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175891.0,1.0,2.0,Y,Y,Y,2.0,Y,AB03,Y,N,N,Replenishment method,ACI
+175892.0,Green Bay,25797,ACI-AFS222,"Air Flow Switch  .05-12""wc; SPDT",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175891.0,1.0,2.0,Y,Y,Y,2.0,Y,AI01,Y,N,N,Replenishment method,ACI
+175892.0,Green Bay,107636,ACI-AGP2HARNESS,"GP Packard Harness, 2ft(0.61m)",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175891.0,1.0,1.0,Y,Y,Y,1.0,Y,AB03,Y,N,N,Replenishment method,ACI
+175892.0,Green Bay,38536,ACI-APS15,Power Supply,N,R,130004.0,Automation Components Inc (ACI),Min/Max,175891.0,0.0,0.0,N,Y,Y,1.0,Y,AB03,Y,N,N,Replenishment method,ACI
+175892.0,Green Bay,2506,ACI-ARH3D,"Relative Humidity, RH Outputs: 0-5, 0-10",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175891.0,1.0,2.0,Y,Y,Y,2.0,Y,AB03,Y,N,N,Replenishment method,ACI
+175892.0,Green Bay,106279,ACI-ARH3O,"Relative Humidity, RH Outputs: 0-5, 0-10",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175891.0,1.0,2.0,Y,Y,Y,2.0,Y,AB03,Y,N,N,Replenishment method,ACI
+175892.0,Green Bay,25607,ACI-ASPPUP,Stainless Wall Plate Pickup Port,Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175891.0,1.0,2.0,Y,Y,Y,2.0,Y,AB03,Y,N,N,Replenishment method,ACI
+175892.0,Green Bay,106870,ACI-AWPR210010LCD,"Remote Wet Differential Pressure, 0-10,",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175891.0,1.0,1.0,Y,Y,Y,1.0,Y,AB03,Y,N,N,Replenishment method,ACI
+175892.0,Green Bay,2768,ACI-FS2,"Freeze Stat, 20ft Capillary, Manual Rese",Y,R,130004.0,Automation Components Inc (ACI),EOQ,175891.0,0.0,0.0,N,Y,Y,2.0,Y,AB03,Y,Y,N,Replenishment method,ACI
+175892.0,Green Bay,38825,ACI-GP0100G20P,"Gage Pressure with Packard Connector, 0",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175891.0,1.0,2.0,Y,Y,Y,2.0,Y,AB03,Y,N,N,Replenishment method,ACI
+175892.0,Green Bay,104074,ACI-GP015G20P,"Gage Pressure with Packard Connector, 0",Y,R,130004.0,Automation Components Inc (ACI),Min/Max,175891.0,1.0,1.0,Y,Y,Y,2.0,Y,AB03,Y,N,N,Replenishment method,ACI
