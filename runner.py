@@ -23,7 +23,12 @@ logging.basicConfig(filename=log_file, level=logging.DEBUG)
 
 def runner(suppliers):
 
+    current_time = datetime.now()
+    start_timef = current_time.strftime("%Y-%m-%d-%H-%M-%S")
+    start_time = datetime.strptime(start_timef, "%Y-%m-%d-%H-%M-%S")
+    
 
+    print(f"Process started - {fcurrent_time}")
         
     current_time = datetime.now()
     day = current_time.day
@@ -67,8 +72,27 @@ def runner(suppliers):
         print("Process finished - files saved!!")
         logging.info("Process finished - files saved!!")
 
+    current_time = datetime.now()
+    end_timef = current_time.strftime("%Y-%m-%d-%H-%M-%S")
+    end_time = datetime.strptime(end_timef, "%Y-%m-%d-%H-%M-%S")
+
+    # Calculate the difference between end_time and start_time
+    time_difference = end_time - start_time
+
+    # Calculate total elapsed minutes and remaining seconds
+    total_minutes = int(time_difference.total_seconds() // 60)
+    hours = total_minutes // 60
+    minutes = total_minutes % 60
+
+    print(f"Process started - {fcurrent_time}")
+
+    print("_____________________________________________________________")
+    print("")
+    print(f"Time taken : {hours}.{minutes} mins")
+
 
 if __name__ == "__main__":
+    
     
     parser = argparse.ArgumentParser(description= "Replenishment checks")
     suppliers_file = parser.add_argument("--suppliers_file", help="Give the suppliers file")

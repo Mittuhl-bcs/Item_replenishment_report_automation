@@ -13,7 +13,7 @@ def send_email(attachment_filename):
         sender_password = 'ZK!2DsLtKrAxRs'
         receiver_emails = ['mithul.murugaadev@building-controls.com']
         subject = 'Replenishment data - checked reports'
-        body = 'Replenishment discrepancy data is generated and the same file is shared through this mail. Please find the attached CSV file.'
+        body = 'A report of discrepancies in the Replenishment data is generated is shared through this mail. Please find the attached CSV file.'
 
 
         # Set up the MIME
