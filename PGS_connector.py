@@ -11,7 +11,7 @@ import os
 
 current_time = datetime.now()
 fcurrent_time = current_time.strftime("%Y-%m-%d-%H-%M-%S")
-log_file = os.path.join("D:\\Replenishment_auotmation_scripts\\Logging_information", f"Pricing_automation_{fcurrent_time}.log")
+log_file = os.path.join("D:\\Replenishment_auotmation_scripts\\Logging_information", f"PGS_connector_{fcurrent_time}.log")
 logging.basicConfig(filename=log_file, level=logging.DEBUG)
 
 

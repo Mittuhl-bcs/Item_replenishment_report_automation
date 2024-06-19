@@ -22,7 +22,8 @@ def connect_db(query):
     connection_string = f"DRIVER={{ODBC Driver 17 for SQL Server}};SERVER={server};DATABASE={database};UID={username};PWD={password}"
     connection = pyodbc.connect(connection_string)
 
-    
+    print("Connected to the BCS SSMS database!!")
+
     # read data into DataFrame
     df = pd.read_sql_query(query, connection)
 
