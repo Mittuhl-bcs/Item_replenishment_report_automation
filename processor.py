@@ -9,11 +9,6 @@ import json
 import os
 
 
-current_time = datetime.now()
-fcurrent_time = current_time.strftime("%Y-%m-%d-%H-%M-%S")
-log_file = os.path.join("D:\\Replenishment_auotmation_scripts\\Logging_information", f"Processor_{fcurrent_time}")
-logging.basicConfig(filename=log_file, level=logging.DEBUG)
-
 
 class checker:
 
@@ -25,6 +20,9 @@ class checker:
         # query = f"""select * from bcs_view_master_data_sales_by_class where last_price_update_supplier = {supplier_id} order by total_sales desc, no_of_lines desc """
 
         query = f"""select * from bcs_view_master_data_repl_review where primary_supplier_id = {supplier_id} order by location_id, supplier_name, item_id"""
+
+
+        logging.info("Ready to connect to the BCS_SSMS database with the query")
 
         # connecting to the db and fetching in query
         df, connection = BCS_SSMS_connector.connect_db(query)
@@ -145,20 +143,33 @@ class checker:
 
     def main(self, supplier_ids):
         
+        current_time = datetime.now()
+        fcurrent_time = current_time.strftime("%Y-%m-%d-%H-%M-%S")
+        log_file = os.path.join("D:\\Replenishment_auotmation_scripts\\Logging_information", f"Processor_{fcurrent_time}")
+        logging.basicConfig(filename=log_file, level=logging.DEBUG)
+
+
+
+
         files_saved = []
         process_flag = 0
         checkerob = checker()
+
+        logging.info("Starting with processing")
 
         # Step 1: Read the JSON data from the file
         with open(supplier_ids, 'r+') as f:
             suppliers_data = json.load(f)
 
+        logging.info("Loaded suppliers json file")
 
         # Step 2: Iterate over each supplier and print the related prefix
         for supplier in suppliers_data:
             supplier_id = supplier['supplier_id']
             prefix = supplier['prefix']
             cname = supplier["supplier_name"]
+
+            logging.info(f"Processing for {prefix} - {cname}")
 
             df, connection = checkerob.reader(supplier_id)
 
