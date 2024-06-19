@@ -3,18 +3,24 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from email.mime.base import MIMEBase
 from email import encoders
+import json
 
 
 def send_email(attachment_filename):
 
+    # get the credentials stored:
+    with open("D:\\Replenishment_auotmation_scripts\\Credentials.json", "r+") as crednt:
+        data = json.load(crednt)
+        password = data["password"]
+
     try:
         # credentials for usage
         sender_email = 'mithul.murugaadev@building-controls.com'
-        sender_password = '' # specify only if necessary
+        sender_password = password # specify only if necessary
         receiver_emails = ['mithul.murugaadev@building-controls.com']
         subject = 'Replenishment data - checked reports'
         body = 'A report of discrepancies in the Replenishment data is generated is shared through this mail. Please find the attached CSV file.'
-
+            
 
         # Set up the MIME
         message = MIMEMultipart()
