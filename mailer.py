@@ -10,7 +10,7 @@ def send_email(attachment_filename):
     try:
         # credentials for usage
         sender_email = 'mithul.murugaadev@building-controls.com'
-        sender_password = 'ZK!2DsLtKrAxRs'
+        sender_password = '' # specify only if necessary
         receiver_emails = ['mithul.murugaadev@building-controls.com']
         subject = 'Replenishment data - checked reports'
         body = 'A report of discrepancies in the Replenishment data is generated is shared through this mail. Please find the attached CSV file.'
