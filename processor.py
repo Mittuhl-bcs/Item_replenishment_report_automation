@@ -129,7 +129,7 @@ class checker:
                 df["discrepancy_type"] = "All right"
 
             elif discrepancy_flag == 1:
-                joined_discrepany = ", ".join(discrepancy_types)
+                joined_discrepany = "- ".join(discrepancy_types)
 
                 df["discrepancy_type"] = joined_discrepany
 
@@ -193,14 +193,14 @@ class checker:
             logging.info("Processed data successfully inserted into PGS database")
 
             # specify the file path to save the CSV file
-            csv_file_path = f"D:\\Replenishment_auotmation_scripts\\data_temp\\{prefix}_{cname}_data.csv"
+            csv_file_path = f"D:\\Replenishment_auotmation_scripts\\data_temp\\{prefix}_{cname}_data.xlsx"
 
             files_saved.append(csv_file_path)
 
             # save the df to csv files
-            df.to_csv(csv_file_path, index = False)
+            df.to_excel(csv_file_path, index = False)
 
-            logging.info(f"Df saved as csv file : {csv_file_path}")
+            logging.info(f"Df saved as excel file : {csv_file_path}")
 
             process_flag = 1
 
