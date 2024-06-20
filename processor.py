@@ -7,6 +7,7 @@ import csv
 import PGS_connector
 import json
 import os
+import re
 
 
 
@@ -171,7 +172,9 @@ class checker:
         for supplier in suppliers_data:
             supplier_id = supplier['supplier_id']
             prefix = supplier['prefix']
-            cname = supplier["supplier_name"]
+            cnamer = supplier["supplier_name"]
+            pattern = r'[^a-zA-Z0-9\s]'
+            cname = re.sub(pattern, '', cnamer)
 
             logging.info(f"Processing for {prefix} - {cname}")
 
