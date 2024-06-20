@@ -129,7 +129,7 @@ class checker:
                 df["discrepancy_type"] = "All right"
 
             elif discrepancy_flag == 1:
-                joined_discrepany = "- ".join(discrepancy_types)
+                joined_discrepany = " - ".join(discrepancy_types)
 
                 df["discrepancy_type"] = joined_discrepany
 
