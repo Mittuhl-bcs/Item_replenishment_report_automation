@@ -94,7 +94,7 @@ class checker:
                     discrepancy_types.append("Inv_max")
                     discrepancy_flag = 1
                             
-            if df.loc[index, "buyable"] == "N":
+            if df.loc[index, "buy"] == "N":
 
                 if df.loc[index, "stockable"] == "Y":
                     discrepancy_types.append("stockable")
