@@ -20,7 +20,6 @@ location_id,location_name,inv_mast_uid,item_id,item_desc,on_vendor_price_book,pr
 10770.0,Nashville,275240,ASI-WSR2S,"Wall mounted temperature sensor, screw t",Y,R,183570.0,ASI Controls,Min/Max,10770.0,2.0,5.0,Y,Y,Y,5.0,N,,N,N,Y,Replenishment method,ASI
 10770.0,Nashville,275239,ASI-WSR2SO,"Wall mount temperature sensor, screw ter",Y,R,183570.0,ASI Controls,Min/Max,10770.0,2.0,4.0,Y,Y,Y,5.0,N,,N,N,Y,Replenishment method,ASI
 166557.0,Dallas,275222,ASI-WS001,Wall mounted temperature sensor; female,Y,R,183570.0,ASI Controls,Min/Max,166557.0,0.0,0.0,N,Y,Y,4.0,N,,N,N,Y,Replenishment method,ASI
-173042.0,Boston,244239,ASI-18100,BACnet-MS/TP or ASI Protocol - Rooftop P,Y,R,183570.0,ASI Controls,Min/Max,173042.0,0.0,0.0,N,Y,Y,4.0,N,,N,N,Y,Replenishment method,ASI
 173043.0,Ecommerce,275221,ASI-VISUALEXPERT,Windows based software for configuring a,N,R,183570.0,ASI Controls,Min/Max,173043.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,ASI
 175883.0,Charlotte,244236,ASI-16100DFA,ASIC/1-6100 VAV with Direct Feedback Act,Y,R,183570.0,ASI Controls,Min/Max,175883.0,15.0,25.0,Y,Y,Y,25.0,N,,N,N,Y,Replenishment method,ASI
 175883.0,Charlotte,244237,ASI-16100MB,VAV controller for ASI or BACnet MS/TP n,Y,R,183570.0,ASI Controls,OP/OQ,175883.0,10.0,20.0,Y,Y,Y,15.0,Y,ASI,N,Y,N,Replenishment method,ASI
@@ -30,6 +29,8 @@ location_id,location_name,inv_mast_uid,item_id,item_desc,on_vendor_price_book,pr
 175883.0,Charlotte,275167,ASI-N4UP1K,Add 1000 points/20 Device limit to exist,Y,R,183570.0,ASI Controls,Min/Max,175883.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,ASI
 175883.0,Charlotte,275173,ASI-PRK249,"Resistor (quantity=1), 249 ohm, 0.1% tol",Y,R,183570.0,ASI Controls,Min/Max,175883.0,0.0,0.0,N,Y,Y,31.0,N,,N,N,Y,Replenishment method,ASI
 175883.0,Charlotte,275189,ASI-RH3WSR,Room relative humidity sensor  3%  with,Y,R,183570.0,ASI Controls,Min/Max,175883.0,2.0,5.0,Y,Y,Y,5.0,N,,N,N,Y,Replenishment method,ASI
+175883.0,Charlotte,275200,ASI-SCP025,25ft sensor cable with fitted modular co,Y,R,183570.0,ASI Controls,Min/Max,175883.0,0.0,0.0,N,Y,Y,3.0,N,,N,N,Y,Replenishment method,ASI
+175883.0,Charlotte,275202,ASI-SCP075,75ft sensor cable with fitted modular co,Y,R,183570.0,ASI Controls,Min/Max,175883.0,0.0,0.0,N,Y,Y,5.0,N,,N,N,Y,Replenishment method,ASI
 175883.0,Charlotte,275212,ASI-TSD4,"Duct insertion sensor, 4in, with J box",Y,R,183570.0,ASI Controls,OP/OQ,175883.0,10.0,20.0,Y,Y,Y,0.0,Y,ASI,N,Y,N,Replenishment method,ASI
 175883.0,Charlotte,275213,ASI-TSD8,"Duct insertion sensor, 8in, with J box",Y,R,183570.0,ASI Controls,OP/OQ,175883.0,5.0,10.0,Y,Y,Y,9.0,Y,ASI,N,Y,N,Replenishment method,ASI
 175883.0,Charlotte,275222,ASI-WS001,Wall mounted temperature sensor; female,Y,R,183570.0,ASI Controls,OP/OQ,175883.0,10.0,20.0,Y,Y,Y,30.0,Y,ASI,N,Y,N,Replenishment method,ASI

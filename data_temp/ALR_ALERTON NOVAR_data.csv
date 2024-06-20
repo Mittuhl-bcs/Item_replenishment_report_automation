@@ -6,7 +6,7 @@ location_id,location_name,inv_mast_uid,item_id,item_desc,on_vendor_price_book,pr
 10008.0,Salt Lake City,474478,ALR-COMPASS2UPGTOMD,Ascent Compass 2 Software Upgrade Medium,Y,R,133377.0,ALERTON NOVAR,Min/Max,10008.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,ALR
 10008.0,Salt Lake City,474480,ALR-COMPASS2UPGTOXL,Ascent Compass 2 Software Upgrade Extra,Y,R,133377.0,ALERTON NOVAR,Min/Max,10008.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,ALR
 10008.0,Salt Lake City,29783,ALR-TS2106MH10AA,"10K ohm immersion sensor, 6-inch probe",Y,R,133377.0,ALERTON NOVAR,Min/Max,10008.0,3.0,0.0,Y,Y,Y,0.0,Y,SL-9D8,N,Y,N,Replenishment method,ALR
-10008.0,Salt Lake City,474575,ALR-VIP363VAV,VisualLogic  IP VAV controller with 3,Y,R,133377.0,ALERTON NOVAR,Min/Max,10008.0,0.0,0.0,N,Y,Y,84.0,N,,N,N,Y,Replenishment method,ALR
+10008.0,Salt Lake City,474575,ALR-VIP363VAV,VisualLogic  IP VAV controller with 3,Y,R,133377.0,ALERTON NOVAR,Min/Max,10008.0,0.0,0.0,N,Y,Y,83.0,N,,N,N,Y,Replenishment method,ALR
 10008.0,Salt Lake City,350310,ASCENT ENGINEERING,Alerton Training Engineering and Commisi,N,T,133377.0,ALERTON NOVAR,Min/Max,10008.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,ALR
 10008.0,Salt Lake City,276201,ASCENT FUNDAMENTALS,Alerton Training,N,R,133377.0,ALERTON NOVAR,Min/Max,10008.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,ALR
 10008.0,Salt Lake City,347886,COMPASS OPERATOR,Compass Operator,N,R,133377.0,ALERTON NOVAR,Min/Max,10008.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,ALR

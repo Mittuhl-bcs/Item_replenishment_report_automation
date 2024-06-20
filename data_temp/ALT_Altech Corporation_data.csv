@@ -34,8 +34,8 @@ location_id,location_name,inv_mast_uid,item_id,item_desc,on_vendor_price_book,pr
 166557.0,Dallas,471459,ALT-PSC9624,"Power Supply;DinRail,100W, CL2",Y,R,168837.0,Altech Corporation,Min/Max,166557.0,0.0,0.0,N,Y,Y,4.0,N,,N,N,Y,Replenishment method,ALT
 166559.0,Houston,98091,ALT-153901,"PB1-L, 94x94x81mm Enclosure",Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,1.0,6.0,Y,Y,Y,3.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
 166559.0,Houston,98227,ALT-22040100,"H1.50/8 Insulated,16AWG",Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,100.0,200.0,Y,Y,Y,499.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
-166559.0,Houston,98315,ALT-25111201M,"TS35x7.5 DIN Rail, Steel, 1M",Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,0.0,20.0,Y,Y,Y,46.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
-166559.0,Houston,98316,ALT-25111211M,"TS35x7.5 DIN Rail, Aluminum",Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,0.0,60.0,Y,Y,Y,21.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
+166559.0,Houston,98315,ALT-25111201M,"TS35x7.5 DIN Rail, Steel, 1M",Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,0.0,20.0,Y,Y,Y,45.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
+166559.0,Houston,98316,ALT-25111211M,"TS35x7.5 DIN Rail, Aluminum",Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,0.0,60.0,Y,Y,Y,18.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
 166559.0,Houston,98349,ALT-27770100,"H2x1.50/8, Dual Wire",Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,100.0,400.0,Y,Y,Y,400.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
 166559.0,Houston,98352,ALT-28410100,"H1.50/8-D, DIN Std,16AWG",Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,200.0,600.0,Y,Y,Y,499.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
 166559.0,Houston,98358,ALT-28640100,"H0.50/8-D DIN Std,20AWG",Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,0.0,0.0,N,Y,Y,100.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
@@ -46,7 +46,7 @@ location_id,location_name,inv_mast_uid,item_id,item_desc,on_vendor_price_book,pr
 166559.0,Houston,285714,ALT-B25X35SB,"Wire duct BLACK (new) 1"" x 1.5"" nom.",N,R,168837.0,Altech Corporation,OP/OQ,166559.0,0.0,0.0,N,Y,Y,11.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
 166559.0,Houston,108759,ALT-B25X50S,"Wire duct, GREY (new) 1"" x  2"" nom.",Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,0.0,16.0,Y,Y,Y,12.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
 166559.0,Houston,108755,ALT-B25X75S,"Wire duct, GREY (new) 1"" x 3"" nom.",Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,2.0,8.0,Y,Y,Y,18.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
-166559.0,Houston,108760,ALT-B25X75SW,"Wire duct, WHITE (new), 1"" x 3""",Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,2.0,8.0,Y,Y,Y,8.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
+166559.0,Houston,108760,ALT-B25X75SW,"Wire duct, WHITE (new), 1"" x 3""",Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,2.0,8.0,Y,Y,Y,6.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
 166559.0,Houston,109398,ALT-B35X50S,"Gray Wire Duct, 1.5""x 2""",Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,0.0,32.0,Y,Y,Y,39.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
 166559.0,Houston,109967,ALT-B35X50SW,"Wire duct,Stand Slot,1.5""x2"" White W/Cov",Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,0.0,24.0,Y,Y,Y,2.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
 166559.0,Houston,108390,ALT-B50X50S,50MM X  50MM Grey Wire Duct,Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,8.0,24.0,Y,Y,Y,30.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
@@ -56,9 +56,9 @@ location_id,location_name,inv_mast_uid,item_id,item_desc,on_vendor_price_book,pr
 166559.0,Houston,100357,ALT-CA802,Terminal Block End Stop,Y,R,168837.0,Altech Corporation,Min/Max,166559.0,0.0,0.0,Y,Y,Y,122.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
 166559.0,Houston,100411,ALT-CF4UL110240V,"DIN Term Blk, Screw, Fuse 5x20mm, LED",Y,R,168837.0,Altech Corporation,Min/Max,166559.0,0.0,0.0,Y,Y,Y,41.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
 166559.0,Houston,100413,ALT-CGT4N,Grounding Terminal Yellow/Green 6mm,Y,R,168837.0,Altech Corporation,Min/Max,166559.0,0.0,0.0,Y,Y,Y,24.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
-166559.0,Houston,100480,ALT-CTS4UN,"DIN Term Blk, Screw, Feed-Thru",Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,300.0,700.0,Y,Y,Y,466.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
+166559.0,Houston,100480,ALT-CTS4UN,"DIN Term Blk, Screw, Feed-Thru",Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,300.0,700.0,Y,Y,Y,366.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
 166559.0,Houston,100481,ALT-CTS4UNBG,"DIN Term Blk, Screw, Feed-Thru",Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,0.0,100.0,Y,Y,Y,221.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
-166559.0,Houston,100482,ALT-CTS4UNBL,"DIN Term Blk, Screw, Feed-Thru",Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,50.0,300.0,Y,Y,Y,166.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
+166559.0,Houston,100482,ALT-CTS4UNBL,"DIN Term Blk, Screw, Feed-Thru",Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,50.0,300.0,Y,Y,Y,66.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
 166559.0,Houston,100483,ALT-CTS4UNBU,"DIN Term Blk, Screw, Feed-Thru",Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,50.0,200.0,Y,Y,Y,193.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
 166559.0,Houston,100484,ALT-CTS4UNDB,"DIN Term Blk, Screw, Feed-Thru",Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,0.0,100.0,Y,Y,Y,56.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
 166559.0,Houston,100485,ALT-CTS4UNG,"DIN Term Blk, Screw, Feed-Thru",Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,0.0,100.0,Y,Y,Y,121.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
@@ -67,7 +67,7 @@ location_id,location_name,inv_mast_uid,item_id,item_desc,on_vendor_price_book,pr
 166559.0,Houston,100488,ALT-CTS4UNW,"DIN Term Blk, Screw, Feed-Thru",Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,0.0,100.0,Y,Y,Y,300.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
 166559.0,Houston,100489,ALT-CTS4UNY,"DIN Term Blk, Screw, Feed-Thru",Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,10.0,100.0,Y,Y,Y,131.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
 166559.0,Houston,100490,ALT-CTS6U,"DIN Term Blk, Screw, Feed-Thru",Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,10.0,100.0,Y,Y,Y,59.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
-166559.0,Houston,100766,ALT-EP254UN,Terminal Block End Piece Gray,Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,0.0,60.0,Y,Y,Y,216.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
+166559.0,Houston,100766,ALT-EP254UN,Terminal Block End Piece Gray,Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,0.0,60.0,Y,Y,Y,166.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
 166559.0,Houston,100767,ALT-EP254UNBG,Terminal Block End Piece Beige,Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,0.0,60.0,Y,Y,Y,55.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
 166559.0,Houston,100768,ALT-EP254UNBL,Terminal Block End Piece Black,Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,10.0,60.0,Y,Y,Y,100.0,Y,ALTCH,N,Y,N,Replenishment method,ALT
 166559.0,Houston,100769,ALT-EP254UNBU,Terminal Block End Piece Blue,Y,R,168837.0,Altech Corporation,OP/OQ,166559.0,10.0,60.0,Y,Y,Y,175.0,Y,ALTCH,N,Y,N,Replenishment method,ALT

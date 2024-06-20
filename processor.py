@@ -70,21 +70,21 @@ class checker:
                 discrepancy_types.append("Product type")
                 discrepancy_flag = 1
 
-            elif df.loc[index, "replenishment_location"] == df.loc[index, "location_name"]:
+            if df.loc[index, "replenishment_location"] == df.loc[index, "location_name"]:
                 discrepancy_types.append("Replenishment location")
                 discrepancy_flag = 1
 
-            elif df.loc[index, "replenishment_method"] not in ["MinMax", "upto"]:
+            if df.loc[index, "replenishment_method"] not in ["MinMax", "upto"]:
                 discrepancy_types.append("Replenishment method")
                 discrepancy_flag = 1
 
-            elif df.loc[index, "replenishment_method"] == "MinMax" and df.loc[index, "stockable"] == "Y":
+            if df.loc[index, "replenishment_method"] == "MinMax" and df.loc[index, "stockable"] == "Y":
 
                 if df.loc[index, "inv_min"] == 0 and df.loc[index, "inv_max"] == 0:
                     discrepancy_types.append("Inv_min & inv_max")
                     discrepancy_flag = 1
 
-            elif df.loc[index, "replenishment_method"] == "upto" and df.loc[index, "stockable"] == "Y":
+            if df.loc[index, "replenishment_method"] == "upto" and df.loc[index, "stockable"] == "Y":
                 
                 if df.loc[index, "inv_min"] != 0:
                     discrepancy_types.append("Inv_min")
@@ -94,23 +94,23 @@ class checker:
                     discrepancy_types.append("Inv_max")
                     discrepancy_flag = 1
                             
-            elif df.loc[index, "buyable"] == "N":
+            if df.loc[index, "buyable"] == "N":
 
                 if df.loc[index, "stockable"] == "Y":
                     discrepancy_types.append("stockable")
                     discrepancy_flag = 1
 
-            elif df.loc[index, "stockable"] == "Y" and df.loc[index, "track_bins"] == "Y":
+            if df.loc[index, "stockable"] == "Y" and df.loc[index, "track_bins"] == "Y":
                 if df.loc[index, "primary_bin"] == np.nan:
                     discrepancy_types.append("Primary bin")
                     discrepancy_flag = 1
 
-            elif df.loc[index, "stockable"] == "N" and df.loc[index, "track_bins"] == "N":
+            if df.loc[index, "stockable"] == "N" and df.loc[index, "track_bins"] == "N":
                 if df.loc[index, "qty_on_hand"] != 0:
                     discrepancy_types.append("Qty on hand")
                     discrepancy_flag = 1
 
-                elif df.loc[index, "qty_on_hand"] > 0:
+                if df.loc[index, "qty_on_hand"] > 0:
                     if df.loc[index, "track_bins"] == "Y": 
                         
                         if df.loc[index, "primary_bin"] != np.nan:
@@ -175,7 +175,7 @@ class checker:
             cnamer = supplier["supplier_name"]
             pattern = r'[^a-zA-Z0-9\s]'
             cname = re.sub(pattern, '', cnamer)
-
+            
             logging.info(f"Processing for {prefix} - {cname}")
 
             df, connection = checkerob.reader(supplier_id)
@@ -203,6 +203,9 @@ class checker:
             logging.info(f"Df saved as csv file : {csv_file_path}")
 
             process_flag = 1
+
+            print(f"Process finished for - {prefix}")
+            print(" ")
 
         conn.close()
         # once the process is finished

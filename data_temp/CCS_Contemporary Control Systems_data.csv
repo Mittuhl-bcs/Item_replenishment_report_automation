@@ -6,7 +6,7 @@ location_id,location_name,inv_mast_uid,item_id,item_desc,on_vendor_price_book,pr
 166559.0,Houston,415765,CCS-BASRTB,BASrouter BACnet/IP to MS/TP to Etherne,Y,R,168876.0,Contemporary Control Systems,Min/Max,166559.0,0.0,0.0,N,Y,Y,3.0,N,,N,N,Y,Replenishment method,CCS
 166559.0,Houston,272027,CCS-BAST221CHBW2,"BACnet/IP Thermostat 2-Heat, 2-Cool, 1-",Y,R,168876.0,Contemporary Control Systems,Min/Max,166559.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,CCS
 166559.0,Houston,415791,CCS-EISK5100T,Skorpion 5-Port 10/100Mbps Switch,Y,R,168876.0,Contemporary Control Systems,Min/Max,166559.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,CCS
-166561.0,San Antonio,415765,CCS-BASRTB,BASrouter BACnet/IP to MS/TP to Etherne,Y,R,168876.0,Contemporary Control Systems,Min/Max,166561.0,2.0,4.0,Y,Y,Y,0.0,N,,N,N,Y,Replenishment method,CCS
+166561.0,San Antonio,415765,CCS-BASRTB,BASrouter BACnet/IP to MS/TP to Etherne,Y,R,168876.0,Contemporary Control Systems,Min/Max,166561.0,2.0,4.0,Y,Y,Y,4.0,N,,N,N,Y,Replenishment method,CCS
 166561.0,San Antonio,272027,CCS-BAST221CHBW2,"BACnet/IP Thermostat 2-Heat, 2-Cool, 1-",Y,R,168876.0,Contemporary Control Systems,Min/Max,166561.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,CCS
 173042.0,Boston,415765,CCS-BASRTB,BASrouter BACnet/IP to MS/TP to Etherne,Y,R,168876.0,Contemporary Control Systems,Min/Max,173042.0,4.0,8.0,Y,Y,Y,0.0,N,,N,N,Y,Replenishment method,CCS
 173042.0,Boston,117257,CCS-EIBA5100T,5-Port 10/100Mbps Panel Mount BAS Switc,Y,R,168876.0,Contemporary Control Systems,Up To,173042.0,,,Y,Y,Y,0.0,N,,N,Y,Y,Replenishment method,CCS
