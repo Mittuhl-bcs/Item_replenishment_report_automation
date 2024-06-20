@@ -1,3 +1,4 @@
 logging_information/
 data_temp/
 Credentials.json
+_pycache_/
