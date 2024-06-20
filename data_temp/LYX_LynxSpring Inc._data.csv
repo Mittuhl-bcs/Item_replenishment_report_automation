@@ -1,6 +1,0 @@
-location_id,location_name,inv_mast_uid,item_id,item_desc,on_vendor_price_book,product_type,primary_supplier_id,supplier_name,replenishment_method,replenishment_location,inv_min,inv_max,stockable,sellable,buy,qty_on_hand,track_bins,primary_bin,repl_loc_review,repl_meth_review,track_bin_review,discrepancy_type,Prefix_of_company
-166560.0,New Orleans,101354,JENEEG100100U,Edge-100 Point Niagara-AX Supervisor,N,R,168948.0,LynxSpring Inc.,Min/Max,166553.0,0.0,0.0,N,Y,Y,1.0,Y,LNXSP,Y,N,N,Replenishment method,LYX
-166561.0,San Antonio,426327,LYX-100SMA1YR,100 Point 1 Year Maintenance,Y,R,168948.0,LynxSpring Inc.,Min/Max,166561.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,LYX
-166561.0,San Antonio,108753,LYX-100SMA1YRINIT,100 Point Initial Maintenance,Y,R,168948.0,LynxSpring Inc.,Min/Max,166561.0,0.0,0.0,N,Y,Y,3.0,N,,N,N,Y,Replenishment method,LYX
-166561.0,San Antonio,426724,LYX-ONYXXXM34IO,Onyxx Expansion Module - 34 point IO Mod,Y,R,168948.0,LynxSpring Inc.,Min/Max,166561.0,0.0,0.0,N,Y,Y,2.0,N,,N,N,Y,Replenishment method,LYX
-166561.0,San Antonio,426725,LYX-OXCMA3WR12,Optional 3-foot Cable and an Ultra-Wideb,Y,R,168948.0,LynxSpring Inc.,Min/Max,166561.0,0.0,0.0,N,Y,Y,1.0,N,,N,N,Y,Replenishment method,LYX

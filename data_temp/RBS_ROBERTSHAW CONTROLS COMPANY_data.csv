@@ -1,4 +1,0 @@
-location_id,location_name,inv_mast_uid,item_id,item_desc,on_vendor_price_book,product_type,primary_supplier_id,supplier_name,replenishment_method,replenishment_location,inv_min,inv_max,stockable,sellable,buy,qty_on_hand,track_bins,primary_bin,repl_loc_review,repl_meth_review,track_bin_review,discrepancy_type,Prefix_of_company
-10520.0,St Paul,302226,10-238,Robertshaw millivolt testadaptor,Y,R,133997.0,ROBERTSHAW CONTROLS COMPANY,Min/Max,10520.0,0.0,1.0,Y,Y,Y,0.0,N,,N,N,Y,Replenishment method,RBS
-173042.0,Boston,119123,3412-002,MTR PRTCTN CONTROL,Y,R,133997.0,ROBERTSHAW CONTROLS COMPANY,Min/Max,173042.0,0.0,0.0,N,Y,Y,1.0,N,R SHAW,N,N,Y,Replenishment method,RBS
-173042.0,Boston,119137,5380-002,COMM TEMP CONTROLR,Y,R,133997.0,ROBERTSHAW CONTROLS COMPANY,Min/Max,173042.0,0.0,0.0,N,Y,Y,1.0,N,R SHAW,N,N,Y,Replenishment method,RBS
