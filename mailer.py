@@ -15,12 +15,11 @@ def send_email(attachment_filename):
 
     try:
         # credentials for usage
-        sender_email = 'mithul.murugaadev@building-controls.com'
-        sender_password = password # specify only if necessary
-        receiver_emails = ['mithul.murugaadev@building-controls.com']
+        sender_email = "datasensei.bcs@gmail.com"  # Your Gmail address
+        sender_password = password  # Password for the sender's Gmail account
+        receiver_emails = ["mithul.murugaadev@building-controls.com"]  # List of recipient email addresses
         subject = 'Replenishment data - checked reports'
-        body = 'A report of discrepancies in the Replenishment data is generated is shared through this mail. Please find the attached CSV file.'
-            
+        body = 'A report of discrepancies in the Replenishment data is generated and shared through this mail. Please find the attached CSV file.'
 
         # Set up the MIME
         message = MIMEMultipart()
@@ -48,8 +47,8 @@ def send_email(attachment_filename):
         message.attach(part)
         text = message.as_string()
 
-        # Log in to SMTP server
-        server = smtplib.SMTP('smtp.gmail.com', 587) # for Gmail
+        # Log in to SMTP server (for Gmail)
+        server = smtplib.SMTP('smtp.gmail.com', 587)
         server.starttls()
         server.login(sender_email, sender_password)
 
@@ -58,13 +57,13 @@ def send_email(attachment_filename):
 
         # Close the SMTP server
         server.quit()
- 
+
         return True
 
     except Exception as e:
         raise ValueError(e)
 
 
-#attachment_filename = 'example.csv'
-
-#send_email(attachment_filename)
+# Example usage:
+# attachment_filename = 'example.csv'
+# send_email(attachment_filename)
