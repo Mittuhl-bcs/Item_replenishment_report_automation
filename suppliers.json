@@ -210,11 +210,6 @@
         "supplier_name": "SAGINAW CONTROL & ENGINEERING"
     },
     {
-        "supplier_id": "187608",
-        "prefix": "MGE",
-        "supplier_name": "SCHLUMBERGER/MIDWEST GAS EQUIP"
-    },
-    {
         "supplier_id": "134342",
         "prefix": "SCH",
         "supplier_name": "SCHNEIDER ELECTRIC BUILDINGS AMERICAS, INC"
@@ -265,11 +260,6 @@
         "supplier_name": "US Motor Nidec Motor Corp"
     },
     {
-        "supplier_id": "134496",
-        "prefix": "VER",
-        "supplier_name": "VERIS INDUSTRIES LLC."
-    },
-    {
         "supplier_id": "134502",
         "prefix": "HWA",
         "supplier_name": "VULCAIN ALARM DIVISION"
@@ -290,14 +280,14 @@
         "supplier_name": "Performance Pipe"
     },
     {
-        "supplier_id": "00",
+        "supplier_id": "133342",
         "prefix": "PER",
         "supplier_name": "Periscope"
     },
     {
         "supplier_id": "183823",
         "prefix": "JNL",
-        "supplier_name": ""
+        "supplier_name": "J&L Manufacturing"
     },
     {
         "supplier_id": "190446",

@@ -34,3 +34,10 @@ Suggestions:
 suggestions:
 - each csv file for each discrepancy type (groups) for each data tables
  
+
+
+ Suggestions:
+ excels for each of the reports
+ - location
+ - T to V all "Y"
+    - and each column

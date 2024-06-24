@@ -120,18 +120,15 @@ class checker:
                         discrepancy_types.append("Track bin")
                         discrepancy_flag = 1
 
-            else:
-                pass
-
 
             # assinging values to the column
             if discrepancy_flag != 1:
-                df["discrepancy_type"] = "All right"
+                df.loc[index, "discrepancy_type"] = "All right"
 
             elif discrepancy_flag == 1:
                 joined_discrepany = " - ".join(discrepancy_types)
 
-                df["discrepancy_type"] = joined_discrepany
+                df.loc[index, "discrepancy_type"] = joined_discrepany
 
         # check the logics and append the logics, flag on if there are any, if not then assign a "all right" value
 

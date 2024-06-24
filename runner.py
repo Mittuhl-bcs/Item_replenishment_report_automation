@@ -27,7 +27,8 @@ def runner(suppliers):
     start_timef = current_time.strftime("%Y-%m-%d-%H-%M-%S")
     start_time = datetime.strptime(start_timef, "%Y-%m-%d-%H-%M-%S")
     
-
+    print("_________________________________________________________")
+    print(" ")
     print(f"Process started - {fcurrent_time}")
         
     current_time = datetime.now()
