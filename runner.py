@@ -84,12 +84,14 @@ def runner(suppliers):
     hours = total_minutes // 60
     minutes = total_minutes % 60
     seconds = time_difference.total_seconds()
+    # Calculate remaining seconds
+    remaining_seconds = seconds % 60
 
-    print(f"Process started - {fcurrent_time}")
+    print(f"Process ended - {fcurrent_time}")
 
     print("_____________________________________________________________")
     print("")
-    print(f"Time taken : {hours} hrs - {minutes} mins - {seconds} seconds")
+    print(f"Time taken : {hours} hrs : {minutes} mins : {seconds} seconds")
 
 
 if __name__ == "__main__":
