@@ -86,7 +86,7 @@ def runner(suppliers):
     minutes = total_minutes % 60
     seconds = time_difference.total_seconds()
     # Calculate remaining seconds
-    remaining_seconds = seconds % 60
+    remaining_seconds = round(seconds % 60, 0)
 
     print(f"Process ended - {fcurrent_time}")
 
