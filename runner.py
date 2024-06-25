@@ -92,7 +92,7 @@ def runner(suppliers):
 
     print("_____________________________________________________________")
     print("")
-    print(f"Time taken : {hours} hrs : {minutes} mins : {remaining_seconds} seconds")
+    print(f"Time taken : {hours} hrs : {minutes} mins : {remaining_seconds} sec")
 
 
 if __name__ == "__main__":
