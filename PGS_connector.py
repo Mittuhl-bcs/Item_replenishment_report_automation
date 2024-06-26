@@ -161,7 +161,8 @@ def load_data_csv(connection, table_name, output_file, output_folder):
         df.to_excel(output_file, index=False)
         logging.info(f"Data from table '{table_name}' successfully exported to '{output_file}'")
         
-        """cursor = connection.cursor()
+        """
+        cursor = connection.cursor()
         with open(output_file, 'w') as f:
             cursor.copy_expert(f"COPY {table_name} TO STDOUT WITH CSV HEADER", f)
         logging.info(f"Data from table '{table_name}' successfully exported to '{output_file}'")
