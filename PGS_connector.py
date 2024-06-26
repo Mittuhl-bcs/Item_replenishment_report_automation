@@ -126,15 +126,47 @@ def insert_data_into_db(df, conn):
 
 
 
-def load_data_csv(connection, table_name, output_file):
+def load_data_csv(connection, table_name, output_file, output_folder):
 
 
     try:
-        cursor = connection.cursor()
+
+        query = f"SELECT * FROM {table_name}"
+        tot_df = pd.read_sql(query, connection)
+
+        loc_ids = tot_df["location_id"].unique().tolist()
+
+        # Check if the directory exists
+        if not os.path.exists(output_folder):
+            os.makedirs(output_folder)
+            print(f"Created directory: {output_folder}")
+
+        for loc in loc_ids:
+            df = tot_df[tot_df["location_id"] == loc]
+
+            repl_loc_review = df[df["repl_loc_review"] == "Y"]
+            repl_meth_review = df[df["repl_meth_review"] == "Y"]
+            track_bin_review = df[df["track_bin_review"] == "Y"]
+
+            loc_of = f"{loc}_{output_file}"
+
+            loc_output_file = os.path.join(output_folder, loc_of)
+
+            with pd.ExcelWriter(loc_output_file) as writer:
+                repl_loc_review.to_excel(writer, sheet_name=f"{loc}_repl_loc_review", index=False)
+                repl_meth_review.to_excel(writer, sheet_name=f"{loc}_repl_meth_review", index=False)
+                track_bin_review.to_excel(writer, sheet_name=f"{loc}_track_bin_review", index=False)
+
+
+        df.to_excel(output_file, index=False)
+        logging.info(f"Data from table '{table_name}' successfully exported to '{output_file}'")
+        
+        """cursor = connection.cursor()
         with open(output_file, 'w') as f:
             cursor.copy_expert(f"COPY {table_name} TO STDOUT WITH CSV HEADER", f)
         logging.info(f"Data from table '{table_name}' successfully exported to '{output_file}'")
-        
+        """
+
     except psycopg2.Error as e:
         logging.error(f"Error exporting data from table '{table_name}' to CSV file")
         logging.error(e)

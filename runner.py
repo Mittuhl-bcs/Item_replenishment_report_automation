@@ -14,7 +14,7 @@ import logging
 
 current_time = datetime.now()
 fcurrent_time = current_time.strftime("%Y-%m-%d-%H-%M-%S")
-log_file = os.path.join("D:\\Replenishment_auotmation_scripts\\Logging_information", f"Runner_{fcurrent_time}")
+log_file = os.path.join("D:\\Item_replenishment_report_automation\\Logging_information", f"Runner_{fcurrent_time}")
 logging.basicConfig(filename=log_file, level=logging.DEBUG)
 
 
@@ -46,7 +46,8 @@ def runner(suppliers):
     logging.info(f"Processed the data for each suppliers - result {process_flag}")
 
     table_name = "replenishment_items"
-    output_file = f"D:\\Replenishment_reports\\Replenishment_report_{day}_{month}_{year}.csv"
+    output_file = f"D:\\Replenishment_reports\\Replenishment_report_{day}_{month}_{year}.xlsx"
+    output_folder = f"D:\\Replenishment_reports\\Replenishment_report_{day}_{month}_{year}"
 
 
 
@@ -56,7 +57,7 @@ def runner(suppliers):
         connection = PGS_connector.connect_to_postgres()
         
         # download the data as a csv file
-        csv_file = PGS_connector.load_data_csv(connection, table_name, output_file)
+        csv_file = PGS_connector.load_data_csv(connection, table_name, output_file, output_folder)
 
         logging.info("Loaded data from the database to local csv files")
 
