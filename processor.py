@@ -143,7 +143,7 @@ class checker:
         
         current_time = datetime.now()
         fcurrent_time = current_time.strftime("%Y-%m-%d-%H-%M-%S")
-        log_file = os.path.join("D:\\Replenishment_auotmation_scripts\\Logging_information", f"Processor_{fcurrent_time}")
+        log_file = os.path.join("D:\\Item_replenishment_report_automation\\Logging_information", f"Processor_{fcurrent_time}")
         logging.basicConfig(filename=log_file, level=logging.DEBUG)
 
 
@@ -190,7 +190,7 @@ class checker:
             logging.info("Processed data successfully inserted into PGS database")
 
             # specify the file path to save the CSV file
-            csv_file_path = f"D:\\Replenishment_auotmation_scripts\\data_temp\\{prefix}_{cname}_data.xlsx"
+            csv_file_path = f"D:\\Item_replenishment_report_automation\\data_temp\\{prefix}_{cname}_data.xlsx"
 
             files_saved.append(csv_file_path)
 
