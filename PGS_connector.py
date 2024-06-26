@@ -11,7 +11,7 @@ import os
 
 current_time = datetime.now()
 fcurrent_time = current_time.strftime("%Y-%m-%d-%H-%M-%S")
-log_file = os.path.join("D:\\Replenishment_auotmation_scripts\\Logging_information", f"PGS_connector_{fcurrent_time}.log")
+log_file = os.path.join("D:\\Item_replenishment_report_automation\\Logging_information", f"PGS_connector_{fcurrent_time}.log")
 logging.basicConfig(filename=log_file, level=logging.DEBUG)
 
 
@@ -128,6 +128,7 @@ def insert_data_into_db(df, conn):
 
 def load_data_csv(connection, table_name, output_file, output_folder):
 
+    cursor = connection.cursor()
 
     try:
 
@@ -147,6 +148,7 @@ def load_data_csv(connection, table_name, output_file, output_folder):
             repl_loc_review = df[df["repl_loc_review"] == "Y"]
             repl_meth_review = df[df["repl_meth_review"] == "Y"]
             track_bin_review = df[df["track_bin_review"] == "Y"]
+            
 
             loc_of = f"{loc}_{output_file}"
 
@@ -161,8 +163,10 @@ def load_data_csv(connection, table_name, output_file, output_folder):
         df.to_excel(output_file, index=False)
         logging.info(f"Data from table '{table_name}' successfully exported to '{output_file}'")
         
+        
+
         """
-        cursor = connection.cursor()
+        
         with open(output_file, 'w') as f:
             cursor.copy_expert(f"COPY {table_name} TO STDOUT WITH CSV HEADER", f)
         logging.info(f"Data from table '{table_name}' successfully exported to '{output_file}'")

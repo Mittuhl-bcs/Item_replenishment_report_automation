@@ -1,0 +1,8 @@
+pandas
+numpy
+dask
+DateTime
+pyodbc
+psycopg2
+dask[dataframe]
+openpyxl
