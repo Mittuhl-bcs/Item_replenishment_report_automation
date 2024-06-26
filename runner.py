@@ -47,7 +47,7 @@ def runner(suppliers):
 
     table_name = "replenishment_items"
     output_file = f"D:\\Replenishment_reports\\Replenishment_report_{day}_{month}_{year}.xlsx"
-    output_folder = f"D:\\Replenishment_reports\\Replenishment_report_{day}_{month}_{year}"
+    output_folder = f"D:\\Replenishment_reports\\Replenishment_reports_{day}_{month}_{year}"
 
 
 
