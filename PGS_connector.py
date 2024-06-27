@@ -44,83 +44,103 @@ def connect_to_postgres():
 
 
 
-def insert_data_into_db(df, conn):
-
-    
-    # mapping the curson through connection
-    cursor = conn.cursor()
+def insert_data_into_db(df, conn, new_loop):
 
 
-    logging.info("Connected to PGS database, now will insert the data.")
-
-
-    # insert into table command in here
-    df = df[df["discrepancy_type"] != "All right"]
-
-    
-    # declare variables here
-    for index, row in df.iterrows():
-        location_id = row['location_id']
-        location_name = row['location_name']
-        inv_mast_uid = row['inv_mast_uid']
-        item_id = row['item_id']
-        item_desc = row['item_desc']
-        on_vendor_price_book = row['on_vendor_price_book']
-        product_type = row['product_type']
-        primary_supplier_id = row['primary_supplier_id']
-        supplier_name = row['supplier_name']
-        replenishment_method = row['replenishment_method']
-        replenishment_location = row['replenishment_location']
-        inv_min = row['inv_min']
-        inv_max = row['inv_max']
-        stockable = row['stockable']
-        sellable = row['sellable']
-        buyable = row['buy']
-        qty_on_hand = row['qty_on_hand']
-        track_bins = row['track_bins']
-        primary_bin = row['primary_bin']
-        repl_loc_review = row['repl_loc_review']
-        repl_meth_review = row['repl_meth_review']
-        track_bin_review = row['track_bin_review']
-        prefix = row["Prefix_of_company"]
-        discrepancy_type = row["discrepancy_type"]
+    if new_loop == "yes" :
         
-        #print(f"This is the row data: {buyable}")
+        # mapping the curson through connection
+        cursor = conn.cursor()
+    
+        sql = """
+        delete from replenishment_items
+        """
 
-        # Assuming you have a table named "replenishment" with corresponding columns
-        # Construct the SQL INSERT statement
+        # Execute the INSERT statement with the values from the current row
+        cursor.execute(sql)
 
-        try:
-            sql = """
-            INSERT INTO replenishment_items (location_id, location_name, inv_mast_uid, item_id, item_desc,
-                                        on_vendor_price_book, product_type, primary_supplier_id, supplier_name,
-                                        replenishment_method, replenishment_location, inv_min, inv_max,
-                                        stockable, sellable, buyable, qty_on_hand, track_bins, primary_bin,
-                                        repl_loc_review, repl_meth_review, track_bin_review, prefix, discrepancy_type)
-            VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
-            """
+        # close the cursor
+        cursor.close()
 
-            # Execute the INSERT statement with the values from the current row
-            cursor.execute(sql, (location_id, location_name, inv_mast_uid, item_id, item_desc,
-                                on_vendor_price_book, product_type, primary_supplier_id, supplier_name,
-                                replenishment_method, replenishment_location, inv_min, inv_max,
-                                stockable, sellable, buyable, qty_on_hand, track_bins, primary_bin,
-                                repl_loc_review, repl_meth_review, track_bin_review, prefix, discrepancy_type))
-
-            
-            # Commit the transaction to persist the changes
-            conn.commit()
-
-        except psycopg2.Error as e:
-            conn.rollback()  # Rollback any changes if an error occurs
-            print(f"Error inserting data into database: {e}")
-
-            raise ValueError(e)
-
-        #finally:
-            #cursor.close()
 
     
+    else :
+
+        
+        # mapping the curson through connection
+        cursor = conn.cursor()
+
+
+        logging.info("Connected to PGS database, now will insert the data.")
+
+
+        # insert into table command in here
+        df = df[df["discrepancy_type"] != "All right"]
+
+        
+        # declare variables here
+        for index, row in df.iterrows():
+            location_id = row['location_id']
+            location_name = row['location_name']
+            inv_mast_uid = row['inv_mast_uid']
+            item_id = row['item_id']
+            item_desc = row['item_desc']
+            on_vendor_price_book = row['on_vendor_price_book']
+            product_type = row['product_type']
+            primary_supplier_id = row['primary_supplier_id']
+            supplier_name = row['supplier_name']
+            replenishment_method = row['replenishment_method']
+            replenishment_location = row['replenishment_location']
+            inv_min = row['inv_min']
+            inv_max = row['inv_max']
+            stockable = row['stockable']
+            sellable = row['sellable']
+            buyable = row['buy']
+            qty_on_hand = row['qty_on_hand']
+            track_bins = row['track_bins']
+            primary_bin = row['primary_bin']
+            repl_loc_review = row['repl_loc_review']
+            repl_meth_review = row['repl_meth_review']
+            track_bin_review = row['track_bin_review']
+            prefix = row["Prefix_of_company"]
+            discrepancy_type = row["discrepancy_type"]
+            
+            #print(f"This is the row data: {buyable}")
+
+            # Assuming you have a table named "replenishment" with corresponding columns
+            # Construct the SQL INSERT statement
+
+            try:
+                sql = """
+                INSERT INTO replenishment_items (location_id, location_name, inv_mast_uid, item_id, item_desc,
+                                            on_vendor_price_book, product_type, primary_supplier_id, supplier_name,
+                                            replenishment_method, replenishment_location, inv_min, inv_max,
+                                            stockable, sellable, buyable, qty_on_hand, track_bins, primary_bin,
+                                            repl_loc_review, repl_meth_review, track_bin_review, prefix, discrepancy_type)
+                VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+                """
+
+                # Execute the INSERT statement with the values from the current row
+                cursor.execute(sql, (location_id, location_name, inv_mast_uid, item_id, item_desc,
+                                    on_vendor_price_book, product_type, primary_supplier_id, supplier_name,
+                                    replenishment_method, replenishment_location, inv_min, inv_max,
+                                    stockable, sellable, buyable, qty_on_hand, track_bins, primary_bin,
+                                    repl_loc_review, repl_meth_review, track_bin_review, prefix, discrepancy_type))
+
+                
+                # Commit the transaction to persist the changes
+                conn.commit()
+
+            except psycopg2.Error as e:
+                conn.rollback()  # Rollback any changes if an error occurs
+                print(f"Error inserting data into database: {e}")
+
+                raise ValueError(e)
+
+            #finally:
+                #cursor.close()
+
+        
     # returns true only if successful
     return True
 
@@ -128,7 +148,7 @@ def insert_data_into_db(df, conn):
 
 def load_data_csv(connection, table_name, output_file, output_folder):
 
-    # cursor = connection.cursor()
+    cursor = connection.cursor()
 
     try:
 
@@ -137,12 +157,13 @@ def load_data_csv(connection, table_name, output_file, output_folder):
 
         loc_ids = tot_df["location_id"].unique().tolist()
 
-        print(f"print thise : {loc_ids}")
+        print(f"{loc_ids}")
 
         # Check if the directory exists
         if not os.path.exists(output_folder):
             os.makedirs(output_folder)
             print(f"Created directory: {output_folder}")
+
 
         for loc in loc_ids:
             df = tot_df[tot_df["location_id"] == loc]
@@ -151,10 +172,10 @@ def load_data_csv(connection, table_name, output_file, output_folder):
             repl_meth_review = df[df["repl_meth_review"] == "Y"]
             track_bin_review = df[df["track_bin_review"] == "Y"]
             
-            locfor = str(int(loc))
-
+            # Convert location_id to string without decimals
+            loc_str = str(int(float(loc)))
             loc_of = f"{loc}_{output_file}"
-            print(loc_of)
+            print(loc_str)
             
 
             loc_output_file = os.path.join(output_folder, loc_of)
@@ -186,8 +207,8 @@ def load_data_csv(connection, table_name, output_file, output_folder):
 
     finally:
 
-        # if cursor:
-          #  cursor.close()
+        if cursor:
+            cursor.close()
         
         if connection:
             connection.close()

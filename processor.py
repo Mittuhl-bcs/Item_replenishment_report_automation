@@ -146,13 +146,12 @@ class checker:
         return df
 
 
-    def main(self, supplier_ids):
+    def main(self, supplier_ids, new_loop):
         
         current_time = datetime.now()
         fcurrent_time = current_time.strftime("%Y-%m-%d-%H-%M-%S")
         log_file = os.path.join("D:\\Item_replenishment_report_automation\\Logging_information", f"Processor_{fcurrent_time}")
         logging.basicConfig(filename=log_file, level=logging.DEBUG)
-
 
 
 
@@ -192,7 +191,10 @@ class checker:
 
             # instead of saving it into csv files, do the insert command to db
             # getting the connection for pgs and not the ssms database and inserting into database
-            result = PGS_connector.insert_data_into_db(df, conn)           
+            result = PGS_connector.insert_data_into_db(df, conn, new_loop) 
+
+            # changing the new_loop value for the rest of the suppliers data to be inserted
+            new_loop = "no"          
 
             logging.info("Processed data successfully inserted into PGS database")
 
@@ -210,6 +212,9 @@ class checker:
 
             print(f"Process finished for - {prefix}")
             print(" ")
+
+            # increase the count
+            count_run = count_run + 1
 
         conn.close()
         # once the process is finished

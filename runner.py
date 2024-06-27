@@ -21,7 +21,7 @@ logging.basicConfig(filename=log_file, level=logging.INFO)
 
 
 
-def runner(suppliers):
+def runner(suppliers, new_loop):
 
     current_time = datetime.now()
     start_timef = current_time.strftime("%Y-%m-%d-%H-%M-%S")
@@ -100,15 +100,19 @@ if __name__ == "__main__":
     
     
     parser = argparse.ArgumentParser(description= "Replenishment checks")
-    suppliers_file = parser.add_argument("--suppliers_file", help="Give the suppliers file")
+    suppliers_file = parser.add_argument("--suppliers_file", help="Give the suppliers file", required=True)
+    new_loop = parser.add_argument("--new_loop", help="Give the suppliers file", required=True)
+
 
     args = parser.parse_args()
     suppliers_file = args.suppliers_file
+    new_loop = args.new_loop
 
-    
+
+        
     """# open the suppliers file that has supplier ids
     with open(suppliers_file, "r+") as sup_file:
         suppliers = json.load(sup_file)
 """
-    runner(suppliers_file)
+    runner(suppliers_file, new_loop)
         
