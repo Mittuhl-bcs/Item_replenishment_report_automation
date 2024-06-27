@@ -128,7 +128,7 @@ def insert_data_into_db(df, conn):
 
 def load_data_csv(connection, table_name, output_file, output_folder):
 
-    cursor = connection.cursor()
+    # cursor = connection.cursor()
 
     try:
 
@@ -136,6 +136,8 @@ def load_data_csv(connection, table_name, output_file, output_folder):
         tot_df = pd.read_sql(query, connection)
 
         loc_ids = tot_df["location_id"].unique().tolist()
+
+        print(f"print thise : {loc_ids}")
 
         # Check if the directory exists
         if not os.path.exists(output_folder):
@@ -149,9 +151,11 @@ def load_data_csv(connection, table_name, output_file, output_folder):
             repl_meth_review = df[df["repl_meth_review"] == "Y"]
             track_bin_review = df[df["track_bin_review"] == "Y"]
             
+            locfor = str(int(loc))
 
             loc_of = f"{loc}_{output_file}"
-            print(int(loc))
+            print(loc_of)
+            
 
             loc_output_file = os.path.join(output_folder, loc_of)
 
@@ -182,8 +186,8 @@ def load_data_csv(connection, table_name, output_file, output_folder):
 
     finally:
 
-        if cursor:
-            cursor.close()
+        # if cursor:
+          #  cursor.close()
         
         if connection:
             connection.close()

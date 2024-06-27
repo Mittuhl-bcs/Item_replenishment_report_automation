@@ -11,6 +11,13 @@ import re
 
 
 
+current_time = datetime.now()
+fcurrent_time = current_time.strftime("%Y-%m-%d-%H-%M-%S")
+log_file = os.path.join("D:\\Item_replenishment_report_automation\\Logging_information", f"Processor_{fcurrent_time}.log")
+logging.basicConfig(filename=log_file, level=logging.DEBUG)
+
+
+
 class checker:
 
     def reader(self, supplier_id):

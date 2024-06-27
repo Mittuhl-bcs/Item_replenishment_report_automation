@@ -15,7 +15,7 @@ import logging
 current_time = datetime.now()
 fcurrent_time = current_time.strftime("%Y-%m-%d-%H-%M-%S")
 log_file = os.path.join("D:\\Item_replenishment_report_automation\\Logging_information", f"Runner_{fcurrent_time}")
-logging.basicConfig(filename=log_file, level=logging.DEBUG)
+logging.basicConfig(filename=log_file, level=logging.INFO)
 
 
 
