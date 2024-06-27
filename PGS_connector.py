@@ -157,7 +157,7 @@ def load_data_csv(connection, table_name, output_file, output_folder):
 
         loc_ids = tot_df["location_id"].unique().tolist()
 
-        print(f"{loc_ids}")
+        # print(f"{loc_ids}")
 
         # Check if the directory exists
         if not os.path.exists(output_folder):
@@ -173,18 +173,19 @@ def load_data_csv(connection, table_name, output_file, output_folder):
             track_bin_review = df[df["track_bin_review"] == "Y"]
             
             # Convert location_id to string without decimals
-            loc_str = str(int(float(loc)))
+            #loc_str = str(int(float(loc)))
             loc_of = f"{loc}_{output_file}"
-            print(loc_str)
+            
             
 
             loc_output_file = os.path.join(output_folder, loc_of)
 
             with pd.ExcelWriter(loc_output_file) as writer:
+                df.to_excel(writer, sheet_name = f"{loc}_All_data", index = False)
                 repl_loc_review.to_excel(writer, sheet_name=f"{loc}_repl_loc_review", index=False)
                 repl_meth_review.to_excel(writer, sheet_name=f"{loc}_repl_meth_review", index=False)
                 track_bin_review.to_excel(writer, sheet_name=f"{loc}_track_bin_review", index=False)
-                df.to_excel(writer, sheet_name = f"{loc}_All_data", index = False)
+                
 
 
         # df.to_excel(output_file, index=False)

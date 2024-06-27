@@ -41,7 +41,7 @@ def runner(suppliers, new_loop):
 
     # get the process_flag to download the data from the db as a csv file
     checkerob = processor.checker()
-    process_flag = checkerob.main(suppliers)
+    process_flag = checkerob.main(suppliers, new_loop)
 
     logging.info(f"Processed the data for each suppliers - result {process_flag}")
 

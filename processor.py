@@ -57,6 +57,8 @@ class checker:
     def modifier(df):
         
         # handle all the auxilary column modifications and transformations here
+        df["location_id"] = df["location_id"].astype(int).astype(str)
+        
         return df
 
 
@@ -213,8 +215,7 @@ class checker:
             print(f"Process finished for - {prefix}")
             print(" ")
 
-            # increase the count
-            count_run = count_run + 1
+            
 
         conn.close()
         # once the process is finished
