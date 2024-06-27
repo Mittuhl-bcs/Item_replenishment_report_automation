@@ -151,6 +151,7 @@ def load_data_csv(connection, table_name, output_file, output_folder):
             
 
             loc_of = f"{loc}_{output_file}"
+            print(int(loc))
 
             loc_output_file = os.path.join(output_folder, loc_of)
 
@@ -158,9 +159,10 @@ def load_data_csv(connection, table_name, output_file, output_folder):
                 repl_loc_review.to_excel(writer, sheet_name=f"{loc}_repl_loc_review", index=False)
                 repl_meth_review.to_excel(writer, sheet_name=f"{loc}_repl_meth_review", index=False)
                 track_bin_review.to_excel(writer, sheet_name=f"{loc}_track_bin_review", index=False)
+                df.to_excel(writer, sheet_name = f"{loc}_All_data", index = False)
 
 
-        df.to_excel(output_file, index=False)
+        # df.to_excel(output_file, index=False)
         logging.info(f"Data from table '{table_name}' successfully exported to '{output_file}'")
         
         
