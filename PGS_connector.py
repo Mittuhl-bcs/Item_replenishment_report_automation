@@ -218,4 +218,4 @@ def load_data_csv(connection, table_name, output_file, output_folder):
     # if needed
     # connection.close()
 
-    return output_file
+    return output_folder

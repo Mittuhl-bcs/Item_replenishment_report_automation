@@ -57,12 +57,12 @@ def runner(suppliers, new_loop):
         connection = PGS_connector.connect_to_postgres()
         
         # download the data as a csv file
-        csv_file = PGS_connector.load_data_csv(connection, table_name, output_file, output_folder)
+        final_output_folder = PGS_connector.load_data_csv(connection, table_name, output_file, output_folder)
 
         logging.info("Loaded data from the database to local csv files")
 
         # send in mails with the file as the attachment
-        #result = mailer.send_email(csv_file)
+        result = mailer.sender(final_output_folder)
         result = True
 
     else:

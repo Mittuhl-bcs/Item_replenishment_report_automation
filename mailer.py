@@ -74,14 +74,14 @@ def send_email(attachment_filename, attachment_display_name):
 
 
 
-if __name__ == "__main__":
+def sender(folder_path):
     current_time = datetime.now()
     day = current_time.day
     month =  current_time.strftime("%b")
     year = current_time.year
 
-    folder_path = f"D:\\Replenishment_reports\\Replenishment_reports_{day}_{month}_{year}"
-    zip_filename = f"D:\\Replenishment_reports\\Replenishment_reports_{day}_{month}_{year}"
+    #folder_path = f"D:\\Replenishment_reports\\Replenishment_reports_{day}_{month}_{year}"
+    zip_filename = folder_path
     zip_filepath = zip_folder(folder_path, zip_filename)
     attachment_display_name = f"Replenishment_reports_{day}_{month}_{year}.zip"
     send_email(zip_filepath, attachment_display_name)
