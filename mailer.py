@@ -4,22 +4,31 @@ from email.mime.text import MIMEText
 from email.mime.base import MIMEBase
 from email import encoders
 import json
+import shutil
+import os
+from datetime import datetime
 
 
-def send_email(attachment_filename):
+def zip_folder(folder_path, zip_filename):
+    # Create a zip file from the specified folder
+    shutil.make_archive(zip_filename, 'zip', folder_path)
+    return zip_filename + '.zip'
 
-    # get the credentials stored:
-    with open("D:\\Replenishment_auotmation_scripts\\Credentials.json", "r+") as crednt:
+
+def send_email(attachment_filename, attachment_display_name):
+
+    # Get the credentials stored:
+    with open("D:\\Item_replenishment_report_automation\\Credentials.json", "r+") as crednt:
         data = json.load(crednt)
         password = data["password"]
 
     try:
-        # credentials for usage
-        sender_email = "datasensei.bcs@gmail.com"  # Your Gmail address
-        sender_password = password  # Password for the sender's Gmail account
+        # Credentials for usage
+        sender_email = "Bcs.notifications@building-controls.com"  # Outlook email address
+        sender_password = password  
         receiver_emails = ["mithul.murugaadev@building-controls.com"]  # List of recipient email addresses
         subject = 'Replenishment data - checked reports'
-        body = 'A report of discrepancies in the Replenishment data is generated and shared through this mail. Please find the attached CSV file.'
+        body = 'A report of discrepancies in the Replenishment data is generated and shared through this mail. Please find the attached ZIP file.'
 
         # Set up the MIME
         message = MIMEMultipart()
@@ -30,7 +39,7 @@ def send_email(attachment_filename):
         # Attach the body
         message.attach(MIMEText(body, 'plain'))
 
-        # Open the file to be sent
+        # Open the ZIP file to be sent
         with open(attachment_filename, 'rb') as attachment:
             # Add file as application/octet-stream
             # Email client can usually download this automatically as attachment
@@ -41,14 +50,14 @@ def send_email(attachment_filename):
         encoders.encode_base64(part)
 
         # Add header as key/value pair to attachment part
-        part.add_header('Content-Disposition', f'attachment; filename= {attachment_filename}')
+        part.add_header('Content-Disposition', f'attachment; filename="{attachment_display_name}"')
 
         # Add attachment to message and convert message to string
         message.attach(part)
         text = message.as_string()
 
-        # Log in to SMTP server (for Gmail)
-        server = smtplib.SMTP('smtp.gmail.com', 587)
+        # Log in to SMTP server (for Outlook)
+        server = smtplib.SMTP('smtp.office365.com', 587)
         server.starttls()
         server.login(sender_email, sender_password)
 
@@ -61,9 +70,18 @@ def send_email(attachment_filename):
         return True
 
     except Exception as e:
-        raise ValueError(e)
+        raise ValueError(f'Failed to send email: {e}')
 
 
-# Example usage:
-# attachment_filename = 'example.csv'
-# send_email(attachment_filename)
+
+if __name__ == "__main__":
+    current_time = datetime.now()
+    day = current_time.day
+    month =  current_time.strftime("%b")
+    year = current_time.year
+
+    folder_path = f"D:\\Replenishment_reports\\Replenishment_reports_{day}_{month}_{year}"
+    zip_filename = f"D:\\Replenishment_reports\\Replenishment_reports_{day}_{month}_{year}"
+    zip_filepath = zip_folder(folder_path, zip_filename)
+    attachment_display_name = f"Replenishment_reports_{day}_{month}_{year}.zip"
+    send_email(zip_filepath, attachment_display_name)
