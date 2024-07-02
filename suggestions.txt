@@ -1,6 +1,0 @@
-No special characters in the company name - MGE
-prefixes for all the companies
-names for all the companies
-
-setting a mail for sending in the reports
-enabling smtp server call for my mail

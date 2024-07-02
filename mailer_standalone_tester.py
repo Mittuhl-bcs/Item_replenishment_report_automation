@@ -8,18 +8,18 @@ import json
 
 def send_email(attachment_filename):
 
-    # get the credentials stored:
+    # Get the credentials stored:
     with open("D:\\Replenishment_auotmation_scripts\\Credentials.json", "r+") as crednt:
         data = json.load(crednt)
         password = data["password"]
 
     try:
-        # credentials for usage
-        sender_email = "datasensei.bcs@gmail.com"  # Your Gmail address
-        sender_password = password  # Password for the sender's Gmail account
+        # Credentials for usage
+        sender_email = "mithul.murugaadev@building-controls.com"  # Outlook email address
+        sender_password = password  
         receiver_emails = ["mithul.murugaadev@building-controls.com"]  # List of recipient email addresses
         subject = 'Replenishment data - checked reports'
-        body = 'A report of discrepancies in the Replenishment data is generated and shared through this mail. Please find the attached CSV file.'
+        body = 'A report of discrepancies in the Replenishment data is generated and shared through this mail. Please find the attached ZIP file.'
 
         # Set up the MIME
         message = MIMEMultipart()
@@ -30,7 +30,7 @@ def send_email(attachment_filename):
         # Attach the body
         message.attach(MIMEText(body, 'plain'))
 
-        # Open the file to be sent
+        # Open the ZIP file to be sent
         with open(attachment_filename, 'rb') as attachment:
             # Add file as application/octet-stream
             # Email client can usually download this automatically as attachment
@@ -47,8 +47,8 @@ def send_email(attachment_filename):
         message.attach(part)
         text = message.as_string()
 
-        # Log in to SMTP server (for Gmail)
-        server = smtplib.SMTP('smtp.gmail.com', 587)
+        # Log in to SMTP server (for Outlook)
+        server = smtplib.SMTP('smtp.office365.com', 587)
         server.starttls()
         server.login(sender_email, sender_password)
 
@@ -62,9 +62,8 @@ def send_email(attachment_filename):
 
     except Exception as e:
         raise ValueError(f'Failed to send email: {e}')
-    
-    
+
 
 if __name__ == "__main__":
-    attachment_filename = "C:\\Users\\Vserve-User\\Downloads\\supplier_review.xlsx"
+    attachment_filename = "C:\\Users\\Vserve-User\\Downloads\\supplier_review.zip"
     send_email(attachment_filename)
