@@ -56,6 +56,8 @@ def insert_data_into_db(df, conn, new_loop):
         delete from replenishment_items
         """
 
+        print("Executed the new loop command")
+
         # Execute the INSERT statement with the values from the current row
         cursor.execute(sql)
 
