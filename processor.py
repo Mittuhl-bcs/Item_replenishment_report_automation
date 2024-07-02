@@ -83,7 +83,7 @@ class checker:
                 discrepancy_types.append("Replenishment location")
                 discrepancy_flag = 1
 
-            if df.loc[index, "replenishment_method"] not in ["Min/Max", "Up To"]:
+            if df.loc[index, "replenishment_method"] not in ["Min/Max", "Up To", "OP/OQ"]:
                 discrepancy_types.append("Replenishment method")
                 discrepancy_flag = 1
 
