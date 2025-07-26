@@ -1,5 +1,6 @@
 import processor
 import BCS_SSMS_connector
+import postgres_stats_update as pgsstats
 import mailer
 import os
 import sys
@@ -89,6 +90,18 @@ def runner(suppliers, new_loop):
     # Calculate remaining seconds
     remaining_seconds = round(seconds % 60, 0)
 
+    dbname = 'BCS_items'
+    user = 'postgres'
+    password = 'post@BCS'
+    host = 'localhost' 
+    port = '5432'  # Default PostgreSQL port is 5432
+
+    conn_stat = pgsstats.connect_to_postgres(dbname, user, password, host, port)
+
+    # read the stats into the stats table
+    pgsstats.read_data_into_table(conn_stat, output_file)
+    conn_stat.close()
+
     print(f"Process ended - {fcurrent_time}")
 
     print("_____________________________________________________________")
@@ -115,4 +128,5 @@ if __name__ == "__main__":
         suppliers = json.load(sup_file)
 """
     runner(suppliers_file, new_loop)
+
         

@@ -1,4 +1,4 @@
-This is an replenishment check automation
+This is an replenishment items check automation
 
 
 ```
